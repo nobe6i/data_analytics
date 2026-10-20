@@ -1,0 +1,146 @@
+customer_id,note_date,note_text,note_type
+C1000,2026-08-11,Customer asked for documentation link,neutral
+C1001,2026-08-26,Budget review flagged subscription cost,risk
+C1003,2026-06-22,Customer asked for documentation link,neutral
+C1003,2026-06-30,Several login complaints after workflow change,risk
+C1004,2026-07-03,Competitor mentioned in QBR,risk
+C1005,2026-08-28,Positive QBR; exploring expansion,up
+C1006,2026-07-30,No major update from account team,neutral
+C1007,2026-07-25,Power users want API access,up
+C1008,2026-07-21,Training completed; adoption improving,up
+C1008,2026-07-09,Routine check-in completed,neutral
+C1010,2026-06-09,Requested more seats next quarter,up
+C1010,2026-08-23,Admin reports low adoption in two departments,risk
+C1011,2026-06-08,Support follow-up scheduled,neutral
+C1013,2026-06-02,Several login complaints after workflow change,risk
+C1013,2026-06-04,Requested more seats next quarter,up
+C1014,2026-07-14,No major update from account team,neutral
+C1015,2026-08-01,Support follow-up scheduled,neutral
+C1015,2026-08-21,Training completed; adoption improving,up
+C1016,2026-07-30,Asked about enterprise reporting add-on,up
+C1017,2026-08-04,Competitor mentioned in QBR,risk
+C1019,2026-08-20,Power users want API access,up
+C1020,2026-06-05,Customer asked for documentation link,neutral
+C1021,2026-06-07,Support follow-up scheduled,neutral
+C1021,2026-07-04,Support follow-up scheduled,neutral
+C1023,2026-07-14,Invoice contact updated,neutral
+C1024,2026-07-17,Routine check-in completed,neutral
+C1025,2026-06-14,No major update from account team,neutral
+C1026,2026-07-12,Requested more seats next quarter,up
+C1027,2026-07-22,Champion left; renewal discussion delayed,risk
+C1028,2026-06-23,Invoice contact updated,neutral
+C1029,2026-07-06,Training completed; adoption improving,up
+C1030,2026-08-25,Power users want API access,up
+C1030,2026-07-15,No major update from account team,neutral
+C1031,2026-06-28,Several login complaints after workflow change,risk
+C1032,2026-08-28,Power users want API access,up
+C1033,2026-06-27,Champion left; renewal discussion delayed,risk
+C1034,2026-06-03,Routine check-in completed,neutral
+C1036,2026-07-21,Training completed; adoption improving,up
+C1037,2026-07-02,Budget review flagged subscription cost,risk
+C1038,2026-08-01,Routine check-in completed,neutral
+C1039,2026-06-03,No major update from account team,neutral
+C1039,2026-07-26,Champion left; renewal discussion delayed,risk
+C1041,2026-06-01,Training completed; adoption improving,up
+C1042,2026-08-29,Several login complaints after workflow change,risk
+C1043,2026-07-25,Several login complaints after workflow change,risk
+C1043,2026-06-17,Customer asked for documentation link,neutral
+C1044,2026-08-09,Positive QBR; exploring expansion,up
+C1045,2026-08-12,Routine check-in completed,neutral
+C1046,2026-06-03,Competitor mentioned in QBR,risk
+C1047,2026-08-29,Customer asked for documentation link,neutral
+C1048,2026-07-03,Several login complaints after workflow change,risk
+C1049,2026-06-11,Asked about enterprise reporting add-on,up
+C1050,2026-06-07,Admin reports low adoption in two departments,risk
+C1051,2026-07-30,Routine check-in completed,neutral
+C1052,2026-08-08,Support follow-up scheduled,neutral
+C1053,2026-06-19,Routine check-in completed,neutral
+C1053,2026-06-20,Customer asked for documentation link,neutral
+C1054,2026-08-14,Support follow-up scheduled,neutral
+C1054,2026-07-08,Support follow-up scheduled,neutral
+C1055,2026-06-25,Asked about enterprise reporting add-on,up
+C1057,2026-08-19,Power users want API access,up
+C1058,2026-07-03,Several login complaints after workflow change,risk
+C1058,2026-06-08,Positive QBR; exploring expansion,up
+C1059,2026-07-18,Routine check-in completed,neutral
+C1061,2026-07-21,Competitor mentioned in QBR,risk
+C1062,2026-06-21,No major update from account team,neutral
+C1062,2026-08-03,Positive QBR; exploring expansion,up
+C1063,2026-06-04,Budget review flagged subscription cost,risk
+C1063,2026-06-17,Champion left; renewal discussion delayed,risk
+C1064,2026-06-06,Training completed; adoption improving,up
+C1064,2026-07-07,Asked about enterprise reporting add-on,up
+C1065,2026-07-30,Training completed; adoption improving,up
+C1065,2026-08-24,Invoice contact updated,neutral
+C1066,2026-06-18,Budget review flagged subscription cost,risk
+C1067,2026-08-06,No major update from account team,neutral
+C1068,2026-06-27,Admin reports low adoption in two departments,risk
+C1069,2026-06-09,Asked about enterprise reporting add-on,up
+C1070,2026-07-12,Training completed; adoption improving,up
+C1071,2026-06-24,Routine check-in completed,neutral
+C1072,2026-07-06,Asked about enterprise reporting add-on,up
+C1072,2026-06-08,Routine check-in completed,neutral
+C1073,2026-08-26,Support follow-up scheduled,neutral
+C1075,2026-06-25,Power users want API access,up
+C1076,2026-07-28,No major update from account team,neutral
+C1079,2026-06-08,Positive QBR; exploring expansion,up
+C1080,2026-08-07,Competitor mentioned in QBR,risk
+C1081,2026-07-25,Budget review flagged subscription cost,risk
+C1084,2026-06-17,Customer asked for documentation link,neutral
+C1084,2026-07-28,Power users want API access,up
+C1087,2026-06-12,Routine check-in completed,neutral
+C1087,2026-06-01,Requested more seats next quarter,up
+C1088,2026-06-01,Champion left; renewal discussion delayed,risk
+C1089,2026-06-22,Invoice contact updated,neutral
+C1089,2026-08-15,Customer asked for documentation link,neutral
+C1090,2026-06-29,Champion left; renewal discussion delayed,risk
+C1094,2026-06-16,Support follow-up scheduled,neutral
+C1094,2026-07-09,Competitor mentioned in QBR,risk
+C1095,2026-06-23,Training completed; adoption improving,up
+C1097,2026-06-10,Support follow-up scheduled,neutral
+C1097,2026-06-01,No major update from account team,neutral
+C1098,2026-07-02,No major update from account team,neutral
+C1099,2026-07-05,Requested more seats next quarter,up
+C1099,2026-07-31,Routine check-in completed,neutral
+C1100,2026-08-04,Customer asked for documentation link,neutral
+C1101,2026-06-29,Support follow-up scheduled,neutral
+C1101,2026-07-05,Admin reports low adoption in two departments,risk
+C1102,2026-06-26,Invoice contact updated,neutral
+C1103,2026-06-07,Power users want API access,up
+C1105,2026-07-06,Invoice contact updated,neutral
+C1106,2026-06-10,Support follow-up scheduled,neutral
+C1107,2026-07-19,Power users want API access,up
+C1108,2026-06-24,Champion left; renewal discussion delayed,risk
+C1109,2026-07-25,Positive QBR; exploring expansion,up
+C1109,2026-06-30,Routine check-in completed,neutral
+C1110,2026-08-25,Asked about enterprise reporting add-on,up
+C1110,2026-07-19,Budget review flagged subscription cost,risk
+C1112,2026-08-10,Routine check-in completed,neutral
+C1112,2026-08-22,Support follow-up scheduled,neutral
+C1113,2026-06-12,Competitor mentioned in QBR,risk
+C1114,2026-07-23,Support follow-up scheduled,neutral
+C1115,2026-07-23,Invoice contact updated,neutral
+C1116,2026-06-05,Admin reports low adoption in two departments,risk
+C1117,2026-06-18,Power users want API access,up
+C1118,2026-06-17,No major update from account team,neutral
+C1118,2026-07-10,Competitor mentioned in QBR,risk
+C1120,2026-06-29,Invoice contact updated,neutral
+C1122,2026-08-25,Asked about enterprise reporting add-on,up
+C1122,2026-07-15,Routine check-in completed,neutral
+C1123,2026-07-31,Power users want API access,up
+C1124,2026-08-29,No major update from account team,neutral
+C1125,2026-06-13,Training completed; adoption improving,up
+C1126,2026-08-11,Positive QBR; exploring expansion,up
+C1128,2026-08-01,Invoice contact updated,neutral
+C1129,2026-07-26,Asked about enterprise reporting add-on,up
+C1130,2026-07-14,Requested more seats next quarter,up
+C1131,2026-08-19,Training completed; adoption improving,up
+C1131,2026-07-06,Power users want API access,up
+C1132,2026-07-17,No major update from account team,neutral
+C1133,2026-07-24,Routine check-in completed,neutral
+C1134,2026-08-14,Routine check-in completed,neutral
+C1135,2026-06-24,Support follow-up scheduled,neutral
+C1136,2026-07-06,Several login complaints after workflow change,risk
+C1137,2026-06-28,Requested more seats next quarter,up
+C1139,2026-08-12,Routine check-in completed,neutral
+C1139,2026-08-16,Several login complaints after workflow change,risk
