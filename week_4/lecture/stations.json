@@ -1,0 +1,110 @@
+[
+  {
+    "charger_code": "CHG-001",
+    "location_name": "Pleasanton Charge Hub",
+    "city_name": "Pleasanton",
+    "state_label": "CA",
+    "ports_total": 8,
+    "activated_on": "2023-08-24",
+    "ops_zone": "West"
+  },
+  {
+    "charger_code": "CHG-002",
+    "location_name": "Fremont Charge Hub",
+    "city_name": "Fremont",
+    "state_label": "CA",
+    "ports_total": 4,
+    "activated_on": "2022-12-28",
+    "ops_zone": "West"
+  },
+  {
+    "charger_code": "CHG-003",
+    "location_name": "San Ramon Charge Hub",
+    "city_name": "San Ramon",
+    "state_label": "California",
+    "ports_total": 6,
+    "activated_on": "2023-12-21",
+    "ops_zone": "West"
+  },
+  {
+    "charger_code": "CHG-004",
+    "location_name": "Livermore Charge Hub",
+    "city_name": "Livermore",
+    "state_label": "CA",
+    "ports_total": 6,
+    "activated_on": "2024-05-01",
+    "ops_zone": "West"
+  },
+  {
+    "charger_code": "CHG-005",
+    "location_name": "Hayward Charge Hub",
+    "city_name": "Hayward",
+    "state_label": "CA",
+    "ports_total": "8 ports",
+    "activated_on": "2022-11-12",
+    "ops_zone": "West"
+  },
+  {
+    "charger_code": "CHG-006",
+    "location_name": "Dublin Charge Hub",
+    "city_name": "Dublin",
+    "state_label": "CA",
+    "ports_total": 6,
+    "activated_on": "2021-10-09",
+    "ops_zone": "West"
+  },
+  {
+    "charger_code": "CHG-007",
+    "location_name": "Walnut Creek Charge Hub",
+    "city_name": "Walnut Creek",
+    "state_label": "CA",
+    "ports_total": 10,
+    "activated_on": "11/05/2023",
+    "ops_zone": "West"
+  },
+  {
+    "charger_code": "CHG-008",
+    "location_name": "San Jose Charge Hub",
+    "city_name": "San Jose",
+    "state_label": "CA",
+    "ports_total": 4,
+    "activated_on": "2021-03-25",
+    "ops_zone": "West"
+  },
+  {
+    "charger_code": "CHG-009",
+    "location_name": "Oakland Charge Hub",
+    "city_name": "Oakland",
+    "state_label": "CA",
+    "ports_total": 10,
+    "activated_on": "2023-05-02",
+    "ops_zone": ""
+  },
+  {
+    "charger_code": "CHG-010",
+    "location_name": "  Oakland Charge Hub ",
+    "city_name": "Berkeley",
+    "state_label": "CA",
+    "ports_total": 10,
+    "activated_on": "2024-09-01",
+    "ops_zone": "West"
+  },
+  {
+    "charger_code": "CHG-011",
+    "location_name": "Reno Charge Hub",
+    "city_name": "Reno",
+    "state_label": "NV",
+    "ports_total": 8,
+    "activated_on": "2023-01-02",
+    "ops_zone": "West"
+  },
+  {
+    "charger_code": "CHG-012",
+    "location_name": "Portland Charge Hub",
+    "city_name": "Portland",
+    "state_label": "OR",
+    "ports_total": 8,
+    "activated_on": "2023-05-17",
+    "ops_zone": "West"
+  }
+]
