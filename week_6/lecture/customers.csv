@@ -1,0 +1,141 @@
+customer_id,company_name,signup_date,industry,company_size,region,acquisition_channel
+C1000,Evergreen Analytics 0,2024-07-30,Financial Services,51-200,West,Outbound
+C1001,Falcon Group 1,2024-12-01,Professional Services,201-1000,South,Referral
+C1002,Civic Partners 2,2024-05-19,Healthcare,51-200,South,Outbound
+C1003,Falcon Systems 3,2024-02-10,Retail,1001+,West,Webinar
+C1004,Bright Analytics 4,2024-02-08,Professional Services,201-1000,Northeast,Partner
+C1005,Harbor Partners 5,2024-09-05,Professional Services,1-50,South,Partner
+C1006,Summit Analytics 6,2024-09-02,Healthcare,1-50,South,Webinar
+C1007,Evergreen Partners 7,2024-07-22,Manufacturing,1-50,West,Partner
+C1008,Bright Health 8,2025-05-20,Financial Services,201-1000,Northeast,Outbound
+C1009,Nimbus Works 9,2024-11-01,Retail,1-50,West,Referral
+C1010,Nimbus Group 10,2024-11-16,Healthcare,1-50,International,Referral
+C1011,Delta Analytics 11,2024-04-26,Retail,51-200,Midwest,Partner
+C1012,Civic Works 12,2024-08-14,Healthcare,201-1000,Midwest,Organic Search
+C1013,Civic Retail 13,2024-03-02,Education,201-1000,South,Referral
+C1014,Harbor Systems 14,2025-01-08,Healthcare,1001+,International,Partner
+C1015,Civic Health 15,2025-01-19,Professional Services,1-50,Northeast,Webinar
+C1016,Falcon Retail 16,2024-11-05,Manufacturing,1-50,South,Organic Search
+C1017,Civic Partners 17,2025-02-25,Education,1-50,International,Organic Search
+C1018,Civic Retail 18,2025-05-21,Retail,51-200,Northeast,Webinar
+C1019,Summit Labs 19,2025-04-02,Manufacturing,51-200,Midwest,Webinar
+C1020,Nimbus Labs 20,2024-10-11,Professional Services,201-1000,Midwest,Referral
+C1021,Falcon Group 21,2024-11-30,Professional Services,1001+,Northeast,Partner
+C1022,Apex Labs 22,2025-01-24,Professional Services,201-1000,South,Organic Search
+C1023,Orchid Systems 23,2024-02-12,Manufacturing,1-50,South,Paid Search
+C1024,Evergreen Group 24,2024-08-16,Education,1-50,Midwest,Partner
+C1025,Bright Partners 25,2024-03-23,Healthcare,201-1000,South,Outbound
+C1026,Civic Partners 26,2025-05-29,Retail,1-50,Northeast,Referral
+C1027,Nimbus Health 27,2024-08-04,Retail,1001+,West,Paid Search
+C1028,Nimbus Partners 28,2025-04-21,Retail,1-50,West,Organic Search
+C1029,Falcon Labs 29,2024-10-25,Financial Services,1001+,International,Organic Search
+C1030,Nimbus Systems 30,2024-10-04,Financial Services,201-1000,West,Webinar
+C1031,Summit Partners 31,2024-04-17,Retail,1-50,West,Webinar
+C1032,Nimbus Analytics 32,2024-05-28,Healthcare,201-1000,Northeast,Paid Search
+C1033,Civic Works 33,2024-08-19,Manufacturing,51-200,South,Outbound
+C1034,Delta Labs 34,2025-05-01,Healthcare,1-50,International,Organic Search
+C1035,Nimbus Systems 35,2024-10-01,Healthcare,51-200,South,Webinar
+C1036,Orchid Partners 36,2025-01-13,Retail,51-200,South,Organic Search
+C1037,Delta Analytics 37,2024-05-07,Education,51-200,West,Paid Search
+C1038,Nimbus Works 38,2024-11-26,Education,201-1000,Midwest,Outbound
+C1039,Civic Partners 39,2025-06-26,Retail,201-1000,International,Referral
+C1040,Apex Works 40,2024-08-14,Financial Services,1-50,West,Outbound
+C1041,Bright Health 41,2024-03-30,Professional Services,1-50,Midwest,Outbound
+C1042,Delta Works 42,2025-01-08,Education,1-50,South,Outbound
+C1043,Civic Systems 43,2024-04-17,Education,51-200,Midwest,Organic Search
+C1044,Bright Group 44,2024-08-17,Healthcare,1-50,Midwest,Outbound
+C1045,Civic Health 45,2024-12-26,Financial Services,201-1000,West,Partner
+C1046,Nimbus Partners 46,2024-10-15,Financial Services,1001+,West,Organic Search
+C1047,Civic Health 47,2024-08-30,Healthcare,51-200,South,Referral
+C1048,Evergreen Retail 48,2024-12-18,Professional Services,51-200,South,Paid Search
+C1049,Evergreen Group 49,2024-03-04,Manufacturing,51-200,West,Webinar
+C1050,Evergreen Group 50,2024-04-18,Financial Services,51-200,Midwest,Referral
+C1051,Apex Retail 51,2025-04-26,Manufacturing,1-50,West,Partner
+C1052,Orchid Health 52,2024-02-13,Manufacturing,1001+,Midwest,Referral
+C1053,Civic Works 53,2024-03-24,Retail,1-50,South,Webinar
+C1054,Harbor Health 54,2025-03-18,Healthcare,51-200,Northeast,Outbound
+C1055,Summit Retail 55,2024-10-31,Financial Services,1-50,Midwest,Webinar
+C1056,Orchid Partners 56,2025-01-25,Professional Services,51-200,Midwest,Partner
+C1057,Summit Partners 57,2024-04-09,Retail,51-200,Northeast,Outbound
+C1058,Apex Systems 58,2024-08-14,Manufacturing,201-1000,West,Paid Search
+C1059,Summit Systems 59,2024-03-31,Manufacturing,51-200,Midwest,Outbound
+C1060,Delta Works 60,2024-03-18,Professional Services,51-200,West,Referral
+C1061,Harbor Partners 61,2025-01-14,Retail,201-1000,West,Webinar
+C1062,Falcon Analytics 62,2024-01-04,Retail,1-50,Midwest,Organic Search
+C1063,Delta Health 63,2024-03-15,Professional Services,1001+,South,Outbound
+C1064,Orchid Health 64,2025-01-20,Professional Services,51-200,International,Organic Search
+C1065,Civic Partners 65,2024-04-14,Financial Services,1-50,West,Webinar
+C1066,Delta Analytics 66,2025-02-22,Professional Services,51-200,Midwest,Paid Search
+C1067,Bright Systems 67,2025-03-31,Healthcare,51-200,West,Paid Search
+C1068,Harbor Works 68,2024-02-08,Professional Services,1001+,Northeast,Webinar
+C1069,Civic Group 69,2025-05-29,Retail,51-200,West,Referral
+C1070,Falcon Partners 70,2024-03-25,Retail,51-200,South,Outbound
+C1071,Apex Retail 71,2025-06-20,Education,1-50,International,Referral
+C1072,Apex Analytics 72,2024-12-06,Professional Services,201-1000,Northeast,Organic Search
+C1073,Delta Labs 73,2024-10-30,Education,1-50,West,Outbound
+C1074,Summit Group 74,2025-05-14,Healthcare,51-200,West,Organic Search
+C1075,Nimbus Works 75,2024-08-11,Education,1-50,Midwest,Webinar
+C1076,Falcon Labs 76,2025-03-10,Manufacturing,51-200,Northeast,Paid Search
+C1077,Bright Works 77,2025-02-13,Financial Services,1-50,Midwest,Webinar
+C1078,Nimbus Health 78,2024-01-10,Financial Services,201-1000,Northeast,Organic Search
+C1079,Summit Partners 79,2024-05-14,Professional Services,201-1000,Midwest,Paid Search
+C1080,Orchid Analytics 80,2024-11-22,Healthcare,201-1000,South,Paid Search
+C1081,Apex Retail 81,2024-09-28,Healthcare,201-1000,Northeast,Paid Search
+C1082,Harbor Works 82,2025-04-24,Retail,51-200,Midwest,Organic Search
+C1083,Nimbus Group 83,2024-08-01,Financial Services,201-1000,West,Webinar
+C1084,Nimbus Group 84,2025-05-06,Retail,1-50,West,Organic Search
+C1085,Civic Analytics 85,2024-03-03,Healthcare,1-50,Northeast,Outbound
+C1086,Apex Labs 86,2024-09-19,Manufacturing,1-50,Midwest,Paid Search
+C1087,Nimbus Group 87,2024-11-27,Professional Services,1-50,West,Webinar
+C1088,Orchid Retail 88,2024-06-25,Professional Services,1-50,Midwest,Partner
+C1089,Summit Systems 89,2024-12-16,Manufacturing,1-50,Midwest,Organic Search
+C1090,Nimbus Retail 90,2024-11-15,Education,1001+,Northeast,Referral
+C1091,Nimbus Works 91,2024-03-14,Manufacturing,51-200,South,Paid Search
+C1092,Apex Partners 92,2024-05-06,Professional Services,51-200,West,Outbound
+C1093,Falcon Works 93,2025-01-28,Healthcare,201-1000,South,Referral
+C1094,Apex Analytics 94,2025-06-09,Manufacturing,1001+,West,Webinar
+C1095,Delta Analytics 95,2025-06-28,Manufacturing,51-200,West,Webinar
+C1096,Apex Health 96,2024-06-26,Manufacturing,201-1000,Northeast,Organic Search
+C1097,Falcon Labs 97,2025-05-19,Healthcare,51-200,South,Webinar
+C1098,Nimbus Systems 98,2024-01-15,Retail,51-200,South,Outbound
+C1099,Delta Health 99,2025-02-26,Healthcare,1001+,West,Organic Search
+C1100,Evergreen Labs 100,2025-03-14,Healthcare,51-200,West,Paid Search
+C1101,Nimbus Health 101,2024-11-15,Retail,1-50,Northeast,Paid Search
+C1102,Summit Health 102,2025-03-18,Manufacturing,1-50,Midwest,Referral
+C1103,Nimbus Health 103,2024-05-10,Professional Services,1001+,Northeast,Outbound
+C1104,Apex Health 104,2024-03-22,Financial Services,1001+,Northeast,Referral
+C1105,Bright Group 105,2025-01-17,Financial Services,51-200,Northeast,Referral
+C1106,Apex Partners 106,2025-05-30,Education,201-1000,West,Paid Search
+C1107,Apex Health 107,2025-02-17,Education,201-1000,Northeast,Referral
+C1108,Evergreen Partners 108,2025-01-19,Manufacturing,1-50,International,Outbound
+C1109,Bright Group 109,2024-07-08,Education,1-50,Midwest,Webinar
+C1110,Evergreen Works 110,2024-10-21,Financial Services,51-200,Midwest,Referral
+C1111,Falcon Group 111,2024-04-19,Education,1-50,International,Webinar
+C1112,Falcon Systems 112,2024-06-30,Healthcare,201-1000,West,Outbound
+C1113,Apex Retail 113,2024-04-13,Professional Services,201-1000,Midwest,Paid Search
+C1114,Apex Retail 114,2024-07-30,Retail,201-1000,Northeast,Referral
+C1115,Falcon Group 115,2025-06-11,Retail,201-1000,West,Organic Search
+C1116,Delta Systems 116,2024-06-12,Financial Services,1-50,South,Webinar
+C1117,Nimbus Health 117,2024-06-10,Healthcare,1-50,Northeast,Paid Search
+C1118,Civic Health 118,2025-02-09,Healthcare,1-50,Midwest,Organic Search
+C1119,Nimbus Systems 119,2024-02-17,Professional Services,51-200,West,Referral
+C1120,Evergreen Systems 120,2024-12-31,Financial Services,201-1000,West,Outbound
+C1121,Apex Partners 121,2024-06-08,Healthcare,201-1000,South,Organic Search
+C1122,Delta Group 122,2024-06-26,Professional Services,1-50,Northeast,Paid Search
+C1123,Evergreen Health 123,2024-05-20,Healthcare,51-200,Northeast,Paid Search
+C1124,Civic Group 124,2025-01-18,Education,51-200,South,Referral
+C1125,Apex Systems 125,2024-09-24,Manufacturing,1001+,South,Paid Search
+C1126,Falcon Retail 126,2024-11-19,Financial Services,201-1000,Northeast,Organic Search
+C1127,Delta Labs 127,2024-09-02,Manufacturing,1-50,South,Outbound
+C1128,Falcon Retail 128,2025-02-20,Manufacturing,201-1000,International,Organic Search
+C1129,Civic Group 129,2024-12-12,Healthcare,1-50,Northeast,Paid Search
+C1130,Summit Systems 130,2025-06-12,Retail,1001+,International,Organic Search
+C1131,Bright Analytics 131,2025-06-23,Manufacturing,1001+,South,Outbound
+C1132,Delta Group 132,2024-08-08,Manufacturing,51-200,International,Partner
+C1133,Civic Partners 133,2025-02-28,Professional Services,51-200,Midwest,Partner
+C1134,Falcon Systems 134,2024-12-28,Healthcare,1-50,International,Paid Search
+C1135,Civic Labs 135,2025-06-03,Professional Services,1-50,South,Referral
+C1136,Bright Group 136,2024-03-29,Professional Services,201-1000,South,Webinar
+C1137,Nimbus Labs 137,2025-06-08,Financial Services,1-50,South,Organic Search
+C1138,Delta Labs 138,2025-05-09,Manufacturing,51-200,West,Webinar
+C1139,Falcon Analytics 139,2024-12-20,Manufacturing,51-200,International,Organic Search
