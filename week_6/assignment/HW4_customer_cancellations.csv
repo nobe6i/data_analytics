@@ -1,0 +1,2509 @@
+customer_id,tenure_months,monthly_spend,total_spend,service_plan,region,customer_service_contacts,payment_method,satisfaction_rating,cancelled
+CH00001,55,74.17,4186.14,Standard,Mountain,3,Credit Card,4,0
+CH00002,7,133.92,889.7,Premium,West,0,Invoice,3,1
+CH00003,70,130.84,8942.38,Premium,West,2,Bank Transfer,2,0
+CH00004,48,53.52,2644.69,Basic,Southwest,0,Invoice,4,0
+CH00005,16,122.43,1826.35,Premium,West,0,Invoice,5,0
+CH00006,26,122.96,3027.02,Premium,Northwest,3,Credit Card,4,0
+CH00007,43,91.88,3787.61,Standard,Northwest,3,Bank Transfer,4,0
+CH00008,37,88.33,3314.81,Standard,Mountain,0,Bank Transfer,3,0
+CH00009,53,94.92,4921.45,Standard,Northwest,0,Credit Card,5,0
+CH00010,64,36.63,2282.55,Basic,Northwest,3,Invoice,4,1
+CH00011,29,44.22,1345.11,Basic,West,2,Bank Transfer,4,0
+CH00012,48,84.3,3647.69,Standard,Mountain,2,Bank Transfer,4,0
+CH00013,42,140.95,6152.93,Premium,Mountain,1,Invoice,2,1
+CH00014,23,87.15,1896.99,Standard,Mountain,2,Credit Card,4,0
+CH00015,55,66.72,3701.48,Standard,Southwest,2,Bank Transfer,3,0
+CH00016,42,44.34,1934.94,Basic,Northwest,2,Bank Transfer,3,0
+CH00017,3,27.33,81.27,Basic,Southwest,2,Bank Transfer,5,0
+CH00018,45,85.73,3759.77,Standard,Northwest,2,Bank Transfer,4,0
+CH00019,32,74.0,2379.15,Standard,Southwest,0,AutoPay,3,0
+CH00020,66,90.23,6056.41,Standard,Northwest,1,AutoPay,3,0
+CH00021,38,39.51,1555.49,Basic,Northwest,4,Invoice,3,1
+CH00022,22,75.63,1602.05,Standard,Northwest,3,Bank Transfer,4,0
+CH00023,14,34.48,476.23,Basic,West,4,AutoPay,3,1
+CH00024,46,106.0,4777.53,Premium,Northwest,1,Credit Card,4,0
+CH00025,25,42.02,1086.11,Basic,Southwest,2,Bank Transfer,4,1
+CH00026,26,63.37,1498.31,Standard,Mountain,2,Bank Transfer,5,0
+CH00027,29,55.81,1678.73,Basic,Southwest,2,AutoPay,5,0
+CH00028,19,66.22,1278.09,Standard,Northwest,0,Credit Card,5,0
+CH00029,6,41.19,223.48,Basic,West,1,Invoice,2,0
+CH00030,56,41.41,2306.11,Basic,Mountain,1,Bank Transfer,5,0
+CH00031,39,76.84,3092.06,Standard,Southwest,1,Bank Transfer,4,0
+CH00032,38,114.13,3944.78,Premium,Southwest,5,Bank Transfer,3,1
+CH00033,60,63.98,3655.37,Basic,Mountain,1,Invoice,3,1
+CH00034,51,120.71,6181.82,Premium,West,2,Invoice,1,0
+CH00035,47,82.19,3518.81,Standard,West,1,Credit Card,3,0
+CH00036,2,39.71,81.41,Basic,Southwest,1,Bank Transfer,4,1
+CH00037,29,39.68,1120.82,Basic,Mountain,0,AutoPay,2,0
+CH00038,32,73.7,2263.22,Standard,Northwest,1,AutoPay,5,0
+CH00039,64,114.52,7252.56,Premium,Northwest,2,Credit Card,5,0
+CH00040,22,49.96,1147.54,Basic,Mountain,1,Invoice,5,0
+CH00041,63,110.63,6419.5,Premium,West,1,Credit Card,4,0
+CH00042,42,40.52,1652.75,Basic,Southwest,1,Invoice,4,0
+CH00043,28,44.22,1140.99,Basic,Northwest,0,Credit Card,4,1
+CH00044,9,47.18,386.61,Basic,Mountain,1,AutoPay,3,0
+CH00045,31,119.51,3775.72,Premium,West,0,Invoice,3,1
+CH00046,66,42.01,2770.1,Basic,Northwest,1,AutoPay,4,0
+CH00047,4,114.04,448.92,Premium,West,2,Bank Transfer,5,0
+CH00048,13,62.5,836.39,Basic,Mountain,1,Bank Transfer,3,1
+CH00049,34,92.03,2997.99,Standard,Mountain,0,Invoice,5,0
+CH00050,30,72.78,1972.65,Standard,Northwest,1,Credit Card,4,0
+CH00051,29,68.68,1930.79,Standard,Mountain,1,AutoPay,4,0
+CH00052,36,53.27,1884.4,Basic,West,0,Bank Transfer,4,0
+CH00053,23,48.78,1113.32,Basic,Northwest,0,AutoPay,3,0
+CH00054,10,73.51,696.62,Standard,West,4,Credit Card,3,1
+CH00055,14,85.19,1182.21,Standard,Mountain,0,AutoPay,4,0
+CH00056,17,36.51,627.14,Basic,Mountain,0,Bank Transfer,4,0
+CH00057,14,112.7,1499.35,Premium,West,2,Credit Card,3,1
+CH00058,31,78.56,2217.61,Standard,Northwest,0,Invoice,5,0
+CH00059,1,44.23,43.53,Basic,West,0,Credit Card,2,1
+CH00060,30,52.58,1612.4,Basic,Mountain,1,AutoPay,3,0
+CH00061,25,133.42,3314.36,Premium,Southwest,1,AutoPay,3,0
+CH00062,67,58.68,3699.33,Basic,West,2,Credit Card,3,0
+CH00063,30,118.84,3288.85,Premium,Mountain,2,Credit Card,4,0
+CH00064,24,43.52,1096.47,Basic,Mountain,0,Invoice,3,1
+CH00065,71,65.73,4658.1,Standard,West,4,Invoice,3,1
+CH00066,17,53.9,836.26,Basic,Mountain,0,Credit Card,4,0
+CH00067,29,35.26,927.92,Basic,West,2,Credit Card,3,0
+CH00068,19,42.69,797.59,Basic,Mountain,0,Bank Transfer,3,0
+CH00069,62,120.77,7639.55,Premium,Mountain,1,AutoPay,2,1
+CH00070,72,53.88,3735.36,Basic,Northwest,1,Credit Card,3,0
+CH00071,6,113.07,624.09,Premium,West,2,Bank Transfer,5,0
+CH00072,12,79.06,947.24,Standard,Southwest,0,Invoice,4,0
+CH00073,60,52.08,3132.57,Basic,West,1,Invoice,3,0
+CH00074,58,77.94,4106.62,Standard,West,2,Bank Transfer,2,1
+CH00075,21,96.9,2100.35,Standard,West,2,Credit Card,3,0
+CH00076,61,112.97,6204.6,Premium,West,0,AutoPay,4,0
+CH00077,55,42.91,2442.34,Basic,Northwest,0,Invoice,4,0
+CH00078,26,60.54,1480.78,Basic,Southwest,1,Invoice,4,0
+CH00079,18,71.81,1339.89,Standard,West,2,Credit Card,3,0
+CH00080,52,64.81,3457.95,Standard,Mountain,1,Credit Card,3,0
+CH00081,31,126.47,3877.58,Premium,Northwest,0,Credit Card,4,0
+CH00082,62,79.88,5014.76,Standard,West,0,AutoPay,3,0
+CH00083,59,47.24,2902.09,Basic,Mountain,4,Bank Transfer,4,0
+CH00084,25,51.2,1322.22,Basic,West,1,Invoice,5,0
+CH00085,50,87.43,4309.59,Standard,West,3,Invoice,3,1
+CH00086,12,123.19,1540.49,Premium,Mountain,0,Credit Card,3,0
+CH00087,6,37.73,217.25,Basic,West,3,Invoice,4,1
+CH00088,29,84.45,2385.72,Standard,West,0,Credit Card,4,0
+CH00089,40,80.92,3287.03,Standard,Southwest,1,Invoice,4,0
+CH00090,46,50.07,2103.77,Basic,Mountain,0,AutoPay,2,1
+CH00091,2,74.24,143.69,Standard,West,2,AutoPay,2,0
+CH00092,60,80.62,4826.09,Standard,West,0,AutoPay,2,0
+CH00093,38,91.32,3420.94,Standard,West,3,Credit Card,5,0
+CH00094,7,80.46,587.09,Standard,Northwest,2,Invoice,5,0
+CH00095,9,63.03,521.17,Standard,West,2,Bank Transfer,2,1
+CH00096,22,95.91,2137.58,Standard,Southwest,2,AutoPay,4,0
+CH00097,57,61.75,3481.45,Basic,Southwest,0,AutoPay,4,0
+CH00098,56,37.71,1939.39,Basic,Northwest,0,Credit Card,4,0
+CH00099,7,47.56,346.77,Basic,Mountain,3,Credit Card,3,1
+CH00100,63,38.75,2340.58,Basic,Northwest,0,Credit Card,5,0
+CH00101,58,115.04,6753.59,Premium,Northwest,1,Credit Card,4,0
+CH00102,6,54.5,312.54,Basic,West,1,Bank Transfer,3,1
+CH00103,27,61.02,1596.31,Basic,Mountain,1,Invoice,3,0
+CH00104,58,49.4,2768.1,Basic,Southwest,0,Bank Transfer,3,0
+CH00105,4,81.11,296.11,Standard,Northwest,2,Credit Card,3,1
+CH00106,4,79.33,306.11,Standard,Mountain,1,AutoPay,3,0
+CH00107,30,105.55,2897.52,Premium,West,0,AutoPay,4,0
+CH00108,51,109.01,5687.44,Premium,Northwest,2,Invoice,5,0
+CH00109,49,55.65,2780.09,Basic,Mountain,0,AutoPay,5,0
+CH00110,12,31.56,368.1,Basic,Northwest,0,AutoPay,3,1
+CH00111,8,45.65,348.76,Basic,Northwest,0,AutoPay,2,1
+CH00112,10,119.22,1244.42,Premium,Southwest,1,AutoPay,3,0
+CH00113,52,84.07,4586.44,Standard,Southwest,0,Bank Transfer,5,0
+CH00114,2,42.46,87.63,Basic,Southwest,1,Invoice,5,1
+CH00115,31,36.94,1117.68,Basic,Northwest,3,Invoice,4,0
+CH00116,56,47.23,2591.6,Basic,West,2,Bank Transfer,3,0
+CH00117,58,83.08,4938.52,Standard,Mountain,0,Bank Transfer,2,0
+CH00118,61,53.43,3195.23,Basic,West,1,AutoPay,5,0
+CH00119,23,86.22,1981.18,Standard,Southwest,3,Invoice,4,0
+CH00120,52,80.29,4029.43,Standard,Northwest,1,Bank Transfer,5,0
+CH00121,35,119.52,4015.16,Premium,West,0,Invoice,999,0
+CH00122,17,83.93,1332.8,Standard,Northwest,2,Credit Card,3,0
+CH00123,14,23.36,325.38,Basic,Mountain,3,Bank Transfer,4,0
+CH00124,10,72.2,682.84,Standard,Southwest,4,Bank Transfer,3,1
+CH00125,53,82.19,4297.33,Standard,Mountain,3,AutoPay,4,0
+CH00126,4,46.87,187.31,Basic,West,2,Credit Card,3,0
+CH00127,51,62.81,3097.88,Standard,West,2,AutoPay,4,0
+CH00128,63,96.45,5573.01,Standard,Southwest,2,AutoPay,5,0
+CH00129,50,62.3,3127.51,Basic,Northwest,1,Invoice,3,0
+CH00130,45,81.11,3473.87,Standard,Mountain,1,Credit Card,3,0
+CH00131,27,109.74,2726.67,Premium,Southwest,1,Bank Transfer,3,0
+CH00132,49,119.39,5431.67,Premium,Mountain,0,Credit Card,3,0
+CH00133,48,50.16,2446.01,Basic,Southwest,0,Credit Card,4,1
+CH00134,35,48.85,1745.38,Basic,Mountain,4,Bank Transfer,3,0
+CH00135,40,110.06,4076.56,Premium,Mountain,3,Invoice,4,1
+CH00136,26,52.42,1333.67,Basic,Northwest,2,Bank Transfer,3,0
+CH00137,27,41.45,1022.17,Basic,Mountain,2,AutoPay,4,1
+CH00138,16,117.41,1746.67,Premium,Southwest,0,Bank Transfer,5,0
+CH00139,56,43.54,2216.68,Basic,Southwest,0,Invoice,4,0
+CH00140,16,31.37,505.35,Basic,Southwest,1,Credit Card,4,0
+CH00141,13,50.45,678.03,Basic,Mountain,2,AutoPay,5,1
+CH00142,22,71.58,1607.74,Standard,Northwest,2,AutoPay,4,1
+CH00143,2,66.64,131.79,Standard,West,2,AutoPay,4,0
+CH00144,17,111.52,1711.6,Premium,Mountain,0,AutoPay,4,0
+CH00145,65,30.68,1810.58,Basic,Mountain,2,Bank Transfer,3,0
+CH00146,69,116.55,8134.99,Premium,Mountain,2,AutoPay,5,0
+CH00147,39,88.56,3613.05,Standard,Mountain,0,Credit Card,3,0
+CH00148,66,82.84,5538.57,Standard,Northwest,2,Credit Card,3,0
+CH00149,10,56.92,569.73,Basic,Mountain,2,Bank Transfer,5,0
+CH00150,50,108.38,5010.71,Premium,West,0,AutoPay,3,0
+CH00151,8,51.93,425.52,Basic,West,1,Credit Card,4,0
+CH00152,50,50.6,2489.17,Basic,West,1,Credit Card,4,0
+CH00153,25,75.63,1874.61,Standard,Southwest,1,AutoPay,4,0
+CH00154,67,126.58,8088.69,Premium,West,0,Bank Transfer,5,0
+CH00155,42,25.33,994.17,Basic,Mountain,3,AutoPay,3,0
+CH00156,15,76.21,1041.3,Standard,Mountain,1,Bank Transfer,4,0
+CH00157,66,96.23,6523.51,Standard,Southwest,0,Credit Card,3,0
+CH00158,72,87.06,5841.58,Standard,West,0,Credit Card,5,0
+CH00159,71,119.66,7801.61,Premium,Northwest,2,AutoPay,2,0
+CH00160,19,49.71,943.49,Basic,Mountain,1,Invoice,5,0
+CH00161,3,84.26,257.97,Standard,Mountain,3,Bank Transfer,3,0
+CH00162,36,62.81,2089.37,Basic,Southwest,0,Invoice,3,0
+CH00163,45,40.14,1650.41,Basic,West,0,Credit Card,3,1
+CH00164,39,124.22,4863.25,Premium,Southwest,2,Invoice,4,0
+CH00165,47,77.3,3577.94,Standard,Northwest,3,Credit Card,4,0
+CH00166,25,58.45,1380.96,Basic,Southwest,1,Invoice,3,1
+CH00167,12,73.86,926.32,Standard,West,2,Bank Transfer,5,0
+CH00168,58,81.82,4278.58,Standard,Southwest,3,AutoPay,4,0
+CH00169,43,57.57,2571.63,Basic,West,3,Bank Transfer,5,0
+CH00170,59,120.41,6752.98,Premium,Mountain,3,Invoice,4,0
+CH00171,59,46.61,2606.69,Basic,Mountain,3,Bank Transfer,4,1
+CH00172,33,119.22,3634.79,Premium,Southwest,1,Invoice,3,0
+CH00173,37,47.13,1675.03,Basic,Northwest,1,Bank Transfer,3,0
+CH00174,11,63.33,681.58,Standard,West,0,AutoPay,3,0
+CH00175,52,111.66,5753.09,Premium,Southwest,2,Bank Transfer,4,0
+CH00176,23,39.62,933.08,Basic,West,3,AutoPay,3,0
+CH00177,57,57.07,2941.17,Basic,Mountain,0,Bank Transfer,4,0
+CH00178,21,86.34,1866.86,Standard,Mountain,2,Credit Card,4,0
+CH00179,4,92.24,375.73,Standard,Southwest,0,Invoice,3,0
+CH00180,1,56.76,51.79,Basic,Mountain,3,Bank Transfer,3,1
+CH00181,47,41.1,1882.85,Basic,West,3,Bank Transfer,5,1
+CH00182,52,64.5,3086.67,Standard,Northwest,3,AutoPay,3,1
+CH00183,16,58.92,971.62,Basic,West,0,Invoice,3,0
+CH00184,66,122.14,7528.19,Premium,Northwest,4,Invoice,3,1
+CH00185,10,64.1,619.28,Standard,West,0,AutoPay,4,0
+CH00186,47,56.85,2595.09,Basic,Mountain,0,AutoPay,3,1
+CH00187,45,57.15,2393.97,Basic,Northwest,3,Invoice,3,1
+CH00188,69,71.47,4897.29,Standard,Southwest,3,Invoice,3,0
+CH00189,51,36.21,1718.92,Basic,Northwest,1,Credit Card,3,0
+CH00190,71,134.97,10020.73,Premium,Mountain,2,AutoPay,4,0
+CH00191,28,39.55,1115.77,Basic,Northwest,0,Invoice,3,0
+CH00192,10,90.47,826.23,Standard,Northwest,1,Credit Card,4,0
+CH00193,61,78.02,4662.5,Standard,West,1,Bank Transfer,4,1
+CH00194,16,90.45,1483.8,Standard,West,3,Invoice,4,0
+CH00195,63,74.92,4813.6,Standard,Northwest,3,Bank Transfer,5,0
+CH00196,58,86.98,4960.89,Standard,Southwest,2,AutoPay,3,0
+CH00197,2,47.1,86.9,Basic,Mountain,0,Credit Card,4,0
+CH00198,72,93.01,6272.0,Standard,Southwest,3,Credit Card,3,1
+CH00199,55,34.74,1898.23,Basic,Southwest,1,AutoPay,3,0
+CH00200,16,138.78,2066.17,Premium,West,2,Invoice,4,0
+CH00201,30,42.23,1237.99,Basic,Northwest,3,Credit Card,4,0
+CH00202,9,33.21,272.06,Basic,West,0,Invoice,3,0
+CH00203,28,43.45,1130.17,Basic,Southwest,2,Credit Card,4,0
+CH00204,4,92.48,352.54,Standard,West,0,Bank Transfer,3,1
+CH00205,71,76.34,5300.95,Standard,Mountain,2,Bank Transfer,3,0
+CH00206,38,98.0,3845.8,Standard,West,0,AutoPay,4,0
+CH00207,68,62.25,3875.99,Basic,Mountain,0,Credit Card,5,1
+CH00208,20,110.54,2205.31,Premium,Northwest,3,Bank Transfer,4,1
+CH00209,54,40.86,2142.59,Basic,Northwest,0,Credit Card,3,0
+CH00210,64,64.08,3800.78,Standard,Southwest,0,Invoice,4,0
+CH00211,63,-77.39,4459.19,Standard,West,0,Invoice,4,0
+CH00212,18,131.34,2461.21,Premium,West,0,Invoice,4,0
+CH00213,8,77.32,589.9,Standard,Southwest,0,Invoice,4,0
+CH00214,55,128.9,7042.02,Premium,Southwest,0,Invoice,4,1
+CH00215,6,52.56,295.34,Basic,Mountain,4,Invoice,4,0
+CH00216,45,52.54,2395.42,Basic,West,0,Bank Transfer,4,0
+CH00217,45,93.32,3868.96,Standard,Mountain,1,Credit Card,4,0
+CH00218,61,64.7,3929.39,Standard,Northwest,0,Invoice,3,0
+CH00219,26,68.52,1828.21,Standard,Northwest,2,AutoPay,4,0
+CH00220,31,46.25,1428.86,Basic,West,1,Invoice,5,1
+CH00221,22,91.58,2034.58,Standard,Mountain,0,Invoice,2,0
+CH00222,62,81.33,5152.56,Standard,Southwest,1,Credit Card,4,1
+CH00223,32,74.2,2354.65,Standard,Northwest,2,Credit Card,2,0
+CH00224,49,49.06,2170.4,Basic,Mountain,0,Credit Card,3,1
+CH00225,27,64.2,1654.82,Standard,Southwest,2,AutoPay,3,0
+CH00226,57,76.29,4520.93,Standard,West,0,AutoPay,4,0
+CH00227,27,62.44,1575.7,Standard,West,2,Credit Card,2,1
+CH00228,18,30.79,532.67,Basic,Southwest,1,Credit Card,4,0
+CH00229,44,55.85,2417.27,Basic,Mountain,0,Invoice,4,0
+CH00230,37,77.05,2605.06,Standard,Southwest,1,Invoice,3,0
+CH00231,2,60.73,122.98,Standard,Southwest,1,Credit Card,3,1
+CH00232,29,65.59,1832.39,Standard,Southwest,0,Bank Transfer,3,0
+CH00233,20,124.22,2351.52,Premium,Northwest,0,AutoPay,4,0
+CH00234,52,67.82,3464.75,Standard,Northwest,0,Credit Card,3,0
+CH00235,39,59.68,2246.3,Basic,West,1,Credit Card,5,0
+CH00236,50,113.85,5889.72,Premium,West,0,Credit Card,5,0
+CH00237,45,58.16,2661.03,Basic,Mountain,1,Credit Card,4,0
+CH00238,63,84.43,5087.71,Standard,Mountain,1,AutoPay,5,0
+CH00239,19,41.9,771.31,Basic,West,1,AutoPay,3,0
+CH00240,36,80.01,2911.2,Premium,Mountain,2,Invoice,3,0
+CH00241,47,50.37,2328.11,Basic,Northwest,2,AutoPay,4,0
+CH00242,28,74.38,2051.6,Standard,Mountain,0,Invoice,4,0
+CH00243,62,63.12,3935.18,Basic,West,1,AutoPay,5,1
+CH00244,9,102.65,843.1,Premium,Southwest,2,Invoice,5,0
+CH00245,61,81.34,4489.14,Standard,Northwest,3,Bank Transfer,4,0
+CH00246,59,49.67,2836.71,Basic,Southwest,0,Bank Transfer,3,0
+CH00247,37,53.18,2020.7,Standard,Southwest,2,AutoPay,2,1
+CH00248,26,92.87,2192.63,Standard,Southwest,2,Invoice,4,0
+CH00249,62,104.53,5974.45,Premium,West,3,AutoPay,5,0
+CH00250,69,40.82,2594.07,Basic,West,2,Bank Transfer,4,0
+CH00251,40,80.86,3092.68,Standard,West,0,Credit Card,3,1
+CH00252,54,67.41,3802.68,Standard,Mountain,1,Invoice,4,0
+CH00253,26,45.32,1132.0,Basic,Northwest,2,AutoPay,4,0
+CH00254,45,56.44,2425.4,Basic,Mountain,2,Bank Transfer,4,0
+CH00255,32,55.83,1646.31,Standard,Southwest,1,AutoPay,3,1
+CH00256,39,132.02,4665.7,Premium,Northwest,1,AutoPay,4,0
+CH00257,72,78.78,5795.96,Standard,Northwest,3,Bank Transfer,4,0
+CH00258,34,48.89,1742.81,Basic,Southwest,1,Credit Card,2,0
+CH00259,57,82.43,4577.65,Standard,Mountain,0,Bank Transfer,5,0
+CH00260,50,92.25,4668.23,Standard,Southwest,1,AutoPay,2,1
+CH00261,70,58.59,4276.24,Basic,Southwest,0,Credit Card,5,0
+CH00262,62,64.08,3833.61,Standard,Mountain,2,Credit Card,4,1
+CH00263,68,113.42,7681.92,Premium,Mountain,2,AutoPay,3,1
+CH00264,62,53.6,3231.15,Basic,Mountain,0,Bank Transfer,4,0
+CH00265,21,92.98,1848.96,Standard,West,2,Bank Transfer,4,0
+CH00266,14,75.47,1099.57,Standard,Mountain,0,Invoice,5,0
+CH00267,60,36.7,2052.66,Basic,Southwest,2,AutoPay,3,0
+CH00268,23,48.01,1109.14,Basic,Mountain,0,AutoPay,3,0
+CH00269,19,69.97,1257.66,Standard,Northwest,0,Bank Transfer,3,0
+CH00270,14,86.36,1094.17,Standard,Southwest,0,Invoice,4,0
+CH00271,34,46.65,1556.84,Basic,Southwest,4,Bank Transfer,3,0
+CH00272,52,55.43,2770.52,Basic,Southwest,0,Credit Card,5,1
+CH00273,35,86.71,2838.37,Standard,Northwest,3,AutoPay,4,0
+CH00274,65,57.1,3637.64,Basic,Northwest,0,Bank Transfer,5,0
+CH00275,52,73.22,3760.5,Standard,Northwest,0,Invoice,3,0
+CH00276,23,83.74,1923.73,Standard,Northwest,2,Invoice,2,0
+CH00277,14,80.45,1101.39,Standard,West,1,Invoice,4,0
+CH00278,21,85.55,1753.71,Standard,Southwest,3,Bank Transfer,3,0
+CH00279,71,31.56,2272.98,Basic,Northwest,1,Invoice,3,1
+CH00280,15,50.39,720.97,Basic,Northwest,0,Credit Card,5,0
+CH00281,26,52.23,1368.35,Basic,West,2,Bank Transfer,4,0
+CH00282,67,58.18,3791.04,Basic,Mountain,0,Credit Card,4,0
+CH00283,10,48.64,497.25,Basic,Southwest,2,AutoPay,4,0
+CH00284,71,64.41,4253.43,Standard,Mountain,1,Invoice,4,0
+CH00285,2,45.69,95.43,Basic,Mountain,0,Invoice,4,0
+CH00286,24,116.11,2528.17,Premium,West,1,Bank Transfer,4,1
+CH00287,48,83.7,3671.7,Standard,Mountain,0,Bank Transfer,5,0
+CH00288,34,117.61,3773.72,Premium,Mountain,0,Bank Transfer,4,0
+CH00289,11,90.15,939.1,Standard,West,3,Bank Transfer,5,1
+CH00290,56,110.38,6164.9,Premium,Southwest,1,Credit Card,2,0
+CH00291,62,79.57,5054.34,Standard,Mountain,1,Credit Card,3,0
+CH00292,41,40.78,1571.23,Basic,Mountain,2,Bank Transfer,3,0
+CH00293,11,123.72,1314.39,Premium,Mountain,0,Credit Card,4,1
+CH00294,34,96.55,3403.01,Premium,Mountain,2,AutoPay,4,1
+CH00295,16,34.68,523.49,Basic,Northwest,1,AutoPay,2,1
+CH00296,35,66.39,2347.82,Basic,Southwest,0,Bank Transfer,3,1
+CH00297,43,67.39,2803.98,Standard,Northwest,2,Bank Transfer,4,0
+CH00298,34,54.73,1839.32,Basic,West,1,Invoice,5,0
+CH00299,10,78.07,704.6,Standard,West,0,Invoice,5,0
+CH00300,49,129.9,6154.49,Premium,Mountain,2,Credit Card,4,0
+CH00301,68,81.7,5418.6,Standard,Northwest,0,AutoPay,2,0
+CH00302,13,70.62,879.71,Standard,Northwest,0,Bank Transfer,4,0
+CH00303,14,51.01,727.87,Basic,West,3,Invoice,4,0
+CH00304,56,46.58,2386.02,Basic,Northwest,0,Credit Card,3,1
+CH00305,64,96.2,6086.65,Standard,Mountain,2,Invoice,3,1
+CH00306,15,68.32,968.68,Standard,Southwest,2,AutoPay,4,0
+CH00307,54,44.62,2400.63,Basic,Southwest,4,Invoice,3,0
+CH00308,64,46.97,2895.94,Basic,West,2,Invoice,5,0
+CH00309,36,54.88,1952.05,Basic,Northwest,2,Bank Transfer,4,0
+CH00310,53,74.51,3649.25,Standard,Southwest,2,AutoPay,3,0
+CH00311,30,83.0,2518.66,Standard,Northwest,3,Credit Card,4,0
+CH00312,17,75.96,1205.02,Standard,Southwest,2,AutoPay,4,0
+CH00313,59,50.61,3076.82,Basic,Northwest,0,Credit Card,5,1
+CH00314,37,53.65,2066.94,Basic,Southwest,1,Invoice,3,0
+CH00315,22,121.72,2508.24,Premium,Mountain,2,Invoice,4,1
+CH00316,56,67.61,3703.5,Standard,Southwest,4,AutoPay,3,0
+CH00317,32,53.3,1681.09,Basic,Southwest,0,AutoPay,4,0
+CH00318,28,71.19,2054.69,Standard,Southwest,2,AutoPay,1,1
+CH00319,31,49.28,1406.04,Basic,Southwest,0,Credit Card,4,0
+CH00320,62,30.42,1917.58,Basic,Mountain,2,AutoPay,3,0
+CH00321,15,93.45,1458.81,Premium,Northwest,3,Credit Card,4,0
+CH00322,64,79.23,4989.55,Standard,Southwest,1,Bank Transfer,5,0
+CH00323,29,92.51,2602.06,Premium,Southwest,0,Credit Card,2,0
+CH00324,19,108.88,1922.73,Premium,Northwest,0,Credit Card,3,0
+CH00325,56,45.06,2601.72,Basic,Northwest,2,Invoice,3,0
+CH00326,47,121.72,5510.76,Premium,Northwest,0,AutoPay,5,0
+CH00327,60,77.96,4830.83,Standard,West,1,Credit Card,3,1
+CH00328,35,41.24,1452.45,Basic,Northwest,0,AutoPay,4,0
+CH00329,31,113.72,3345.31,Premium,Northwest,2,Bank Transfer,3,1
+CH00330,31,83.52,2516.25,Standard,Northwest,0,Bank Transfer,2,0
+CH00331,35,87.89,3098.82,Standard,Northwest,2,AutoPay,4,0
+CH00332,55,82.96,4439.57,Standard,Mountain,1,AutoPay,4,0
+CH00333,14,43.9,601.18,Basic,West,0,AutoPay,3,1
+CH00334,36,64.48,,Basic,Northwest,0,Credit Card,4,1
+CH00335,57,92.1,4810.89,Standard,West,1,Bank Transfer,3,0
+CH00336,4,62.76,252.88,Basic,Mountain,5,AutoPay,3,1
+CH00337,29,113.35,3353.37,Premium,Northwest,0,Invoice,3,0
+CH00338,9,48.83,440.81,Basic,Mountain,0,Bank Transfer,3,0
+CH00339,7,32.23,220.3,Basic,West,0,Bank Transfer,3,0
+CH00340,33,62.18,1974.61,Basic,Mountain,2,AutoPay,3,0
+CH00341,10,43.77,408.36,Basic,Southwest,2,Credit Card,2,1
+CH00342,44,111.41,5119.77,Premium,Southwest,2,Invoice,4,0
+CH00343,40,45.53,1777.46,Basic,Mountain,1,Credit Card,3,0
+CH00344,5,38.04,183.44,Basic,West,3,Credit Card,4,1
+CH00345,24,90.04,2227.96,Standard,Southwest,1,Invoice,3,1
+CH00346,21,48.84,1021.34,Basic,Northwest,3,Credit Card,4,0
+CH00347,27,72.73,1858.28,Standard,Northwest,2,AutoPay,3,0
+CH00348,11,54.76,596.25,Basic,Northwest,0,Credit Card,4,1
+CH00349,38,53.21,1970.96,Basic,Mountain,0,Bank Transfer,5,1
+CH00350,17,113.31,1909.81,Premium,West,1,Credit Card,3,0
+CH00351,48,70.79,3531.72,Standard,Mountain,0,Bank Transfer,4,0
+CH00352,39,76.14,2970.09,Standard,Northwest,0,Bank Transfer,4,0
+CH00353,30,74.79,2292.94,Standard,Southwest,0,Credit Card,4,0
+CH00354,24,100.02,2291.81,Premium,West,0,Bank Transfer,2,0
+CH00355,29,118.17,3360.81,Premium,West,1,AutoPay,4,0
+CH00356,29,33.6,917.92,Basic,Mountain,0,Invoice,4,0
+CH00357,20,45.18,877.45,Basic,Northwest,1,Credit Card,2,0
+CH00358,67,67.96,4155.31,Standard,Southwest,0,Bank Transfer,2,0
+CH00359,20,70.12,1305.93,Standard,Southwest,0,Invoice,3,0
+CH00360,35,135.41,4727.8,Premium,Southwest,0,AutoPay,4,0
+CH00361,11,90.99,1042.22,Standard,Mountain,0,AutoPay,3,1
+CH00362,20,80.34,1620.22,Standard,West,0,Invoice,4,0
+CH00363,12,75.89,923.08,Standard,Southwest,0,Bank Transfer,4,0
+CH00364,4,49.02,201.06,Basic,West,1,Bank Transfer,4,0
+CH00365,40,43.26,1673.25,Basic,West,0,AutoPay,3,0
+CH00366,54,118.11,5948.33,Premium,Mountain,2,AutoPay,3,0
+CH00367,57,41.27,2446.75,Basic,Mountain,2,Bank Transfer,5,0
+CH00368,70,86.61,5519.91,Standard,Southwest,2,AutoPay,3,0
+CH00369,53,58.63,3052.79,Basic,Mountain,1,AutoPay,4,0
+CH00370,33,60.25,1903.97,Basic,Southwest,2,Invoice,4,0
+CH00371,17,121.45,2065.85,Premium,West,2,Bank Transfer,4,0
+CH00372,50,88.84,4573.05,Standard,Southwest,1,Credit Card,3,0
+CH00373,59,73.76,4407.8,Standard,West,0,Invoice,5,1
+CH00374,59,53.03,2862.23,Basic,Northwest,0,Invoice,4,0
+CH00375,43,71.48,3038.31,Standard,Northwest,2,Bank Transfer,5,0
+CH00376,39,66.73,2551.8,Basic,West,0,Invoice,4,0
+CH00377,33,70.34,2268.38,Standard,Mountain,0,AutoPay,4,0
+CH00378,11,45.84,462.53,Basic,Mountain,0,Invoice,3,1
+CH00379,44,36.28,1496.65,Basic,Southwest,3,Credit Card,4,0
+CH00380,66,78.18,5362.3,Standard,Northwest,2,Credit Card,3,0
+CH00381,61,42.98,2604.6,Basic,Mountain,2,AutoPay,4,0
+CH00382,5,74.12,373.64,Standard,Southwest,0,AutoPay,3,0
+CH00383,66,46.43,2997.7,Basic,Mountain,0,AutoPay,3,0
+CH00384,64,120.0,7271.38,Premium,Mountain,2,Invoice,3,0
+CH00385,36,58.85,2189.27,Standard,West,0,AutoPay,5,0
+CH00386,61,62.27,3853.85,Basic,West,3,Credit Card,5,0
+CH00387,30,38.01,1190.38,Basic,Northwest,0,AutoPay,3,0
+CH00388,43,41.38,1816.93,Basic,West,0,Bank Transfer,5,1
+CH00389,57,80.18,4585.22,Standard,Mountain,3,Invoice,4,0
+CH00390,49,37.89,1886.22,Basic,Mountain,0,Invoice,2,1
+CH00391,25,41.88,992.59,Basic,West,0,Invoice,3,0
+CH00392,31,67.75,1936.66,Standard,Mountain,0,Bank Transfer,5,0
+CH00393,65,54.12,3433.21,Basic,Southwest,0,Invoice,5,0
+CH00394,13,104.0,1371.8,Premium,Southwest,3,Bank Transfer,5,1
+CH00395,66,127.01,8244.49,Premium,Southwest,2,Credit Card,5,0
+CH00396,34,61.17,1894.69,Basic,Southwest,1,Bank Transfer,3,0
+CH00397,10,52.41,489.83,Basic,Southwest,0,Bank Transfer,3,1
+CH00398,50,72.3,3430.94,Standard,West,0,Bank Transfer,4,1
+CH00399,16,65.55,1005.23,Basic,Mountain,1,Credit Card,4,0
+CH00400,40,51.9,2114.78,Basic,Mountain,0,Invoice,5,0
+CH00401,42,142.09,6022.0,Premium,West,0,Bank Transfer,3,0
+CH00402,7,37.07,241.55,Basic,Northwest,0,AutoPay,4,0
+CH00403,13,80.79,1077.01,Standard,Southwest,1,Invoice,2,0
+CH00404,48,56.9,2769.34,Basic,West,2,Bank Transfer,4,0
+CH00405,61,34.1,2049.47,Basic,West,0,Credit Card,4,0
+CH00406,30,60.88,1754.93,Basic,West,1,AutoPay,5,0
+CH00407,62,86.11,4839.28,Standard,West,0,Credit Card,4,0
+CH00408,53,48.66,2389.29,Basic,Southwest,2,Credit Card,3,0
+CH00409,4,76.16,274.94,Standard,Mountain,2,AutoPay,5,0
+CH00410,59,56.67,3193.29,Basic,West,1,Credit Card,3,0
+CH00411,61,133.82,8421.89,Premium,West,2,AutoPay,4,0
+CH00412,19,98.14,1879.05,Standard,Mountain,0,AutoPay,4,0
+CH00413,23,59.75,1339.99,Basic,West,2,AutoPay,2,1
+CH00414,13,82.75,1108.32,Standard,West,3,Bank Transfer,5,1
+CH00415,3,73.91,211.7,Standard,Southwest,5,Invoice,4,1
+CH00416,21,42.34,919.97,Basic,Southwest,0,Credit Card,3,0
+CH00417,10,111.98,1149.34,Premium,Northwest,1,Bank Transfer,3,0
+CH00418,15,78.23,1230.62,Standard,Southwest,1,Bank Transfer,4,0
+CH00419,63,48.53,2962.63,Basic,Northwest,3,Invoice,3,0
+CH00420,24,114.34,2797.05,Premium,Mountain,2,Credit Card,3,0
+CH00421,1,78.22,79.17,Standard,Mountain,2,AutoPay,3,0
+CH00422,16,80.06,1193.54,Standard,West,0,Bank Transfer,5,0
+CH00423,2,83.09,159.37,Standard,Northwest,1,AutoPay,5,0
+CH00424,5,75.41,352.33,Standard,Southwest,1,Credit Card,3,1
+CH00425,69,107.07,7750.24,Premium,West,3,Credit Card,4,0
+CH00426,16,66.05,1058.99,Standard,West,0,Bank Transfer,5,0
+CH00427,44,126.37,5547.0,Premium,Mountain,1,Bank Transfer,4,0
+CH00428,62,43.62,2461.9,Basic,Southwest,3,Credit Card,3,0
+CH00429,30,70.75,2021.64,Standard,West,1,Credit Card,3,0
+CH00430,38,79.5,2783.4,Standard,Mountain,0,Bank Transfer,3,0
+CH00431,71,57.7,4242.64,Basic,Mountain,1,Invoice,4,0
+CH00432,16,126.22,1957.47,Premium,West,0,AutoPay,3,0
+CH00433,56,96.08,5078.01,Premium,West,0,Credit Card,5,0
+CH00434,27,36.97,962.56,Basic,Mountain,3,Bank Transfer,5,0
+CH00435,63,38.44,2256.19,Basic,Mountain,2,Credit Card,3,0
+CH00436,50,63.71,2926.06,Standard,Northwest,1,Credit Card,4,0
+CH00437,28,65.36,1654.68,Basic,Mountain,1,Credit Card,3,1
+CH00438,31,44.77,1259.52,Basic,Mountain,5,AutoPay,3,1
+CH00439,47,50.03,2345.1,Basic,Mountain,0,AutoPay,3,0
+CH00440,51,135.85,6778.17,Premium,Southwest,0,Bank Transfer,2,1
+CH00441,71,79.9,5467.5,Standard,Mountain,0,Invoice,3,0
+CH00442,72,30.41,2048.51,Basic,West,1,Bank Transfer,4,0
+CH00443,60,112.57,6942.05,Premium,Southwest,0,Bank Transfer,4,0
+CH00444,36,68.12,2316.6,Standard,Mountain,0,Credit Card,5,0
+CH00445,33,67.82,2106.21,basic ,West,1,AutoPay,3,0
+CH00446,71,121.22,9034.33,Premium,West,0,AutoPay,3,0
+CH00447,59,106.61,6087.6,Premium,Northwest,3,Credit Card,2,1
+CH00448,33,65.22,2059.4,Standard,Southwest,0,AutoPay,3,0
+CH00449,10,64.16,610.51,Standard,Mountain,2,Credit Card,4,1
+CH00450,3,73.7,218.82,Standard,West,3,Invoice,3,1
+CH00451,42,40.77,1795.37,Basic,West,0,Bank Transfer,3,0
+CH00452,16,57.82,898.84,Basic,Southwest,0,AutoPay,1,0
+CH00453,1,56.77,56.31,Basic,Northwest,0,AutoPay,3,0
+CH00454,52,77.49,3773.82,Standard,West,1,Invoice,4,0
+CH00455,33,33.85,1116.34,Basic,Mountain,0,Bank Transfer,4,0
+CH00456,13,90.92,1205.81,Standard,Mountain,3,AutoPay,3,1
+CH00457,27,62.55,1751.84,Basic,Southwest,2,Invoice,3,0
+CH00458,40,113.03,4742.96,Premium,Southwest,1,Invoice,3,0
+CH00459,18,25.84,441.31,Basic,Northwest,2,Bank Transfer,3,0
+CH00460,58,57.53,3282.81,Basic,West,0,Invoice,4,0
+CH00461,25,103.03,2668.1,Premium,Northwest,2,Invoice,3,0
+CH00462,26,112.43,2902.97,Premium,Mountain,0,Credit Card,3,0
+CH00463,27,117.8,3322.31,Premium,Southwest,3,Credit Card,4,1
+CH00464,36,57.44,2100.16,Basic,Mountain,0,Credit Card,3,1
+CH00465,67,84.95,5222.15,Standard,Southwest,1,Invoice,3,1
+CH00466,58,44.34,2526.12,Basic,Northwest,2,Credit Card,3,1
+CH00467,50,22.06,1066.78,Basic,West,2,AutoPay,4,0
+CH00468,4,66.63,241.3,Standard,Mountain,0,Credit Card,4,0
+CH00469,50,86.51,4079.98,Standard,Southwest,1,Invoice,4,0
+CH00470,61,89.82,5103.06,Standard,Mountain,0,Invoice,4,0
+CH00471,3,64.64,197.5,Standard,Northwest,0,Invoice,5,1
+CH00472,71,55.39,4038.04,Basic,West,1,Credit Card,5,0
+CH00473,72,44.57,3040.65,Basic,West,4,Credit Card,4,0
+CH00474,57,47.89,2593.57,Basic,Southwest,1,Bank Transfer,4,0
+CH00475,41,112.72,4227.95,Premium,Mountain,3,Bank Transfer,3,0
+CH00476,65,91.65,5476.86,Standard,West,2,Invoice,4,0
+CH00477,16,41.51,694.94,Basic,West,0,Bank Transfer,2,1
+CH00478,10,120.7,1094.85,Premium,Southwest,0,Credit Card,5,0
+CH00479,66,117.56,8015.74,Premium,West,0,Bank Transfer,3,0
+CH00480,8,58.01,450.09,Basic,West,2,Credit Card,3,0
+CH00481,57,67.97,3680.18,Basic,Southwest,0,Bank Transfer,5,0
+CH00482,42,75.03,3062.6,Standard,Northwest,3,Bank Transfer,3,0
+CH00483,43,48.5,1968.61,Basic,Northwest,1,AutoPay,4,0
+CH00484,50,74.21,3372.17,Standard,Southwest,1,Invoice,3,0
+CH00485,24,73.47,1625.55,Standard,Northwest,2,Invoice,5,1
+CH00486,3,117.26,353.78,Premium,Southwest,0,Invoice,3,0
+CH00487,65,59.2,3976.62,Standard,Southwest,4,Credit Card,5,0
+CH00488,63,77.27,5101.6,Standard,Northwest,0,Bank Transfer,4,1
+CH00489,45,57.83,2613.61,Standard,Southwest,2,AutoPay,4,0
+CH00490,46,50.63,2207.48,Basic,Mountain,1,Credit Card,3,1
+CH00491,33,62.97,1998.78,Standard,Southwest,0,Bank Transfer,4,0
+CH00492,17,57.01,902.28,Standard,Mountain,1,Bank Transfer,4,0
+CH00493,16,85.79,1292.73,Standard,Southwest,0,Credit Card,3,0
+CH00494,61,63.83,3928.1,Basic,Northwest,3,Bank Transfer,4,0
+CH00495,5,135.99,662.76,Premium,West,2,Invoice,3,1
+CH00496,47,79.22,3355.4,Standard,Mountain,0,Credit Card,3,0
+CH00497,45,120.73,5302.01,Premium,West,0,Bank Transfer,3,0
+CH00498,49,77.65,3789.21,Standard,Southwest,0,Credit Card,2,0
+CH00499,27,58.72,1447.71,Basic,Mountain,4,AutoPay,4,1
+CH00500,5,63.36,286.72,Basic,Mountain,2,Invoice,4,1
+CH00501,4,77.06,310.67,Standard,Northwest,0,Bank Transfer,4,0
+CH00502,14,39.15,520.57,Basic,Mountain,0,Credit Card,3,0
+CH00503,11,39.99,423.07,Basic,West,0,AutoPay,4,1
+CH00504,16,57.03,843.54,Basic,Southwest,0,AutoPay,3,0
+CH00505,57,44.48,2319.06,Basic,Northwest,2,AutoPay,4,0
+CH00506,48,61.26,2999.75,Standard,Mountain,2,Invoice,2,1
+CH00507,10,67.1,626.74,Standard,Mountain,0,AutoPay,4,0
+CH00508,72,77.25,5333.24,Standard,West,0,AutoPay,4,0
+CH00509,45,85.53,3801.81,Standard,Mountain,2,Credit Card,3,0
+CH00510,16,82.36,1286.08,Standard,Mountain,1,Credit Card,3,0
+CH00511,64,111.84,7501.07,Premium,Northwest,2,AutoPay,4,0
+CH00512,23,109.49,2281.16,Premium,Southwest,3,Bank Transfer,5,1
+CH00513,16,27.15,447.84,Basic,Northwest,0,Credit Card,3,0
+CH00514,38,55.76,1928.28,Basic,Southwest,2,Credit Card,4,0
+CH00515,17,59.56,1043.4,Basic,West,2,Invoice,2,1
+CH00516,70,44.11,3153.7,Basic,Mountain,1,Credit Card,3,0
+CH00517,36,139.33,4613.25,Premium,Mountain,0,Bank Transfer,4,0
+CH00518,71,127.21,8998.66,Premium,Mountain,2,AutoPay,4,0
+CH00519,45,81.66,3440.07,Standard,Southwest,1,Invoice,4,0
+CH00520,27,119.01,3207.19,Premium,Mountain,1,Invoice,5,0
+CH00521,32,71.51,2112.74,Standard,Southwest,2,AutoPay,5,0
+CH00522,29,51.52,1551.78,Basic,Mountain,0,Credit Card,4,0
+CH00523,71,53.51,3777.57,Standard,Southwest,0,AutoPay,3,0
+CH00524,39,130.21,4769.64,Premium,West,0,Bank Transfer,3,1
+CH00525,1,35.86,35.69,Basic,West,2,Credit Card,5,0
+CH00526,15,86.29,1352.87,Standard,Southwest,0,AutoPay,2,0
+CH00527,65,129.11,8128.71,Premium,Mountain,1,Invoice,3,0
+CH00528,22,118.23,2524.28,Premium,Northwest,2,Credit Card,5,0
+CH00529,4,41.53,158.52,Basic,Mountain,2,Invoice,5,0
+CH00530,62,48.87,3074.35,Basic,Mountain,3,Bank Transfer,3,0
+CH00531,39,87.84,3253.81,Standard,Southwest,3,Credit Card,4,0
+CH00532,34,49.77,1622.32,Basic,Mountain,2,AutoPay,3,0
+CH00533,60,120.76,6721.11,Premium,Mountain,2,Invoice,4,0
+CH00534,20,139.94,2568.99,Premium,Mountain,0,Invoice,4,0
+CH00535,21,80.78,1580.2,Standard,Mountain,2,Credit Card,4,0
+CH00536,61,65.38,4175.61,Standard,Southwest,0,AutoPay,4,0
+CH00537,62,127.4,7542.48,Premium,West,1,AutoPay,4,0
+CH00538,37,35.94,1223.54,Basic,Northwest,1,Invoice,5,0
+CH00539,65,52.21,3445.67,Basic,West,0,Bank Transfer,2,0
+CH00540,39,61.2,2188.58,Basic,Northwest,0,Invoice,2,1
+CH00541,67,62.51,4023.04,Basic,West,1,Bank Transfer,3,1
+CH00542,56,73.59,4060.04,Standard,Mountain,0,Invoice,5,0
+CH00543,15,140.24,2125.27,Premium,Northwest,2,Invoice,5,0
+CH00544,21,89.69,1810.43,Standard,Mountain,1,Credit Card,3,0
+CH00545,6,56.31,352.56,Basic,Southwest,0,Invoice,4,0
+CH00546,16,80.5,1214.99,Standard,West,1,Invoice,4,0
+CH00547,13,79.76,985.74,Standard,Mountain,0,AutoPay,3,0
+CH00548,39,96.0,3849.94,Standard,Mountain,0,Invoice,3,1
+CH00549,8,116.64,844.11,Premium,Northwest,0,AutoPay,4,0
+CH00550,53,126.28,6726.98,Premium,Northwest,5,AutoPay,2,1
+CH00551,40,55.28,2005.48,Basic,Mountain,2,AutoPay,3,0
+CH00552,40,124.01,5186.03,Premium,West,4,Invoice,4,0
+CH00553,61,64.2,3819.5,Basic,Northwest,2,Invoice,4,0
+CH00554,57,40.5,2421.36,Basic,Mountain,1,Invoice,4,0
+CH00555,19,53.65,960.96,Basic,Mountain,1,Bank Transfer,4,0
+CH00556,28,137.84,3593.94,Premium,Mountain,1,auto pay,4,1
+CH00557,13,43.57,521.65,Basic,Southwest,1,Invoice,4,0
+CH00558,53,101.5,5581.3,Standard,Mountain,1,Invoice,4,0
+CH00559,49,74.64,3455.14,Standard,Southwest,0,AutoPay,5,0
+CH00560,72,123.14,9106.96,Premium,West,0,Invoice,5,0
+CH00561,70,135.5,9000.53,Premium,West,2,AutoPay,4,0
+CH00562,61,49.76,2962.51,Basic,Southwest,0,Invoice,4,0
+CH00563,31,106.73,3365.39,Premium,West,5,Bank Transfer,5,1
+CH00564,69,79.96,5760.82,Standard,Southwest,3,Invoice,3,0
+CH00565,60,44.98,2590.39,Basic,Northwest,0,Credit Card,4,0
+CH00566,58,102.54,6211.88,Premium,Southwest,0,Invoice,4,0
+CH00567,35,122.71,4092.72,Premium,Southwest,2,Invoice,1,1
+CH00568,54,126.45,6557.04,Premium,Northwest,0,Invoice,3,1
+CH00569,63,88.39,5349.52,Standard,Mountain,2,Invoice,3,0
+CH00570,36,50.11,1808.13,Basic,Southwest,0,AutoPay,3,0
+CH00571,67,56.58,3952.21,Standard,West,3,Invoice,4,0
+CH00572,14,85.09,1183.03,Standard,Northwest,0,Bank Transfer,5,0
+CH00573,60,39.12,2409.78,Basic,Northwest,0,Bank Transfer,4,0
+CH00574,31,117.5,3772.09,Premium,Northwest,0,Credit Card,4,0
+CH00575,23,37.32,882.3,Basic,Southwest,2,Credit Card,3,0
+CH00576,42,60.16,2521.16,Basic,Mountain,2,Credit Card,3,0
+CH00577,33,48.04,1549.05,Basic,Northwest,1,Invoice,5,1
+CH00578,60,33.3,1819.93,Basic,West,1,Credit Card,4,0
+CH00579,51,90.21,4662.9,Standard,Southwest,3,Credit Card,5,0
+CH00580,65,80.44,4714.64,Standard,Northwest,1,Bank Transfer,3,0
+CH00581,49,80.28,3990.43,Standard,West,0,Credit Card,4,0
+CH00582,40,37.7,1466.68,Basic,West,0,Invoice,2,1
+CH00583,69,33.2,2263.7,Basic,Northwest,2,Credit Card,5,1
+CH00584,31,101.2,2889.43,Premium,Mountain,1,Bank Transfer,4,0
+CH00585,47,114.69,5530.42,Premium,Northwest,3,Invoice,3,0
+CH00586,15,50.36,699.33,Basic,West,0,Bank Transfer,4,0
+CH00587,50,125.3,6008.38,Premium,Southwest,0,Bank Transfer,3,0
+CH00588,4,95.68,400.24,Standard,Mountain,0,Invoice,3,1
+CH00589,56,52.99,3039.69,Basic,Mountain,1,AutoPay,3,0
+CH00590,49,84.09,4148.36,Standard,West,2,AutoPay,4,0
+CH00591,20,142.19,2629.53,Premium,Northwest,3,Invoice,3,0
+CH00592,63,52.77,3345.58,Basic,West,1,Bank Transfer,3,0
+CH00593,25,56.18,1415.09,Basic,Mountain,1,AutoPay,4,0
+CH00594,32,75.1,2275.74,Standard,Northwest,1,AutoPay,5,0
+CH00595,9,107.57,894.16,Premium,West,0,Invoice,2,0
+CH00596,33,50.57,1593.77,Basic,West,1,Invoice,5,0
+CH00597,14,73.95,950.09,Basic,Southwest,2,Invoice,4,1
+CH00598,44,112.49,4480.51,Premium,Northwest,1,AutoPay,2,1
+CH00599,55,123.16,6886.79,Premium,Mountain,0,AutoPay,5,0
+CH00600,23,39.16,872.94,Basic,Southwest,2,Invoice,3,0
+CH00601,11,69.84,731.56,Standard,Northwest,3,Invoice,4,0
+CH00602,3,43.58,136.27,Basic,Mountain,0,Invoice,4,0
+CH00603,31,66.69,1975.79,Standard,West,2,AutoPay,4,1
+CH00604,7,62.56,401.48,Basic,Northwest,2,Invoice,2,0
+CH00605,27,42.79,1211.91,Basic,Northwest,0,AutoPay,3,0
+CH00606,66,27.87,1658.23,Basic,Northwest,3,Bank Transfer,4,0
+CH00607,72,78.87,5630.43,Standard,Northwest,2,Credit Card,5,0
+CH00608,70,69.05,4908.51,Standard,Mountain,3,Invoice,4,1
+CH00609,67,86.46,5723.39,Standard,Mountain,1,Credit Card,5,0
+CH00610,7,74.77,509.92,Standard,Southwest,3,Credit Card,4,0
+CH00611,22,41.87,867.34,Basic,Southwest,1,Credit Card,4,0
+CH00612,27,40.78,1112.67,Basic,Mountain,2,AutoPay,3,0
+CH00613,33,87.89,2965.28,Standard,Northwest,1,Credit Card,3,0
+CH00614,45,138.39,6421.1,Premium,Southwest,0,Bank Transfer,3,0
+CH00615,45,52.89,2201.86,Basic,Mountain,2,Invoice,3,0
+CH00616,55,118.56,6616.52,Premium,West,0,Bank Transfer,4,0
+CH00617,70,59.91,4037.38,Basic,Mountain,2,Bank Transfer,4,0
+CH00618,53,29.74,1523.45,Basic,Southwest,0,Invoice,5,0
+CH00619,20,130.38,2704.27,Premium,Northwest,3,AutoPay,2,1
+CH00620,59,76.03,4094.38,Standard,West,0,AutoPay,4,0
+CH00621,45,67.35,2887.35,Standard,Northwest,1,Invoice,999,0
+CH00622,52,124.04,6148.18,Premium,West,4,Invoice,2,0
+CH00623,30,118.26,3596.53,Premium,West,2,Bank Transfer,3,0
+CH00624,16,89.29,1435.66,Standard,Mountain,0,Credit Card,3,0
+CH00625,28,79.2,2052.88,Standard,Northwest,2,Invoice,4,0
+CH00626,4,97.18,389.24,Premium,West,0,Bank Transfer,2,1
+CH00627,53,82.75,4532.32,Standard,Southwest,1,Bank Transfer,4,0
+CH00628,8,68.65,534.81,Standard,Mountain,0,Bank Transfer,4,0
+CH00629,35,115.28,3761.93,Premium,Southwest,2,Bank Transfer,3,0
+CH00630,2,56.25,103.87,Basic,Mountain,0,Bank Transfer,5,1
+CH00631,39,126.52,4570.3,Premium,Southwest,3,Bank Transfer,5,0
+CH00632,53,38.98,1936.62,Basic,Southwest,2,Invoice,4,0
+CH00633,38,73.37,2640.98,Standard,Southwest,0,Credit Card,4,0
+CH00634,39,123.82,4765.9,Premium,Northwest,2,AutoPay,3,0
+CH00635,46,113.47,4841.67,Premium,Southwest,2,Credit Card,3,0
+CH00636,48,43.62,1932.87,Basic,Mountain,0,Bank Transfer,4,0
+CH00637,36,34.02,1204.33,Basic,West,2,Invoice,5,0
+CH00638,68,87.56,5798.7,Standard,Northwest,0,Invoice,4,0
+CH00639,37,66.07,2406.06,Basic,Northwest,4,Bank Transfer,3,0
+CH00640,41,117.11,4613.35,Premium,West,3,AutoPay,3,0
+CH00641,54,104.64,5170.67,Premium,Mountain,1,AutoPay,5,0
+CH00642,64,49.88,2971.28,Basic,West,4,Credit Card,4,0
+CH00643,67,115.43,7411.24,Premium,Mountain,2,Bank Transfer,3,0
+CH00644,8,135.74,1103.74,Premium,West,2,Credit Card,4,0
+CH00645,40,55.68,2299.66,Standard,West,1,AutoPay,2,1
+CH00646,27,45.92,1124.99,Basic,West,0,AutoPay,3,0
+CH00647,4,52.5,202.15,Basic,Southwest,2,AutoPay,5,0
+CH00648,5,81.32,400.25,Standard,West,0,AutoPay,4,0
+CH00649,35,115.1,3639.75,Premium,Southwest,1,Credit Card,4,0
+CH00650,72,75.51,5190.14,Standard,Northwest,1,Bank Transfer,4,0
+CH00651,58,123.9,6600.25,Premium,Northwest,1,AutoPay,4,0
+CH00652,13,47.77,606.8,Basic,West,0,Credit Card,2,0
+CH00653,18,80.8,1357.23,Standard,Northwest,1,AutoPay,5,1
+CH00654,2,79.72,162.11,Standard,Northwest,3,AutoPay,3,1
+CH00655,45,44.85,1897.34,Basic,West,1,AutoPay,4,1
+CH00656,32,36.57,1134.05,Basic,Mountain,1,Invoice,3,0
+CH00657,13,99.55,1164.9,Standard,Southwest,0,Invoice,4,0
+CH00658,30,119.83,3692.77,Premium,West,2,Bank Transfer,3,0
+CH00659,48,53.48,2660.42,Basic,Southwest,2,Credit Card,5,0
+CH00660,71,47.78,3521.41,Basic,Southwest,2,AutoPay,3,0
+CH00661,12,48.56,539.74,Basic,Southwest,2,Invoice,5,0
+CH00662,47,104.39,4592.95,Premium,Northwest,1,AutoPay,2,0
+CH00663,54,131.27,6689.35,Premium,Northwest,4,Bank Transfer,3,1
+CH00664,41,40.65,1741.98,Basic,West,1,AutoPay,3,0
+CH00665,14,47.28,672.2,Basic,Mountain,2,Credit Card,5,0
+CH00666,10,85.29,781.92,Standard,Mountain,1,Bank Transfer,2,1
+CH00667,14,73.0,1018.84,Basic,Southwest,1,Credit Card,3,0
+CH00668,71,71.8,4729.39,Standard,West,1,Invoice,4,0
+CH00669,8,54.41,422.28,Basic,Northwest,1,Invoice,4,1
+CH00670,43,85.59,3672.2,Standard,Northwest,1,AutoPay,4,0
+CH00671,31,50.1,1603.09,Basic,West,1,Bank Transfer,3,1
+CH00672,33,76.43,2563.14,Basic,West,1,AutoPay,3,0
+CH00673,53,54.11,2748.53,Standard,Northwest,0,Invoice,5,0
+CH00674,1,100.28,96.9,Standard,West,0,AutoPay,2,0
+CH00675,70,61.05,3999.93,Standard,West,3,Credit Card,3,0
+CH00676,5,35.7,177.17,Basic,Southwest,1,Credit Card,5,1
+CH00677,32,85.07,2830.48,Standard,Mountain,1,Invoice,3,0
+CH00678,2,106.52,200.25,Premium,Mountain,0,Invoice,4,1
+CH00679,56,61.8,3443.07,Basic,Mountain,2,AutoPay,3,0
+CH00680,70,51.31,3535.24,Basic,Northwest,1,Credit Card,4,0
+CH00681,62,90.98,5740.01,Standard,Mountain,0,Invoice,4,0
+CH00682,3,90.73,269.03,Standard,Southwest,3,AutoPay,2,0
+CH00683,4,50.07,209.28,Basic,Southwest,0,Credit Card,4,1
+CH00684,24,61.11,1323.35,Basic,Northwest,1,Credit Card,3,0
+CH00685,64,45.75,2962.14,Basic,Mountain,2,Invoice,3,0
+CH00686,24,89.35,2063.47,Standard,Northwest,0,AutoPay,5,0
+CH00687,30,40.26,1189.23,Basic,West,4,Credit Card,5,0
+CH00688,59,110.78,6448.14,Premium,West,1,Bank Transfer,3,1
+CH00689,10,112.68,1109.23,Premium,Southwest,0,Bank Transfer,4,0
+CH00690,7,116.47,782.89,Premium,Southwest,1,Invoice,4,0
+CH00691,2,42.7,80.91,Basic,Mountain,1,Invoice,3,0
+CH00692,26,76.06,1803.86,Standard,Northwest,3,Invoice,5,1
+CH00693,13,118.77,1554.68,Premium,West,0,Bank Transfer,4,0
+CH00694,22,36.15,764.29,Basic,Mountain,1,AutoPay,3,0
+CH00695,8,125.72,1027.52,Premium,West,0,Bank Transfer,3,1
+CH00696,12,84.22,916.2,Standard,West,1,Invoice,5,0
+CH00697,38,122.17,4403.29,Premium,Northwest,3,AutoPay,3,0
+CH00698,21,68.48,1452.41,Standard,Mountain,1,Invoice,2,0
+CH00699,23,136.27,3222.21,Premium,Mountain,2,Bank Transfer,4,0
+CH00700,10,114.65,1180.22,Premium,Northwest,3,Credit Card,5,0
+CH00701,29,123.33,3655.9,Premium,Southwest,2,Bank Transfer,4,0
+CH00702,49,64.59,3010.45,Basic,Mountain,0,Bank Transfer,2,0
+CH00703,40,48.52,1965.34,Basic,West,2,AutoPay,3,0
+CH00704,34,85.2,3026.76,Standard,West,2,AutoPay,3,1
+CH00705,39,26.66,1048.64,Basic,Northwest,0,Credit Card,3,0
+CH00706,57,67.35,3605.57,Standard,Southwest,0,Credit Card,4,0
+CH00707,38,84.8,3167.51,Standard,West,1,Bank Transfer,4,0
+CH00708,55,127.51,6812.24,Premium,Northwest,4,AutoPay,5,1
+CH00709,37,116.96,3959.1,Premium,West,0,Credit Card,3,0
+CH00710,70,58.67,3881.01,Basic,Northwest,4,Bank Transfer,3,0
+CH00711,54,61.43,3314.55,Basic,Mountain,1,Credit Card,1,0
+CH00712,10,57.3,579.76,Basic,Southwest,0,Bank Transfer,4,0
+CH00713,11,130.33,1456.8,Premium,West,0,Invoice,4,0
+CH00714,24,115.65,2767.04,Premium,West,1,Credit Card,4,0
+CH00715,26,87.88,2141.47,Standard,West,1,Bank Transfer,5,0
+CH00716,63,63.9,3725.07,Basic,Mountain,0,Bank Transfer,5,0
+CH00717,53,37.81,1809.66,Basic,Mountain,2,AutoPay,2,0
+CH00718,14,76.43,986.33,Standard,Mountain,0,Bank Transfer,4,0
+CH00719,48,79.62,3447.94,Standard,Southwest,2,AutoPay,5,1
+CH00720,71,120.22,8528.29,Premium,Northwest,0,Credit Card,3,0
+CH00721,56,98.91,5680.4,Standard,Mountain,3,Credit Card,4,0
+CH00722,13,42.84,503.04,Basic,Northwest,2,AutoPay,4,0
+CH00723,57,121.94,6705.29,Premium,Southwest,1,Credit Card,4,0
+CH00724,14,89.31,1275.98,Standard,West,0,AutoPay,3,0
+CH00725,65,77.3,4532.06,Standard,Mountain,1,Credit Card,4,0
+CH00726,10,72.5,676.53,Standard,Mountain,1,Bank Transfer,4,0
+CH00727,50,45.65,2085.7,Basic,West,4,AutoPay,3,0
+CH00728,18,123.44,2185.71,Premium,West,2,AutoPay,3,0
+CH00729,37,61.8,2227.57,Basic,West,2,Invoice,3,0
+CH00730,4,77.03,285.38,Standard,Northwest,0,AutoPay,3,1
+CH00731,40,44.85,1828.57,Basic,Southwest,0,Credit Card,3,1
+CH00732,41,70.63,2707.14,Standard,Northwest,0,Credit Card,3,1
+CH00733,7,119.94,849.86,Premium,West,2,Invoice,4,0
+CH00734,38,73.33,2905.55,Standard,Mountain,2,Bank Transfer,3,0
+CH00735,6,98.16,535.73,Standard,Southwest,2,Invoice,5,0
+CH00736,65,42.11,2504.83,Basic,Northwest,1,AutoPay,5,1
+CH00737,3,55.32,173.38,Basic,Mountain,0,Invoice,4,1
+CH00738,63,78.53,5141.02,Standard,Northwest,1,Credit Card,4,0
+CH00739,71,62.43,4622.33,Standard,Southwest,1,Invoice,5,0
+CH00740,19,75.71,1311.33,Standard,Northwest,0,Invoice,4,0
+CH00741,32,82.42,2550.34,Standard,Mountain,0,Bank Transfer,4,0
+CH00742,17,91.72,1497.71,Standard,Northwest,2,Bank Transfer,4,0
+CH00743,36,45.37,1487.35,Basic,West,2,Bank Transfer,4,1
+CH00744,56,116.07,6479.12,Premium,Southwest,1,Invoice,4,0
+CH00745,25,82.29,1983.53,Standard,Southwest,1,AutoPay,5,0
+CH00746,17,73.73,1180.17,Standard,Mountain,1,Credit Card,4,0
+CH00747,24,36.21,907.44,Basic,West,2,Bank Transfer,4,0
+CH00748,64,73.59,4890.03,Standard,West,0,Credit Card,4,0
+CH00749,11,54.34,597.69,Basic,Mountain,1,AutoPay,5,0
+CH00750,2,62.13,114.08,Basic,Southwest,3,Credit Card,3,1
+CH00751,25,85.37,2087.76,Standard,Southwest,0,AutoPay,5,0
+CH00752,2,56.49,102.28,Basic,Northwest,2,Invoice,1,1
+CH00753,13,34.8,438.9,Basic,Mountain,0,Invoice,3,0
+CH00754,58,75.34,4441.9,Standard,Southwest,1,Invoice,3,0
+CH00755,64,77.5,4893.25,Standard,Mountain,1,Invoice,5,0
+CH00756,32,30.93,893.97,Basic,West,1,Invoice,5,0
+CH00757,52,98.64,4919.6,Standard,Southwest,2,Bank Transfer,3,0
+CH00758,59,79.93,4475.65,Standard,Mountain,1,Bank Transfer,4,0
+CH00759,30,47.9,1492.92,Basic,Mountain,3,Bank Transfer,3,1
+CH00760,23,48.4,1082.62,Basic,Northwest,2,Credit Card,5,0
+CH00761,5,52.86,248.12,Basic,Southwest,0,AutoPay,5,1
+CH00762,47,55.07,2558.6,Basic,Mountain,0,AutoPay,3,0
+CH00763,65,110.26,7494.05,Premium,Southwest,0,AutoPay,3,1
+CH00764,24,128.47,2850.35,Premium,Northwest,0,AutoPay,4,0
+CH00765,59,45.73,2831.03,Basic,West,2,Credit Card,4,0
+CH00766,4,76.28,293.23,Standard,Southwest,0,Credit Card,3,0
+CH00767,39,48.47,1940.29,Basic,Southwest,2,Invoice,5,0
+CH00768,58,49.59,2929.06,Basic,Northwest,2,AutoPay,3,1
+CH00769,33,75.27,2571.38,Standard,Southwest,0,Bank Transfer,5,0
+CH00770,26,67.08,1663.05,Standard,Northwest,1,AutoPay,3,0
+CH00771,63,42.46,2633.05,Basic,Southwest,2,Invoice,4,1
+CH00772,6,54.03,327.25,Basic,Mountain,2,AutoPay,3,1
+CH00773,68,57.69,3910.42,Basic,Southwest,2,Bank Transfer,3,0
+CH00774,57,47.62,2805.96,Basic,Mountain,0,AutoPay,2,0
+CH00775,61,46.22,2864.52,Basic,Mountain,1,AutoPay,4,0
+CH00776,14,87.42,1125.95,Standard,Northwest,1,Invoice,4,0
+CH00777,25,39.9,997.35,Basic,West,2,Invoice,4,0
+CH00778,46,60.82,2613.15,Basic,Mountain,0,Bank Transfer,3,0
+CH00779,29,52.88,1590.73,Basic,Southwest,0,AutoPay,4,0
+CH00780,13,132.99,1765.23,Premium,Northwest,3,Credit Card,5,0
+CH00781,1,81.6,77.46,Standard,Southwest,3,Credit Card,5,0
+CH00782,22,62.74,1370.37,Basic,West,2,Bank Transfer,4,0
+CH00783,43,53.95,2202.44,Basic,West,0,Invoice,3,1
+CH00784,64,106.39,6833.53,Premium,Mountain,0,Invoice,5,0
+CH00785,8,47.91,387.15,Basic,Mountain,0,Invoice,3,1
+CH00786,16,58.36,967.03,Basic,Mountain,0,AutoPay,4,0
+CH00787,62,52.09,3288.95,Basic,Mountain,2,AutoPay,4,0
+CH00788,30,125.1,3577.22,Premium,West,0,Credit Card,2,0
+CH00789,10,51.47,475.51,Basic,Northwest,3,Invoice,3,1
+CH00790,35,67.73,2219.21,Basic,Northwest,1,Bank Transfer,4,0
+CH00791,50,37.47,1948.68,Basic,Southwest,0,Bank Transfer,3,0
+CH00792,41,38.77,1533.18,Basic,Mountain,2,AutoPay,4,0
+CH00793,41,50.94,1891.49,Basic,Northwest,1,Invoice,4,0
+CH00794,57,83.61,4809.63,Standard,West,1,Credit Card,5,0
+CH00795,67,51.59,3203.42,Basic,Mountain,4,Invoice,5,0
+CH00796,14,55.0,720.06,Basic,Southwest,0,Credit Card,3,1
+CH00797,16,63.94,1052.77,Standard,Southwest,1,AutoPay,3,0
+CH00798,41,48.85,1938.02,Basic,West,0,AutoPay,4,0
+CH00799,61,120.28,7359.31,Premium,Northwest,2,AutoPay,3,1
+CH00800,67,125.04,8320.7,Premium,Mountain,1,Bank Transfer,5,0
+CH00801,46,76.63,3468.56,Standard,West,1,Credit Card,5,0
+CH00802,55,68.4,3626.71,Standard,Southwest,1,Invoice,3,0
+CH00803,7,82.16,526.59,Standard,West,1,Bank Transfer,4,0
+CH00804,54,69.78,3554.38,Standard,West,5,AutoPay,3,0
+CH00805,25,36.87,939.35,Basic,Southwest,4,Invoice,4,1
+CH00806,46,107.28,4445.72,Premium,Northwest,1,Bank Transfer,3,0
+CH00807,16,109.51,1798.82,Premium,Southwest,1,Bank Transfer,4,0
+CH00808,45,119.93,5267.66,Premium,Southwest,3,Bank Transfer,2,0
+CH00809,8,39.82,296.68,Basic,Mountain,0,Credit Card,3,1
+CH00810,28,35.03,1015.66,Basic,Southwest,0,Bank Transfer,4,0
+CH00811,38,53.5,2033.32,Basic,Mountain,0,Credit Card,4,0
+CH00812,15,40.44,548.59,Basic,West,0,AutoPay,2,1
+CH00813,9,63.24,558.57,Basic,Northwest,0,Credit Card,2,0
+CH00814,9,91.41,819.48,Standard,Northwest,3,AutoPay,4,0
+CH00815,42,58.74,2376.6,Basic,Mountain,0,Bank Transfer,3,1
+CH00816,3,55.95,157.75,Basic,Mountain,1,Bank Transfer,3,0
+CH00817,59,51.39,2837.01,Basic,Southwest,1,Invoice,4,0
+CH00818,25,73.1,1724.45,Standard,Northwest,2,Bank Transfer,3,0
+CH00819,29,92.1,2509.41,Standard,Southwest,5,Invoice,4,0
+CH00820,30,35.35,1000.55,Basic,West,0,Bank Transfer,3,0
+CH00821,67,117.72,7154.05,Premium,West,2,Credit Card,4,1
+CH00822,13,90.99,1165.46,Standard,West,2,Invoice,3,0
+CH00823,52,43.64,2176.56,Basic,Mountain,2,Bank Transfer,3,0
+CH00824,54,87.44,4751.05,Standard,West,1,Bank Transfer,4,0
+CH00825,58,74.39,4310.37,Standard,Southwest,4,Invoice,5,0
+CH00826,11,75.82,791.32,Standard,Northwest,0,Credit Card,4,0
+CH00827,69,67.94,4647.29,Basic,West,0,Invoice,4,0
+CH00828,49,118.67,5525.45,Premium,West,1,Bank Transfer,3,0
+CH00829,58,108.13,6370.12,Premium,Mountain,0,Bank Transfer,2,1
+CH00830,71,60.02,4005.28,Basic,Mountain,0,Bank Transfer,4,0
+CH00831,3,83.69,259.24,Standard,West,0,Bank Transfer,3,0
+CH00832,53,84.25,4064.09,Standard,Southwest,1,Credit Card,4,0
+CH00833,3,67.13,203.73,Standard,Northwest,0,AutoPay,5,0
+CH00834,37,45.53,1728.54,Basic,Mountain,0,Credit Card,4,0
+CH00835,30,71.39,2215.28,Standard,Southwest,1,Bank Transfer,2,0
+CH00836,36,59.0,1913.47,Basic,Northwest,1,Credit Card,5,0
+CH00837,22,65.03,1317.15,Standard,West,0,Bank Transfer,5,0
+CH00838,39,55.64,2031.79,Basic,West,2,Credit Card,4,0
+CH00839,34,80.0,2562.78,Standard,Northwest,0,Credit Card,4,0
+CH00840,54,116.16,6487.84,Premium,West,0,Invoice,3,0
+CH00841,26,42.08,1101.71,Basic,Mountain,0,Bank Transfer,3,0
+CH00842,41,130.49,5404.11,Premium,Mountain,0,AutoPay,4,0
+CH00843,15,50.53,745.46,Basic,West,4,AutoPay,5,1
+CH00844,11,78.22,787.32,Standard,Northwest,1,Bank Transfer,4,0
+CH00845,65,104.5,6364.71,Premium,Southwest,1,Invoice,5,0
+CH00846,21,68.01,1497.96,Standard,Northwest,0,Credit Card,3,0
+CH00847,19,35.44,655.26,Basic,Mountain,2,Bank Transfer,4,1
+CH00848,43,96.17,3853.76,Premium,Mountain,0,Bank Transfer,3,1
+CH00849,59,27.38,1662.16,Basic,Southwest,1,AutoPay,4,0
+CH00850,71,128.14,8435.15,Premium,West,2,Invoice,4,1
+CH00851,50,68.63,3095.59,Standard,Northwest,1,Invoice,4,0
+CH00852,14,57.97,818.07,Basic,Southwest,3,Bank Transfer,5,0
+CH00853,61,44.36,2822.62,Basic,Southwest,1,AutoPay,3,0
+CH00854,1,45.38,46.43,Basic,West,2,AutoPay,3,0
+CH00855,3,73.39,212.84,Standard,Southwest,1,Credit Card,4,0
+CH00856,52,74.88,3521.28,Standard,Mountain,1,Bank Transfer,5,0
+CH00857,4,91.06,362.85,Standard,Northwest,1,AutoPay,3,0
+CH00858,47,104.97,4745.35,Standard,Mountain,2,Credit Card,4,1
+CH00859,66,70.06,4381.05,Standard,Northwest,0,Credit Card,3,0
+CH00860,28,37.43,1014.29,Basic,West,0,Invoice,3,0
+CH00861,38,121.59,4190.42,Premium,West,1,Bank Transfer,3,0
+CH00862,49,86.4,4231.34,Standard,Southwest,1,Bank Transfer,5,0
+CH00863,56,63.51,3464.55,Standard,Mountain,1,Invoice,1,1
+CH00864,13,35.21,452.69,Basic,Mountain,3,Credit Card,4,0
+CH00865,66,49.36,3178.17,Basic,Mountain,3,AutoPay,4,0
+CH00866,15,103.66,1628.56,Premium,Mountain,0,Bank Transfer,4,0
+CH00867,11,85.34,890.32,Standard,Mountain,1,Credit Card,4,0
+CH00868,21,52.35,1148.49,Basic,Southwest,2,Bank Transfer,4,0
+CH00869,52,86.31,4440.22,Standard,Mountain,3,Bank Transfer,5,0
+CH00870,24,53.71,1305.39,Basic,Northwest,3,AutoPay,5,0
+CH00871,4,53.35,197.95,Basic,Mountain,1,Credit Card,4,0
+CH00872,14,74.45,1032.84,Standard,Southwest,2,Credit Card,3,0
+CH00873,54,44.38,2479.55,Basic,Northwest,2,Bank Transfer,5,0
+CH00874,64,82.61,5450.41,Standard,Southwest,2,Bank Transfer,4,0
+CH00875,12,107.16,1180.96,Premium,West,2,Bank Transfer,3,0
+CH00876,20,54.47,1103.38,Basic,Mountain,1,Bank Transfer,3,1
+CH00877,13,35.73,435.34,Basic,Northwest,0,Credit Card,3,0
+CH00878,46,51.2,2291.83,Basic,Northwest,2,Invoice,4,0
+CH00879,14,53.98,725.07,Basic,Southwest,1,Invoice,4,0
+CH00880,64,128.43,7925.44,Premium,Southwest,3,AutoPay,4,0
+CH00881,1,73.74,72.99,Standard,Mountain,2,Bank Transfer,3,0
+CH00882,19,92.18,1602.81,Standard,West,0,Credit Card,4,0
+CH00883,53,70.49,3576.43,Standard,Mountain,0,AutoPay,3,0
+CH00884,71,125.0,8095.63,Premium,Southwest,0,Credit Card,4,0
+CH00885,41,41.21,1733.15,Basic,Southwest,0,Bank Transfer,5,0
+CH00886,14,85.66,1148.34,Standard,Mountain,1,Bank Transfer,4,0
+CH00887,36,44.16,1501.25,Basic,West,0,AutoPay,5,0
+CH00888,1,61.75,61.18,Basic,Mountain,3,Invoice,4,0
+CH00889,17,62.18,979.09,Standard,West,1,AutoPay,4,0
+CH00890,61,45.66,2602.17,Basic,Southwest,1,Invoice,4,1
+CH00891,31,92.19,2851.44,Standard,Northwest,1,AutoPay,4,0
+CH00892,64,56.92,3321.01,Basic,Northwest,2,AutoPay,3,0
+CH00893,70,36.09,2621.86,Basic,Southwest,0,Credit Card,3,0
+CH00894,39,118.6,4375.28,Premium,Mountain,0,AutoPay,2,0
+CH00895,8,115.11,954.35,Premium,Mountain,0,Bank Transfer,5,0
+CH00896,42,79.86,3494.48,Standard,Northwest,0,Credit Card,3,0
+CH00897,66,80.45,4858.87,Standard,West,1,Credit Card,4,0
+CH00898,28,49.69,1348.47,Basic,Mountain,0,Invoice,4,0
+CH00899,5,48.98,243.58,Basic,West,2,Invoice,4,0
+CH00900,13,82.07,1089.06,Standard,Mountain,3,AutoPay,4,0
+CH00901,2,100.92,201.56,Standard,Mountain,2,Bank Transfer,4,0
+CH00902,62,84.51,5323.61,Standard,Northwest,2,AutoPay,3,0
+CH00903,52,51.16,2424.49,Basic,West,2,AutoPay,3,0
+CH00904,3,66.85,200.08,Basic,Mountain,1,Bank Transfer,5,1
+CH00905,48,72.11,3154.29,Standard,Southwest,0,Bank Transfer,4,0
+CH00906,57,115.79,6165.85,Premium,Southwest,1,Invoice,5,0
+CH00907,23,71.45,1686.61,Basic,Southwest,2,AutoPay,4,0
+CH00908,41,42.39,1818.13,Basic,Southwest,1,AutoPay,3,0
+CH00909,60,55.46,3011.78,Basic,West,0,Invoice,3,0
+CH00910,34,76.59,2489.29,Standard,West,4,AutoPay,5,0
+CH00911,42,108.44,4671.95,Premium,Southwest,3,Credit Card,5,0
+CH00912,34,54.51,1873.95,Basic,West,2,Bank Transfer,4,0
+CH00913,40,74.85,2872.09,Standard,Southwest,1,Invoice,3,0
+CH00914,5,97.6,501.18,Standard,West,2,Bank Transfer,4,0
+CH00915,53,61.04,3115.18,Basic,West,3,Bank Transfer,5,1
+CH00916,14,47.67,641.64,Basic,Southwest,1,Invoice,4,0
+CH00917,26,76.35,1800.04,Standard,Northwest,3,Invoice,3,0
+CH00918,55,69.8,3746.2,Standard,Southwest,3,Bank Transfer,4,0
+CH00919,10,57.13,565.91,Standard,Southwest,5,Credit Card,2,1
+CH00920,50,64.71,3211.91,Standard,Northwest,3,AutoPay,4,1
+CH00921,37,46.89,1668.3,Basic,Southwest,2,Credit Card,3,0
+CH00922,25,79.04,1907.74,Standard,Southwest,0,Bank Transfer,3,0
+CH00923,65,70.64,4308.1,Standard,Mountain,2,AutoPay,5,0
+CH00924,58,51.27,2983.02,Basic,West,1,AutoPay,3,1
+CH00925,68,141.65,9215.64,Premium,Mountain,2,Credit Card,3,0
+CH00926,36,51.75,1694.58,Basic,Southwest,1,Credit Card,3,0
+CH00927,6,76.57,476.61,Standard,West,2,Bank Transfer,5,0
+CH00928,66,70.05,4457.62,Standard,Mountain,2,Credit Card,4,0
+CH00929,31,61.14,1842.7,Basic,Northwest,1,Credit Card,5,0
+CH00930,25,73.45,1795.06,Standard,Northwest,2,Credit Card,4,1
+CH00931,11,71.46,798.88,Standard,Northwest,0,Invoice,3,0
+CH00932,8,44.8,345.55,Basic,Northwest,1,Invoice,5,1
+CH00933,14,89.54,1204.26,Standard,Mountain,0,Bank Transfer,4,0
+CH00934,1,85.2,82.19,Standard,West,0,Credit Card,3,1
+CH00935,21,94.61,2009.49,Standard,Southwest,1,Credit Card,5,0
+CH00936,34,79.29,2743.62,Standard,Mountain,2,Bank Transfer,4,0
+CH00937,57,56.56,3114.34,Basic,Mountain,2,Invoice,4,0
+CH00938,1,104.65,97.18,Premium,Northwest,1,Bank Transfer,4,0
+CH00939,44,101.15,4102.98,Standard,Southwest,2,Invoice,4,0
+CH00940,18,85.3,1520.88,Standard,Southwest,2,AutoPay,2,0
+CH00941,66,57.28,3478.45,Basic,Southwest,0,AutoPay,4,0
+CH00942,31,78.85,2211.01,Standard,Southwest,5,Credit Card,3,1
+CH00943,38,44.81,1591.86,Basic,Mountain,0,Credit Card,4,0
+CH00944,21,92.57,2004.12,Standard,Northwest,0,Invoice,3,0
+CH00945,12,127.96,1451.03,Premium,Southwest,1,Credit Card,3,0
+CH00946,46,79.58,3505.2,Standard,West,0,Credit Card,5,0
+CH00947,25,63.36,1562.51,Standard,Mountain,3,AutoPay,4,0
+CH00948,45,53.86,2534.56,Basic,West,0,AutoPay,3,0
+CH00949,13,63.26,848.26,Standard,Northwest,2,AutoPay,3,0
+CH00950,62,87.05,5216.48,Standard,Northwest,1,Bank Transfer,4,0
+CH00951,4,77.18,309.54,Standard,Southwest,1,Credit Card,3,1
+CH00952,46,55.44,2322.33,Basic,West,1,Bank Transfer,3,0
+CH00953,68,73.74,4939.33,Standard,Mountain,0,Credit Card,2,0
+CH00954,20,44.0,915.22,Basic,West,3,AutoPay,4,0
+CH00955,26,144.9,3894.19,Premium,Southwest,1,Bank Transfer,5,0
+CH00956,41,67.12,2660.4,Standard,West,2,Bank Transfer,3,0
+CH00957,33,97.89,3370.3,Premium,Mountain,0,Credit Card,3,0
+CH00958,54,117.68,6428.72,Premium,Mountain,2,Bank Transfer,4,0
+CH00959,48,84.29,3642.1,Standard,Mountain,1,Bank Transfer,3,0
+CH00960,12,55.75,696.7,Basic,Southwest,0,AutoPay,4,0
+CH00961,51,118.11,6303.33,Premium,Mountain,1,Bank Transfer,4,0
+CH00962,47,82.91,3624.54,Standard,Northwest,1,Credit Card,5,0
+CH00963,56,40.18,2231.01,Basic,West,1,Credit Card,4,0
+CH00964,60,134.48,8370.05,Premium,Northwest,0,Invoice,4,0
+CH00965,60,39.99,2164.13,Basic,West,3,Credit Card,3,0
+CH00966,61,121.05,7731.95,Premium,West,3,Invoice,4,0
+CH00967,71,106.05,7553.58,Standard,West,2,Invoice,5,0
+CH00968,54,64.74,3638.6,Basic,West,2,Invoice,5,0
+CH00969,16,93.17,1417.52,Standard,Southwest,0,Bank Transfer,4,0
+CH00970,8,81.34,628.71,Standard,Northwest,1,AutoPay,3,1
+CH00971,60,121.22,6589.68,Premium,Southwest,1,Invoice,3,0
+CH00972,36,109.17,3619.2,Premium,Mountain,1,Invoice,4,1
+CH00973,50,39.27,2061.19,Basic,West,1,Invoice,3,0
+CH00974,31,26.56,771.92,Basic,Northwest,1,AutoPay,5,0
+CH00975,30,72.6,1990.28,Standard,Northwest,0,Bank Transfer,3,0
+CH00976,44,92.18,3810.56,Standard,Mountain,1,AutoPay,3,0
+CH00977,49,104.72,5072.82,Premium,Northwest,3,AutoPay,5,0
+CH00978,37,78.66,2698.18,Standard,Northwest,0,Bank Transfer,2,0
+CH00979,39,90.73,3286.63,Standard,Southwest,1,Invoice,4,0
+CH00980,62,69.81,4026.72,Standard,Mountain,0,Bank Transfer,3,0
+CH00981,58,40.38,2128.18,Basic,Northwest,2,AutoPay,4,0
+CH00982,24,44.16,1079.06,Basic,Northwest,3,Invoice,4,0
+CH00983,14,49.37,676.16,Basic,Northwest,3,AutoPay,4,1
+CH00984,67,119.39,8043.1,Premium,Northwest,0,AutoPay,2,1
+CH00985,26,104.49,2592.36,Premium,Northwest,2,Bank Transfer,3,0
+CH00986,15,69.07,1002.89,Standard,Mountain,3,AutoPay,3,0
+CH00987,26,83.8,2158.71,Standard,West,0,Invoice,3,0
+CH00988,41,88.47,3767.17,Standard,Northwest,2,Invoice,5,0
+CH00989,22,53.11,1172.71,Basic,Northwest,2,Bank Transfer,4,0
+CH00990,53,110.41,5267.08,Premium,Southwest,0,Credit Card,4,0
+CH00991,61,46.92,2675.83,Basic,Northwest,3,Bank Transfer,5,0
+CH00992,45,125.61,5749.21,Premium,Southwest,1,AutoPay,4,0
+CH00993,42,48.33,1884.93,Basic,Southwest,1,Credit Card,4,0
+CH00994,8,100.67,808.62,Premium,Southwest,0,Credit Card,2,0
+CH00995,19,87.26,1719.32,Standard,West,2,Invoice,3,0
+CH00996,21,48.62,993.65,Basic,West,0,AutoPay,4,0
+CH00997,52,86.88,4456.83,Standard,Mountain,3,Bank Transfer,4,0
+CH00998,11,47.17,535.96,Basic,Southwest,2,Bank Transfer,3,1
+CH00999,33,54.71,1678.24,Basic,Southwest,0,Credit Card,3,0
+CH01000,43,132.95,5279.74,Premium,Northwest,1,Credit Card,3,0
+CH01001,40,65.79,2468.42,Basic,Southwest,5,AutoPay,3,0
+CH01002,2,83.23,153.37,Standard,West,0,Invoice,3,0
+CH01003,24,117.54,2798.77,Premium,West,1,Invoice,3,0
+CH01004,15,75.19,1126.48,Standard,Northwest,3,Bank Transfer,3,0
+CH01005,24,56.77,1329.67,Basic,Southwest,0,Bank Transfer,3,1
+CH01006,14,85.07,1221.89,Standard,Mountain,2,Invoice,4,0
+CH01007,3,62.35,177.45,Basic,West,3,Invoice,2,1
+CH01008,10,68.58,623.57,Basic,Mountain,2,Bank Transfer,5,0
+CH01009,17,116.52,1923.34,Premium,West,1,AutoPay,2,1
+CH01010,12,107.21,1332.13,Premium,Southwest,3,Credit Card,5,0
+CH01011,21,82.82,1786.66,Standard,Northwest,0,Invoice,4,0
+CH01012,23,59.5,1327.98,Basic,Northwest,0,Invoice,4,0
+CH01013,9,72.03,642.12,Standard,Northwest,0,Credit Card,2,1
+CH01014,41,40.01,1673.56,Basic,Mountain,0,Credit Card,3,0
+CH01015,60,35.45,2028.37,Basic,Mountain,1,Bank Transfer,5,0
+CH01016,9,55.29,472.21,Basic,Northwest,1,AutoPay,4,0
+CH01017,9,57.75,473.75,Basic,Northwest,2,Invoice,3,1
+CH01018,46,75.59,3403.7,Standard,Mountain,0,AutoPay,4,0
+CH01019,30,144.83,4386.76,Premium,Northwest,3,AutoPay,3,1
+CH01020,11,118.79,1181.52,Premium,West,2,Bank Transfer,4,0
+CH01021,60,109.62,6624.91,Premium,Mountain,0,Bank Transfer,4,0
+CH01022,28,51.12,1488.75,Basic,Southwest,1,Bank Transfer,4,0
+CH01023,64,46.35,2820.93,Basic,Southwest,0,Bank Transfer,3,0
+CH01024,58,37.05,2155.36,Basic,West,3,Bank Transfer,5,0
+CH01025,33,64.26,2178.68,Standard,Mountain,0,Invoice,3,0
+CH01026,27,117.27,3030.78,Premium,West,2,Bank Transfer,2,0
+CH01027,62,45.24,2885.16,Basic,Northwest,3,Credit Card,5,0
+CH01028,17,51.13,820.82,Basic,Mountain,0,AutoPay,4,0
+CH01029,16,49.5,828.68,Basic,Northwest,1,AutoPay,4,0
+CH01030,30,87.32,2580.67,Standard,Northwest,2,Invoice,3,1
+CH01031,17,80.21,1252.17,Standard,Mountain,0,Credit Card,5,0
+CH01032,35,46.4,1678.95,Basic,Northwest,2,Bank Transfer,4,0
+CH01033,61,49.6,2791.41,Basic,Mountain,1,AutoPay,3,0
+CH01034,6,54.03,315.76,Basic,West,0,AutoPay,4,0
+CH01035,3,110.11,314.44,Premium,West,5,AutoPay,4,1
+CH01036,24,58.35,1388.3,Basic,Southwest,0,Bank Transfer,5,0
+CH01037,35,64.6,2362.0,Standard,Mountain,0,AutoPay,4,0
+CH01038,68,45.22,2955.0,Basic,Mountain,3,Invoice,4,0
+CH01039,15,36.12,557.44,Basic,Mountain,3,AutoPay,4,0
+CH01040,62,75.98,4260.47,Standard,Northwest,1,Invoice,5,0
+CH01041,13,71.28,933.72,Standard,Southwest,1,Invoice,3,0
+CH01042,57,119.04,6203.62,Premium,Northwest,1,Invoice,2,1
+CH01043,26,56.26,1370.12,Standard,Northwest,2,Credit Card,4,0
+CH01044,53,96.33,5252.42,Standard,Southwest,1,Invoice,4,0
+CH01045,48,70.81,3568.07,Standard,Northwest,2,Invoice,4,0
+CH01046,59,136.36,7279.75,Premium,Southwest,0,AutoPay,2,0
+CH01047,51,114.85,5569.75,Premium,Northwest,1,AutoPay,4,0
+CH01048,8,118.43,946.02,Premium,Mountain,1,Bank Transfer,4,0
+CH01049,56,91.32,4735.51,Standard,West,2,AutoPay,3,0
+CH01050,64,55.33,3466.27,Basic,Southwest,0,AutoPay,2,0
+CH01051,42,128.36,4937.81,Premium,Northwest,1,Credit Card,4,0
+CH01052,9,52.19,459.15,Basic,West,1,Credit Card,3,0
+CH01053,26,79.06,2086.82,Standard,Northwest,1,Invoice,5,0
+CH01054,7,124.42,866.59,Premium,Northwest,1,AutoPay,4,0
+CH01055,72,70.23,4852.63,Standard,Northwest,3,Bank Transfer,4,0
+CH01056,52,46.57,2311.31,Basic,Northwest,5,Credit Card,4,0
+CH01057,8,83.98,615.49,Standard,West,0,Bank Transfer,5,0
+CH01058,68,56.45,3853.02,Basic,Northwest,0,Credit Card,4,0
+CH01059,49,55.1,2606.14,Basic,West,2,Bank Transfer,4,0
+CH01060,33,69.57,2252.71,Standard,Southwest,1,Credit Card,5,0
+CH01061,28,110.48,2996.31,Premium,Mountain,0,AutoPay,5,0
+CH01062,9,67.6,637.97,Standard,West,0,AutoPay,2,1
+CH01063,48,116.46,5158.84,Premium,Mountain,4,Credit Card,3,0
+CH01064,21,76.04,1513.65,Standard,West,2,Invoice,5,0
+CH01065,33,119.71,3908.66,Premium,Mountain,2,Invoice,5,0
+CH01066,65,71.5,4462.87,Standard,West,3,AutoPay,3,0
+CH01067,3,112.81,353.62,Premium,Mountain,1,Credit Card,4,0
+CH01068,8,53.77,393.49,Basic,Southwest,1,Credit Card,5,0
+CH01069,48,91.77,4514.85,Standard,West,0,Credit Card,4,0
+CH01070,45,19.35,905.6,Basic,West,0,Invoice,4,1
+CH01071,30,83.99,2639.67,Standard,Southwest,4,Credit Card,3,1
+CH01072,34,78.88,2427.99,Standard,Southwest,0,AutoPay,3,0
+CH01073,33,46.91,1443.14,Basic,Mountain,1,AutoPay,4,0
+CH01074,25,78.91,1900.42,Standard,West,4,Bank Transfer,4,0
+CH01075,12,40.86,511.24,Basic,Mountain,1,Bank Transfer,4,0
+CH01076,56,101.25,5405.5,Premium,Southwest,0,Bank Transfer,4,0
+CH01077,57,52.62,2890.68,Basic,Southwest,2,Credit Card,5,0
+CH01078,35,74.03,2513.58,Basic,West,2,AutoPay,4,1
+CH01079,36,72.3,2526.26,Standard,Southwest,0,Bank Transfer,5,0
+CH01080,11,39.8,426.0,Basic,Northwest,1,AutoPay,4,0
+CH01081,58,119.87,7206.89,Premium,Mountain,3,AutoPay,5,0
+CH01082,29,84.5,2303.65,Standard,West,2,AutoPay,4,0
+CH01083,20,110.05,2254.67,Premium,Mountain,3,Credit Card,2,1
+CH01084,11,77.82,779.59,Standard,Southwest,1,Credit Card,3,0
+CH01085,36,70.25,2634.3,Basic,West,1,Bank Transfer,4,0
+CH01086,17,76.22,1202.12,Standard,Northwest,3,Credit Card,5,0
+CH01087,31,86.81,2776.02,Standard,Mountain,1,AutoPay,4,0
+CH01088,58,121.55,7163.28,Premium,Northwest,2,Invoice,3,1
+CH01089,62,44.14,2825.32,Basic,Northwest,1,Credit Card,3,0
+CH01090,51,114.92,6099.74,Premium,Northwest,0,Invoice,3,0
+CH01091,19,88.66,1653.81,Standard,Southwest,2,Invoice,4,0
+CH01092,28,72.23,2095.85,Standard,Northwest,0,Bank Transfer,4,0
+CH01093,26,77.15,1871.88,Standard,Mountain,2,Invoice,5,0
+CH01094,44,76.66,3464.95,Standard,Southwest,1,Bank Transfer,5,0
+CH01095,10,53.41,542.31,Basic,Northwest,2,AutoPay,4,0
+CH01096,9,58.05,505.99,Standard,West,3,Bank Transfer,4,0
+CH01097,39,35.81,1448.81,Basic,Southwest,1,Bank Transfer,4,0
+CH01098,4,117.09,456.43,Premium,West,3,Credit Card,3,1
+CH01099,66,69.09,4664.82,Standard,Mountain,3,AutoPay,5,1
+CH01100,13,51.59,663.49,Basic,Northwest,0,Credit Card,3,0
+CH01101,67,70.71,4804.24,Standard,West,1,Invoice,4,1
+CH01102,43,52.76,2184.91,Basic,West,1,AutoPay,3,0
+CH01103,13,130.81,1653.6,Premium,Northwest,0,Bank Transfer,4,0
+CH01104,33,100.13,3204.27,Standard,West,2,AutoPay,4,0
+CH01105,35,41.16,1422.09,Basic,Southwest,2,AutoPay,3,1
+CH01106,47,46.26,2144.06,Basic,Mountain,1,Invoice,4,0
+CH01107,41,80.95,3145.99,Standard,Northwest,1,AutoPay,5,0
+CH01108,10,67.26,644.79,Basic,West,1,Invoice,2,0
+CH01109,31,108.18,3512.35,Premium,Northwest,0,Bank Transfer,3,1
+CH01110,10,32.34,336.19,Basic,Mountain,2,Credit Card,3,0
+CH01111,50,69.12,3273.45,Standard,Southwest,1,Invoice,2,1
+CH01112,71,82.83,5799.37,Standard,Southwest,3,Invoice,3,0
+CH01113,22,55.47,1150.66,Basic,Mountain,0,AutoPay,2,0
+CH01114,67,56.26,3606.23,Basic,Southwest,1,Credit Card,3,0
+CH01115,9,55.28,488.77,Basic,Southwest,0,AutoPay,4,0
+CH01116,10,68.08,684.68,Standard,Northwest,1,Bank Transfer,2,0
+CH01117,56,118.13,6438.84,Premium,Mountain,1,Invoice,2,0
+CH01118,8,98.65,726.84,Standard,West,1,AutoPay,3,0
+CH01119,8,108.94,872.53,Premium,Mountain,3,AutoPay,3,0
+CH01120,60,86.26,5235.26,Standard,Northwest,2,Bank Transfer,3,0
+CH01121,40,60.13,2267.94,Basic,Northwest,1,Credit Card,999,0
+CH01122,39,64.68,2273.41,Standard,West,0,Invoice,3,0
+CH01123,22,105.92,2114.4,Premium,Northwest,0,AutoPay,4,0
+CH01124,23,69.88,1601.44,Standard,Mountain,1,AutoPay,4,0
+CH01125,72,75.94,5382.88,Standard,Northwest,0,AutoPay,5,1
+CH01126,40,74.07,3103.21,Standard,Northwest,2,Credit Card,5,0
+CH01127,65,120.47,7971.76,Premium,Southwest,1,Invoice,4,0
+CH01128,64,48.88,2995.69,Basic,Southwest,0,AutoPay,4,0
+CH01129,16,49.53,728.53,Basic,West,0,Invoice,3,0
+CH01130,70,71.23,4677.09,Standard,Northwest,4,Bank Transfer,5,1
+CH01131,6,63.05,356.64,Basic,Northwest,1,AutoPay,3,1
+CH01132,29,38.22,1095.62,Basic,Southwest,2,Invoice,3,1
+CH01133,4,42.3,163.56,Basic,West,1,Invoice,3,1
+CH01134,48,79.66,3691.1,Standard,Northwest,1,Invoice,3,0
+CH01135,67,72.82,4861.02,Standard,Mountain,3,Credit Card,2,0
+CH01136,2,32.21,65.16,Basic,Southwest,1,Invoice,5,0
+CH01137,58,52.31,2878.32,Basic,West,3,Bank Transfer,3,0
+CH01138,24,85.51,2027.89,Standard,West,1,Bank Transfer,4,0
+CH01139,28,46.27,1209.75,Basic,Southwest,0,AutoPay,5,1
+CH01140,49,61.15,2974.57,Standard,West,3,Bank Transfer,3,1
+CH01141,2,54.84,104.78,Basic,Mountain,1,Bank Transfer,3,1
+CH01142,23,42.76,942.69,Basic,Northwest,0,Credit Card,5,0
+CH01143,29,108.68,3161.66,Premium,Northwest,1,AutoPay,4,0
+CH01144,24,48.61,1117.8,Basic,Southwest,3,AutoPay,4,0
+CH01145,30,76.52,2266.44,Standard,Mountain,2,Credit Card,4,0
+CH01146,67,103.7,6904.33,Premium,West,1,Invoice,3,0
+CH01147,66,46.15,3151.78,Basic,Northwest,0,Invoice,4,0
+CH01148,37,57.16,2037.83,Basic,Mountain,0,AutoPay,3,0
+CH01149,10,58.13,573.18,Standard,Northwest,0,Credit Card,3,0
+CH01150,12,76.87,874.62,Standard,West,0,Invoice,4,0
+CH01151,40,80.48,2929.59,Standard,Southwest,1,Invoice,2,0
+CH01152,32,102.44,3350.27,Premium,Northwest,1,Invoice,4,0
+CH01153,21,38.76,778.69,Basic,Mountain,1,Invoice,5,0
+CH01154,45,75.95,3119.9,Standard,Southwest,2,Credit Card,1,0
+CH01155,62,70.44,4545.98,Basic,West,1,Invoice,5,0
+CH01156,68,50.53,3235.9,Basic,Mountain,0,AutoPay,5,0
+CH01157,41,95.6,3813.03,Premium,Northwest,1,AutoPay,4,0
+CH01158,16,58.99,977.42,Basic,Mountain,3,Bank Transfer,3,1
+CH01159,6,104.93,652.97,Premium,Mountain,2,AutoPay,3,1
+CH01160,62,79.48,5060.73,Standard,West,1,Bank Transfer,4,0
+CH01161,2,127.69,230.57,Premium,Northwest,2,Bank Transfer,3,0
+CH01162,61,79.96,4648.04,Standard,Southwest,0,Invoice,5,0
+CH01163,24,72.73,1611.2,Standard,Northwest,1,Credit Card,3,0
+CH01164,18,65.73,1078.67,Basic,West,5,Invoice,3,1
+CH01165,55,76.14,4121.68,Standard,West,0,Credit Card,4,1
+CH01166,39,41.73,1607.99,Basic,Northwest,4,Credit Card,3,1
+CH01167,57,79.15,4063.4,Standard,Northwest,0,AutoPay,3,1
+CH01168,41,43.12,1793.34,Basic,West,1,Invoice,4,0
+CH01169,18,54.29,1009.53,Basic,Mountain,2,AutoPay,3,0
+CH01170,2,124.73,246.59,Premium,West,2,Credit Card,3,0
+CH01171,56,85.97,4989.28,Standard,West,1,Credit Card,4,0
+CH01172,71,72.29,5061.6,Basic,Southwest,1,AutoPay,2,1
+CH01173,36,48.64,1649.72,Basic,West,0,Credit Card,3,0
+CH01174,16,68.9,1028.77,Standard,Northwest,2,Bank Transfer,5,0
+CH01175,58,122.29,6500.71,Premium,Southwest,0,AutoPay,4,0
+CH01176,50,48.02,2230.13,Basic,West,0,Invoice,3,0
+CH01177,8,48.61,352.02,Basic,West,2,Credit Card,4,0
+CH01178,9,82.21,692.1,Standard,Mountain,0,AutoPay,2,1
+CH01179,18,88.19,1518.05,Standard,Northwest,2,AutoPay,4,0
+CH01180,28,89.51,2470.55,Standard,Southwest,1,AutoPay,3,0
+CH01181,14,83.2,1121.86,Standard,Northwest,3,Invoice,3,1
+CH01182,29,73.11,1981.05,Standard,Mountain,3,Credit Card,4,0
+CH01183,66,39.2,2611.42,Basic,Mountain,0,Credit Card,4,0
+CH01184,50,48.42,2524.69,Basic,Mountain,0,Credit Card,5,0
+CH01185,61,89.26,4981.67,Standard,Northwest,3,Bank Transfer,4,0
+CH01186,4,68.1,275.46,Standard,Northwest,1,Bank Transfer,4,0
+CH01187,33,53.52,1773.16,Basic,Northwest,2,AutoPay,4,0
+CH01188,7,41.86,279.56,Basic,Mountain,0,Credit Card,4,0
+CH01189,62,127.13,7142.93,Premium,West,1,Credit Card,4,0
+CH01190,25,98.81,2493.56,Standard,West,1,Credit Card,4,0
+CH01191,4,132.57,530.73,Premium,West,0,Bank Transfer,4,0
+CH01192,24,94.38,2326.93,Standard,West,0,Invoice,4,0
+CH01193,13,101.6,1292.91,Premium,Southwest,0,Bank Transfer,4,0
+CH01194,58,71.11,3888.76,Standard,West,0,Credit Card,4,0
+CH01195,17,66.1,1100.75,Standard,Northwest,3,Invoice,4,0
+CH01196,8,131.74,995.09,Premium,Northwest,2,Invoice,5,0
+CH01197,1,33.25,33.78,Basic,Northwest,0,Credit Card,3,1
+CH01198,19,78.94,1502.0,Standard,Mountain,1,Credit Card,4,0
+CH01199,30,74.09,2123.95,Basic,Mountain,1,Invoice,3,1
+CH01200,3,68.21,207.05,Basic,Northwest,1,Bank Transfer,3,0
+CH01201,60,87.19,5037.29,Standard,Mountain,2,Credit Card,3,0
+CH01202,33,37.13,1148.01,Basic,West,1,Credit Card,3,1
+CH01203,40,32.62,1198.71,Basic,Mountain,0,Invoice,4,0
+CH01204,12,49.42,610.42,Basic,Northwest,1,Bank Transfer,3,0
+CH01205,5,86.91,419.68,Standard,West,1,Bank Transfer,3,1
+CH01206,49,78.42,3904.94,Standard,Northwest,0,Invoice,4,0
+CH01207,43,83.61,3269.6,Standard,West,0,Invoice,4,0
+CH01208,37,114.89,4296.36,Premium,West,0,Bank Transfer,3,0
+CH01209,60,81.14,4833.96,Standard,Mountain,0,Bank Transfer,4,0
+CH01210,17,86.7,1471.02,Standard,Mountain,1,AutoPay,4,0
+CH01211,26,-42.53,1056.99,Basic,Northwest,1,Invoice,3,0
+CH01212,3,72.43,213.8,Standard,Mountain,0,Bank Transfer,5,1
+CH01213,31,117.54,3627.19,Premium,Northwest,0,AutoPay,5,1
+CH01214,26,30.77,794.76,Basic,Mountain,0,Credit Card,3,0
+CH01215,49,83.76,4014.89,Standard,West,1,Credit Card,3,0
+CH01216,69,88.74,5666.31,Standard,Southwest,0,Credit Card,3,0
+CH01217,3,77.34,226.4,Standard,Southwest,3,Bank Transfer,3,0
+CH01218,72,50.65,3456.44,Basic,Southwest,0,AutoPay,4,0
+CH01219,35,118.28,4082.2,Premium,Northwest,0,Credit Card,4,0
+CH01220,65,125.43,7398.43,Premium,West,1,Credit Card,4,0
+CH01221,64,65.84,3981.58,Basic,Northwest,0,AutoPay,3,0
+CH01222,38,84.85,3324.78,Standard,Northwest,1,Invoice,3,1
+CH01223,17,74.13,1228.13,Standard,Southwest,0,Invoice,4,0
+CH01224,19,48.93,968.01,Basic,Mountain,0,AutoPay,1,0
+CH01225,66,26.14,1561.39,Basic,West,0,Invoice,5,0
+CH01226,55,131.48,7053.63,Premium,West,3,Credit Card,3,1
+CH01227,42,79.96,3328.94,Standard,Northwest,1,Credit Card,3,0
+CH01228,61,131.05,7849.01,Premium,West,0,AutoPay,5,1
+CH01229,66,44.03,2704.3,Basic,Mountain,2,Invoice,3,0
+CH01230,35,58.24,2133.73,Basic,Northwest,2,Invoice,2,0
+CH01231,1,61.69,59.45,Basic,Northwest,0,AutoPay,3,1
+CH01232,50,136.0,6784.3,Premium,Mountain,1,Bank Transfer,4,0
+CH01233,32,43.61,1464.4,Basic,Southwest,1,Invoice,2,0
+CH01234,63,85.58,5493.73,Standard,Southwest,3,Invoice,3,1
+CH01235,36,47.56,1575.06,Basic,Southwest,1,Bank Transfer,4,0
+CH01236,13,131.98,1783.46,Premium,Northwest,1,Credit Card,5,0
+CH01237,57,50.97,2874.4,Basic,Mountain,3,Bank Transfer,5,0
+CH01238,5,80.42,396.95,Standard,Southwest,3,Bank Transfer,2,1
+CH01239,28,50.1,1297.04,Basic,West,1,Credit Card,3,0
+CH01240,14,42.7,572.03,Basic,Mountain,2,Bank Transfer,4,0
+CH01241,19,84.79,1494.97,Standard,Northwest,3,AutoPay,4,0
+CH01242,37,69.45,2538.73,Standard,Mountain,0,AutoPay,4,1
+CH01243,13,95.68,1143.49,Standard,Mountain,3,Invoice,3,0
+CH01244,36,63.18,2194.17,Basic,Mountain,3,Invoice,4,0
+CH01245,59,54.81,3185.17,Basic,West,2,Credit Card,5,0
+CH01246,54,42.75,2080.91,Basic,West,2,Credit Card,5,0
+CH01247,1,105.66,102.51,Standard,Southwest,0,Credit Card,3,1
+CH01248,13,91.7,1201.25,Standard,Mountain,0,Bank Transfer,3,0
+CH01249,38,83.75,3306.15,Standard,Southwest,2,Invoice,4,0
+CH01250,41,44.89,1689.47,Basic,West,1,Invoice,3,0
+CH01251,26,50.78,1355.46,Basic,Southwest,1,AutoPay,3,0
+CH01252,47,107.13,4772.79,Standard,Mountain,0,Credit Card,4,0
+CH01253,64,89.58,5622.51,Standard,West,1,Invoice,4,0
+CH01254,63,102.11,6005.73,Standard,West,2,Bank Transfer,4,0
+CH01255,43,46.9,1867.27,Basic,Mountain,1,Invoice,3,1
+CH01256,27,55.16,1382.04,Basic,Mountain,1,Bank Transfer,3,0
+CH01257,10,53.69,500.16,Basic,Mountain,1,AutoPay,2,1
+CH01258,65,55.61,3426.82,Standard,Mountain,2,Credit Card,3,0
+CH01259,57,48.58,2633.12,Basic,West,3,Credit Card,4,1
+CH01260,48,124.73,5583.28,Premium,West,2,AutoPay,4,0
+CH01261,13,68.29,893.69,Standard,Southwest,4,Bank Transfer,4,0
+CH01262,23,80.88,1951.75,Standard,Northwest,0,Bank Transfer,4,0
+CH01263,7,117.42,820.49,Premium,Southwest,3,Credit Card,4,1
+CH01264,1,40.34,40.34,Basic,Mountain,1,Credit Card,3,0
+CH01265,35,121.08,4193.45,Premium,Northwest,2,Bank Transfer,5,0
+CH01266,7,48.27,331.57,Basic,West,0,Credit Card,4,0
+CH01267,31,59.34,1842.35,Basic,Southwest,4,AutoPay,2,1
+CH01268,31,62.51,1755.45,Basic,West,1,Bank Transfer,4,0
+CH01269,32,115.21,3609.6,Premium,Northwest,3,AutoPay,4,0
+CH01270,51,65.85,3383.67,Basic,West,0,Credit Card,2,0
+CH01271,18,87.96,1431.8,Standard,West,2,Credit Card,5,0
+CH01272,60,35.75,2171.46,Basic,Mountain,3,Invoice,4,0
+CH01273,53,72.02,3893.64,Standard,West,1,Bank Transfer,4,0
+CH01274,28,70.19,1921.43,Standard,Northwest,0,Credit Card,4,0
+CH01275,59,59.15,3511.75,Basic,Mountain,1,AutoPay,3,0
+CH01276,19,69.51,1257.63,Standard,Northwest,2,Invoice,3,0
+CH01277,26,56.7,1390.77,Standard,Northwest,1,Bank Transfer,2,0
+CH01278,55,73.43,3678.4,Standard,Southwest,2,AutoPay,5,0
+CH01279,28,142.25,3905.12,Premium,Mountain,1,AutoPay,5,0
+CH01280,59,47.38,2577.4,Basic,Mountain,4,Credit Card,4,0
+CH01281,10,62.69,644.3,Standard,Southwest,2,AutoPay,5,1
+CH01282,13,87.64,1031.92,Standard,West,0,Bank Transfer,4,0
+CH01283,13,53.27,709.08,Basic,Northwest,1,Bank Transfer,3,0
+CH01284,10,71.12,732.35,Standard,Southwest,4,Bank Transfer,5,0
+CH01285,6,77.73,458.22,Standard,Mountain,1,Invoice,4,0
+CH01286,21,75.44,1620.9,Standard,Northwest,2,AutoPay,5,0
+CH01287,65,79.25,5119.29,Standard,Southwest,0,Invoice,4,0
+CH01288,47,139.41,6211.29,Premium,Southwest,1,AutoPay,5,0
+CH01289,10,72.32,739.39,Standard,Mountain,1,Bank Transfer,4,0
+CH01290,14,41.3,601.08,Basic,Southwest,1,Bank Transfer,5,0
+CH01291,5,34.46,178.49,Basic,Northwest,3,Credit Card,3,1
+CH01292,61,65.36,3600.72,Standard,West,1,Credit Card,3,0
+CH01293,9,78.94,710.64,Standard,West,1,AutoPay,3,0
+CH01294,26,52.71,1358.73,Basic,Southwest,2,Credit Card,3,0
+CH01295,65,82.37,5381.02,Basic,West,2,Invoice,3,0
+CH01296,6,86.97,500.29,Standard,Northwest,3,Credit Card,3,1
+CH01297,27,31.23,767.1,Basic,Mountain,0,Bank Transfer,5,0
+CH01298,14,75.12,948.8,Standard,West,4,Bank Transfer,3,0
+CH01299,41,80.29,3392.05,Standard,Northwest,3,AutoPay,4,0
+CH01300,32,73.67,2161.79,Standard,Southwest,1,Bank Transfer,5,0
+CH01301,37,56.14,1959.35,Standard,Northwest,0,Bank Transfer,2,1
+CH01302,13,49.28,638.47,Basic,Mountain,1,Invoice,4,0
+CH01303,24,57.02,1362.24,Basic,Southwest,1,AutoPay,3,1
+CH01304,6,117.13,639.13,Premium,Mountain,1,Bank Transfer,4,0
+CH01305,27,69.72,1907.03,Basic,Southwest,1,Invoice,3,1
+CH01306,69,44.87,2845.71,Basic,West,4,Credit Card,3,1
+CH01307,42,49.11,2007.57,Basic,Northwest,2,Credit Card,5,0
+CH01308,43,55.86,2517.01,Basic,Mountain,2,Credit Card,4,0
+CH01309,42,48.99,2126.92,Basic,West,1,Bank Transfer,4,0
+CH01310,61,147.63,9047.18,Premium,Northwest,0,Bank Transfer,2,1
+CH01311,49,81.96,3679.94,Standard,Mountain,2,Bank Transfer,4,0
+CH01312,9,129.8,1055.55,Premium,Northwest,1,Invoice,3,0
+CH01313,14,57.36,742.38,Basic,Mountain,3,Credit Card,3,0
+CH01314,17,53.58,858.03,Basic,Mountain,3,AutoPay,4,0
+CH01315,18,70.19,1197.99,Standard,West,1,Invoice,5,0
+CH01316,39,90.01,3419.35,Standard,Southwest,4,Invoice,4,1
+CH01317,5,93.06,464.06,Standard,Mountain,0,Invoice,4,0
+CH01318,16,44.8,647.28,Basic,West,2,Credit Card,4,0
+CH01319,21,128.87,2517.97,Premium,Mountain,0,Invoice,3,1
+CH01320,48,109.47,5025.86,Premium,West,2,Bank Transfer,3,0
+CH01321,56,48.96,2560.12,Basic,West,1,Invoice,5,0
+CH01322,35,121.29,4037.24,Premium,Northwest,0,Invoice,5,0
+CH01323,14,50.94,704.32,Basic,West,0,AutoPay,4,0
+CH01324,1,119.13,107.87,Premium,Southwest,1,Invoice,4,1
+CH01325,4,79.04,293.51,Standard,Northwest,1,Invoice,4,1
+CH01326,70,91.49,6554.6,Standard,Southwest,2,Bank Transfer,4,0
+CH01327,70,63.09,4627.92,Standard,West,1,Invoice,3,0
+CH01328,13,42.47,508.1,Basic,West,3,Bank Transfer,3,0
+CH01329,20,89.23,1619.57,Standard,Mountain,0,Invoice,5,0
+CH01330,49,125.52,6218.12,Premium,Mountain,3,Bank Transfer,3,0
+CH01331,57,55.57,2882.19,Basic,Northwest,0,Invoice,5,0
+CH01332,33,32.26,1102.38,Basic,Southwest,3,Bank Transfer,3,0
+CH01333,26,78.92,1903.17,Standard,Southwest,2,Credit Card,2,0
+CH01334,3,87.24,,Standard,Mountain,1,Credit Card,4,0
+CH01335,45,45.82,2113.62,Basic,West,2,Bank Transfer,4,0
+CH01336,56,90.14,4740.01,Standard,Mountain,2,Invoice,3,0
+CH01337,28,77.36,2201.39,Standard,Northwest,2,Credit Card,4,0
+CH01338,12,53.71,603.29,Basic,Mountain,2,Invoice,5,1
+CH01339,17,58.8,949.91,Basic,West,0,Bank Transfer,3,0
+CH01340,4,53.2,195.22,Basic,West,1,Credit Card,5,0
+CH01341,69,51.32,3388.73,Basic,Northwest,3,Bank Transfer,3,0
+CH01342,57,75.0,4472.2,Standard,Northwest,0,Credit Card,4,0
+CH01343,27,40.89,1077.83,Basic,Southwest,1,AutoPay,2,0
+CH01344,44,82.93,3531.19,Standard,West,0,AutoPay,3,0
+CH01345,25,72.46,1782.62,Basic,West,1,AutoPay,5,0
+CH01346,30,86.41,2399.67,Standard,West,1,Bank Transfer,4,0
+CH01347,19,116.57,2045.45,Premium,Mountain,0,Credit Card,4,0
+CH01348,53,51.9,2856.64,Basic,Mountain,1,Bank Transfer,4,0
+CH01349,26,67.97,1830.2,Standard,Mountain,0,Bank Transfer,5,0
+CH01350,3,90.7,284.89,Standard,Southwest,1,Bank Transfer,4,0
+CH01351,13,83.68,1031.06,Standard,Mountain,1,Bank Transfer,5,0
+CH01352,7,106.27,720.6,Premium,Southwest,3,AutoPay,5,0
+CH01353,60,71.77,4299.87,Standard,Northwest,0,AutoPay,4,0
+CH01354,46,42.18,1893.76,Basic,Northwest,0,Credit Card,5,0
+CH01355,6,40.34,224.06,Basic,Northwest,1,AutoPay,3,0
+CH01356,8,118.73,884.47,Premium,West,0,Bank Transfer,5,0
+CH01357,29,84.85,2540.26,Standard,Northwest,0,Invoice,4,1
+CH01358,14,127.93,1724.26,Premium,Mountain,0,AutoPay,2,0
+CH01359,37,57.44,1999.62,Standard,Southwest,1,Bank Transfer,4,1
+CH01360,34,126.82,3939.63,Premium,Northwest,0,AutoPay,4,0
+CH01361,35,71.09,2355.02,Standard,West,0,Credit Card,4,1
+CH01362,62,50.0,2985.83,Basic,Mountain,1,Bank Transfer,4,1
+CH01363,39,58.35,2166.38,Basic,Northwest,3,Bank Transfer,3,1
+CH01364,42,76.01,3220.36,Standard,Northwest,2,AutoPay,5,0
+CH01365,34,29.48,958.89,Basic,Northwest,4,Bank Transfer,3,1
+CH01366,36,44.42,1476.66,Basic,Southwest,2,Credit Card,5,0
+CH01367,49,80.83,3998.1,Standard,West,1,Invoice,3,0
+CH01368,17,70.89,1143.8,Basic,Northwest,2,AutoPay,3,0
+CH01369,2,62.98,115.65,Basic,Northwest,2,AutoPay,3,1
+CH01370,16,58.36,956.93,Basic,West,0,AutoPay,4,0
+CH01371,11,55.73,564.71,Basic,Mountain,4,Credit Card,4,1
+CH01372,64,65.81,4393.73,Standard,Northwest,3,Bank Transfer,5,0
+CH01373,24,108.52,2397.32,Premium,Mountain,2,Bank Transfer,4,1
+CH01374,24,75.67,1874.12,Standard,Mountain,2,Bank Transfer,3,0
+CH01375,3,42.11,130.69,Basic,Northwest,1,Credit Card,5,0
+CH01376,31,72.04,2216.83,Standard,West,0,Credit Card,5,0
+CH01377,57,60.82,3327.62,Standard,Southwest,0,Bank Transfer,4,0
+CH01378,20,51.04,955.81,Basic,West,1,AutoPay,5,0
+CH01379,66,78.02,5184.19,Standard,Northwest,1,Credit Card,4,0
+CH01380,26,77.59,2117.27,Standard,Mountain,0,Bank Transfer,3,0
+CH01381,67,36.0,2394.18,Basic,Northwest,1,Credit Card,3,0
+CH01382,70,124.11,8085.31,Premium,Mountain,1,AutoPay,3,1
+CH01383,46,106.5,4494.42,Premium,Northwest,3,Credit Card,4,0
+CH01384,50,49.86,2587.15,Basic,Southwest,1,AutoPay,3,1
+CH01385,66,87.36,5578.0,Standard,Southwest,0,Bank Transfer,5,0
+CH01386,27,67.87,1683.97,Standard,Mountain,1,Invoice,5,0
+CH01387,5,90.28,459.51,Standard,Southwest,4,Invoice,3,0
+CH01388,14,112.19,1475.81,Premium,Mountain,0,AutoPay,4,0
+CH01389,37,63.68,2255.38,Standard,Northwest,1,Bank Transfer,4,0
+CH01390,46,67.83,2902.06,Standard,Northwest,4,Credit Card,5,1
+CH01391,15,84.77,1188.27,Standard,Northwest,2,Invoice,3,0
+CH01392,49,80.03,3919.4,Standard,Southwest,0,AutoPay,4,0
+CH01393,9,102.38,836.56,Premium,Northwest,3,AutoPay,5,1
+CH01394,15,56.33,870.36,Basic,Mountain,3,Bank Transfer,4,0
+CH01395,1,55.69,51.79,Basic,West,1,Bank Transfer,3,0
+CH01396,36,94.37,3271.01,Standard,West,0,Bank Transfer,4,0
+CH01397,29,89.77,2588.64,Standard,West,1,Bank Transfer,4,0
+CH01398,24,40.32,966.85,Basic,Northwest,0,Credit Card,5,1
+CH01399,40,51.86,2018.81,Basic,West,1,Credit Card,4,0
+CH01400,72,39.74,2727.58,Basic,Northwest,1,Bank Transfer,3,0
+CH01401,26,51.1,1360.99,Basic,Mountain,3,Credit Card,2,1
+CH01402,12,80.86,1009.66,Standard,West,2,Bank Transfer,4,0
+CH01403,22,130.04,2757.32,Premium,West,1,Credit Card,4,0
+CH01404,50,127.21,6307.73,Premium,Northwest,3,Bank Transfer,4,0
+CH01405,41,143.66,5387.63,Premium,Northwest,2,Invoice,3,0
+CH01406,53,90.22,4558.24,Standard,Southwest,1,Bank Transfer,5,0
+CH01407,9,34.16,303.97,Basic,Southwest,2,AutoPay,4,1
+CH01408,61,113.94,7201.98,Premium,Mountain,0,Invoice,2,0
+CH01409,13,57.61,684.09,Basic,Southwest,3,Bank Transfer,4,0
+CH01410,43,69.96,3154.9,Standard,Northwest,3,Bank Transfer,5,0
+CH01411,25,122.44,2935.22,Premium,Mountain,2,Bank Transfer,5,0
+CH01412,35,38.13,1202.99,Basic,West,0,Credit Card,4,0
+CH01413,46,121.83,5543.68,Premium,Southwest,0,Invoice,4,0
+CH01414,19,70.27,1254.36,Standard,Northwest,2,Bank Transfer,2,0
+CH01415,59,77.62,4549.2,Standard,Mountain,0,Credit Card,4,0
+CH01416,71,68.04,4926.63,Basic,Northwest,2,Bank Transfer,4,0
+CH01417,60,108.8,6028.72,Premium,Mountain,0,AutoPay,2,0
+CH01418,6,62.59,351.15,Basic,Mountain,2,Credit Card,4,0
+CH01419,50,86.09,4261.19,Standard,Northwest,0,Invoice,3,0
+CH01420,59,83.25,4461.88,Standard,Southwest,1,Credit Card,3,0
+CH01421,11,44.62,510.77,Basic,West,3,Credit Card,2,0
+CH01422,68,84.49,5253.19,Standard,West,2,Invoice,5,1
+CH01423,64,83.55,5528.52,Standard,Northwest,0,Bank Transfer,3,1
+CH01424,30,122.87,3800.85,Premium,West,3,Bank Transfer,4,1
+CH01425,20,117.02,2250.79,Premium,Mountain,0,AutoPay,5,1
+CH01426,51,84.89,4260.8,Standard,Mountain,0,Bank Transfer,5,0
+CH01427,35,65.24,2336.45,Standard,Mountain,0,Credit Card,4,0
+CH01428,49,65.54,3129.46,Standard,Northwest,0,Credit Card,3,0
+CH01429,68,83.98,5565.27,Standard,Northwest,3,AutoPay,3,0
+CH01430,61,48.62,2760.05,Basic,Mountain,2,Invoice,4,0
+CH01431,31,77.41,2375.02,Standard,Mountain,1,AutoPay,5,0
+CH01432,7,91.32,647.25,Standard,Northwest,1,AutoPay,5,0
+CH01433,66,47.29,3004.99,Basic,Southwest,3,Credit Card,2,0
+CH01434,58,115.23,6723.91,Premium,West,1,AutoPay,4,0
+CH01435,4,78.4,286.84,Standard,Southwest,0,Bank Transfer,5,0
+CH01436,37,76.83,2930.63,Standard,Southwest,2,Credit Card,5,0
+CH01437,42,43.67,1858.28,Basic,West,0,AutoPay,3,0
+CH01438,58,38.36,2144.54,Basic,Northwest,1,Credit Card,3,0
+CH01439,69,52.23,3566.51,Basic,Northwest,0,Bank Transfer,4,0
+CH01440,18,105.31,1855.87,Premium,Mountain,0,Credit Card,5,0
+CH01441,44,81.48,3473.57,Standard,Southwest,1,AutoPay,4,0
+CH01442,31,47.79,1476.68,Basic,Southwest,0,Invoice,3,0
+CH01443,20,77.71,1474.45,Standard,West,3,AutoPay,5,0
+CH01444,19,118.62,2259.67,Premium,Northwest,0,Credit Card,3,0
+CH01445,53,83.19,4432.01,basic ,Mountain,0,Invoice,3,0
+CH01446,11,75.82,858.25,Standard,Northwest,3,AutoPay,4,0
+CH01447,57,121.66,7240.98,Premium,Mountain,3,Credit Card,3,0
+CH01448,13,47.62,609.49,Basic,Southwest,1,Invoice,4,0
+CH01449,14,66.12,934.04,Basic,Northwest,0,Bank Transfer,4,0
+CH01450,50,34.72,1771.67,Basic,Mountain,2,AutoPay,4,0
+CH01451,58,82.9,4767.66,Standard,Southwest,2,AutoPay,4,0
+CH01452,59,91.01,4877.33,Standard,Southwest,0,Bank Transfer,4,0
+CH01453,15,60.54,855.26,Basic,Mountain,0,Invoice,4,0
+CH01454,34,116.87,3945.94,Premium,Mountain,4,Bank Transfer,4,0
+CH01455,8,39.55,306.67,Basic,Southwest,1,AutoPay,2,1
+CH01456,71,124.5,8640.96,Premium,West,1,Credit Card,5,0
+CH01457,24,66.96,1482.94,Standard,Northwest,1,AutoPay,4,0
+CH01458,47,41.45,1784.05,Basic,Northwest,1,AutoPay,4,0
+CH01459,57,77.5,4100.35,Standard,Southwest,2,AutoPay,5,0
+CH01460,12,129.73,1547.49,Premium,Northwest,1,Invoice,4,0
+CH01461,28,47.74,1360.67,Basic,West,0,Bank Transfer,3,0
+CH01462,16,105.23,1625.27,Premium,Mountain,1,Invoice,3,1
+CH01463,69,82.17,5476.88,Standard,Southwest,2,Invoice,3,0
+CH01464,28,76.29,2101.74,Standard,Mountain,0,AutoPay,4,0
+CH01465,56,51.76,2756.27,Basic,Mountain,2,AutoPay,5,0
+CH01466,64,81.17,4898.84,Standard,Northwest,2,AutoPay,5,0
+CH01467,57,110.42,6509.6,Premium,Southwest,0,Credit Card,3,1
+CH01468,68,114.99,7147.27,Premium,Northwest,1,Credit Card,4,0
+CH01469,14,44.5,644.92,Basic,Northwest,2,AutoPay,3,1
+CH01470,52,75.87,4079.16,Standard,Northwest,2,Bank Transfer,4,0
+CH01471,50,42.56,1967.61,Basic,Southwest,1,AutoPay,3,1
+CH01472,56,66.67,3667.6,Standard,Mountain,2,Invoice,4,0
+CH01473,33,87.03,2946.8,Standard,Southwest,2,AutoPay,3,0
+CH01474,17,47.66,762.12,Basic,West,0,Bank Transfer,5,0
+CH01475,55,89.43,4991.76,Standard,Southwest,2,Bank Transfer,3,0
+CH01476,16,108.5,1819.88,Premium,West,3,Bank Transfer,2,1
+CH01477,28,123.31,3278.26,Premium,Southwest,0,Credit Card,5,0
+CH01478,13,51.41,610.78,Basic,Southwest,0,AutoPay,4,0
+CH01479,56,53.02,3028.96,Basic,Southwest,0,Bank Transfer,4,0
+CH01480,1,117.55,121.28,Premium,Southwest,1,Bank Transfer,4,0
+CH01481,48,69.19,3147.43,Standard,Southwest,2,Invoice,4,0
+CH01482,64,121.65,7112.39,Premium,West,2,AutoPay,5,0
+CH01483,25,129.14,3054.88,Premium,West,2,Credit Card,5,0
+CH01484,35,40.79,1470.52,Basic,Mountain,2,Credit Card,4,0
+CH01485,67,66.21,4245.92,Standard,Mountain,2,Invoice,5,0
+CH01486,52,90.64,4915.9,Standard,Southwest,2,Credit Card,3,0
+CH01487,52,76.56,3804.04,Standard,Mountain,0,Credit Card,4,0
+CH01488,43,49.92,1940.4,Basic,Mountain,0,Invoice,5,0
+CH01489,12,48.42,529.07,Basic,Northwest,1,Bank Transfer,5,0
+CH01490,26,67.05,1687.83,Basic,Southwest,1,Credit Card,3,0
+CH01491,23,44.92,1034.16,Basic,Northwest,1,AutoPay,4,0
+CH01492,46,94.59,4359.48,Standard,Southwest,0,Credit Card,3,0
+CH01493,39,65.45,2381.12,Standard,Northwest,0,Credit Card,4,0
+CH01494,30,40.15,1264.36,Basic,West,0,Bank Transfer,4,0
+CH01495,70,51.81,3698.3,Basic,Mountain,1,Bank Transfer,4,0
+CH01496,70,42.08,2915.05,Basic,Northwest,3,Credit Card,5,0
+CH01497,19,62.32,1118.8,Basic,West,3,Bank Transfer,5,0
+CH01498,32,109.06,3285.99,Premium,Mountain,0,Bank Transfer,3,0
+CH01499,32,38.18,1183.21,Basic,West,1,Invoice,3,0
+CH01500,24,88.82,2017.45,Standard,West,2,AutoPay,3,0
+CH01501,32,88.44,2870.72,Standard,Northwest,2,Bank Transfer,3,1
+CH01502,18,56.49,922.17,Basic,West,0,Invoice,4,0
+CH01503,23,48.78,1131.87,Basic,West,0,Bank Transfer,3,0
+CH01504,1,47.0,47.58,Basic,West,2,Credit Card,2,0
+CH01505,26,64.06,1682.01,Standard,Mountain,1,AutoPay,4,1
+CH01506,33,51.78,1668.36,Basic,Northwest,1,Invoice,5,1
+CH01507,67,87.42,5611.89,Standard,Northwest,0,AutoPay,2,0
+CH01508,30,63.89,1753.93,Standard,Southwest,1,AutoPay,4,1
+CH01509,33,53.71,1765.83,Basic,Southwest,0,Invoice,5,0
+CH01510,24,35.36,879.5,Basic,Southwest,1,Invoice,3,0
+CH01511,54,100.35,5400.08,Premium,Northwest,1,Credit Card,3,0
+CH01512,19,55.47,965.84,Basic,Northwest,2,Bank Transfer,2,0
+CH01513,33,50.08,1705.69,Basic,Mountain,4,Invoice,3,1
+CH01514,5,84.31,413.4,Standard,Southwest,1,Credit Card,2,1
+CH01515,64,44.57,2884.21,Basic,West,1,Invoice,3,0
+CH01516,43,113.14,4935.15,Premium,Mountain,1,Bank Transfer,4,0
+CH01517,69,44.02,2984.22,Basic,Southwest,1,AutoPay,4,0
+CH01518,44,116.61,5216.14,Premium,Mountain,0,Invoice,4,0
+CH01519,71,77.69,4994.81,Standard,Southwest,0,AutoPay,2,0
+CH01520,33,116.15,3453.11,Premium,Northwest,1,Invoice,4,0
+CH01521,24,47.56,1142.2,Basic,Mountain,1,Bank Transfer,3,0
+CH01522,19,58.79,1072.83,Standard,Southwest,0,Bank Transfer,2,0
+CH01523,19,43.4,818.48,Basic,Northwest,0,Invoice,5,0
+CH01524,66,125.58,8292.14,Premium,Northwest,1,Credit Card,3,0
+CH01525,59,70.64,3838.65,Standard,Southwest,2,Invoice,3,0
+CH01526,4,57.69,216.5,Standard,Northwest,1,Bank Transfer,3,0
+CH01527,58,112.56,6552.51,Premium,Mountain,0,Credit Card,4,0
+CH01528,67,44.46,2776.64,Basic,Mountain,2,Invoice,5,0
+CH01529,64,78.39,4538.33,Standard,Northwest,0,Invoice,4,0
+CH01530,9,38.92,336.34,Basic,Mountain,1,Invoice,3,0
+CH01531,60,69.52,4140.01,Standard,Mountain,0,Bank Transfer,4,0
+CH01532,45,63.22,2782.86,Basic,West,1,AutoPay,5,0
+CH01533,47,107.35,4859.01,Premium,Southwest,1,Credit Card,3,0
+CH01534,54,75.75,4039.68,Basic,Southwest,2,Invoice,3,0
+CH01535,46,87.43,3987.64,Standard,West,0,Bank Transfer,4,0
+CH01536,20,62.1,1242.82,Standard,Mountain,1,Bank Transfer,4,0
+CH01537,10,45.01,442.48,Basic,Southwest,2,Invoice,2,0
+CH01538,20,34.37,719.5,Basic,Mountain,2,AutoPay,2,0
+CH01539,69,137.31,9661.22,Premium,Mountain,1,Credit Card,2,0
+CH01540,24,46.04,1129.93,Basic,Mountain,2,AutoPay,4,0
+CH01541,27,54.33,1519.86,Basic,Northwest,3,Credit Card,5,0
+CH01542,20,44.97,859.75,Basic,West,3,AutoPay,2,0
+CH01543,34,42.82,1412.73,Basic,West,1,Invoice,3,0
+CH01544,26,114.87,2726.33,Premium,Southwest,0,Invoice,5,0
+CH01545,53,119.39,6394.21,Premium,West,1,Credit Card,3,0
+CH01546,34,33.17,1103.81,Basic,Mountain,3,Invoice,3,0
+CH01547,30,125.07,3932.82,Premium,Mountain,0,Credit Card,3,1
+CH01548,60,43.74,2390.8,Basic,Mountain,5,Bank Transfer,5,1
+CH01549,27,59.92,1662.98,Basic,West,3,AutoPay,4,0
+CH01550,7,43.46,315.45,Basic,West,3,Bank Transfer,3,0
+CH01551,9,40.12,355.56,Basic,Northwest,1,AutoPay,4,0
+CH01552,5,61.01,304.08,Basic,West,0,Credit Card,1,1
+CH01553,26,48.23,1268.2,Basic,Mountain,1,Credit Card,2,1
+CH01554,38,37.22,1283.6,Basic,Mountain,1,Credit Card,4,0
+CH01555,17,46.95,782.8,Basic,Southwest,2,AutoPay,5,0
+CH01556,5,47.13,216.91,Basic,Mountain,1,auto pay,4,0
+CH01557,43,66.87,2661.49,Standard,Northwest,1,Credit Card,4,0
+CH01558,66,40.9,2729.82,Basic,Southwest,0,AutoPay,5,0
+CH01559,42,78.26,3441.56,Standard,Southwest,3,Invoice,5,1
+CH01560,59,85.84,4951.78,Standard,Mountain,0,Invoice,4,0
+CH01561,61,120.71,7023.69,Premium,West,0,Invoice,3,0
+CH01562,61,84.97,4897.11,Standard,Northwest,1,Bank Transfer,5,0
+CH01563,59,108.26,6330.53,Premium,Northwest,2,AutoPay,4,0
+CH01564,46,41.5,1761.84,Basic,West,2,Invoice,2,0
+CH01565,8,59.6,476.85,Basic,Northwest,3,Credit Card,2,1
+CH01566,56,90.09,5201.16,Standard,Mountain,0,Bank Transfer,4,0
+CH01567,17,76.99,1262.25,Standard,West,1,Bank Transfer,4,0
+CH01568,61,72.25,4174.69,Standard,West,0,Invoice,3,0
+CH01569,23,66.9,1534.47,Standard,Southwest,1,Credit Card,3,0
+CH01570,3,35.83,103.03,Basic,Mountain,0,AutoPay,3,1
+CH01571,50,65.62,3021.5,Standard,Northwest,2,Credit Card,3,0
+CH01572,45,56.92,2342.0,Basic,West,2,Credit Card,3,0
+CH01573,13,55.57,710.42,Basic,West,0,Invoice,4,0
+CH01574,38,67.29,2481.54,Standard,Mountain,1,AutoPay,4,1
+CH01575,38,41.82,1583.14,Basic,Mountain,0,AutoPay,3,0
+CH01576,32,131.46,4160.63,Premium,Northwest,3,AutoPay,3,1
+CH01577,31,75.09,2391.89,Standard,West,0,AutoPay,4,0
+CH01578,61,79.91,4436.71,Standard,West,2,AutoPay,4,0
+CH01579,9,67.77,593.44,Standard,Northwest,1,AutoPay,3,1
+CH01580,18,45.96,847.71,Basic,West,3,Bank Transfer,4,1
+CH01581,7,75.22,492.16,Standard,West,0,Invoice,4,0
+CH01582,15,55.27,793.45,Basic,Southwest,2,AutoPay,3,0
+CH01583,3,123.68,336.65,Premium,Southwest,1,AutoPay,4,0
+CH01584,67,77.15,5355.85,Standard,Mountain,0,Bank Transfer,3,1
+CH01585,16,34.67,560.54,Basic,Mountain,1,AutoPay,2,0
+CH01586,41,120.47,4923.16,Premium,Northwest,0,Bank Transfer,3,1
+CH01587,55,113.28,5927.76,Premium,Mountain,0,Invoice,4,0
+CH01588,26,75.38,1921.67,Standard,Northwest,2,Bank Transfer,4,1
+CH01589,2,50.58,94.74,Basic,West,3,AutoPay,3,1
+CH01590,29,86.9,2427.64,Standard,Northwest,3,Credit Card,3,0
+CH01591,4,123.51,459.09,Premium,Southwest,2,Invoice,5,1
+CH01592,35,53.92,1915.41,Basic,Northwest,1,Credit Card,5,0
+CH01593,56,64.36,3269.56,Basic,Mountain,2,Credit Card,4,0
+CH01594,52,123.42,6013.29,Premium,Northwest,0,Credit Card,3,0
+CH01595,45,90.18,3983.34,Premium,Southwest,0,Invoice,3,1
+CH01596,9,45.93,409.64,Basic,Northwest,2,Bank Transfer,3,0
+CH01597,33,103.46,3348.88,Standard,Northwest,1,Invoice,4,0
+CH01598,58,123.08,7124.57,Premium,Southwest,0,Invoice,4,0
+CH01599,12,80.51,996.3,Standard,Southwest,0,Invoice,4,0
+CH01600,15,60.54,937.87,Basic,Mountain,0,Bank Transfer,3,1
+CH01601,28,56.52,1638.75,Basic,Southwest,3,AutoPay,4,0
+CH01602,8,90.39,673.08,Standard,Northwest,3,AutoPay,1,0
+CH01603,42,79.9,3464.76,Standard,Southwest,3,Bank Transfer,3,0
+CH01604,43,115.68,4721.41,Premium,Southwest,1,Invoice,3,1
+CH01605,28,78.43,2033.9,Standard,West,0,Credit Card,3,0
+CH01606,1,56.98,54.79,Basic,West,2,Invoice,3,1
+CH01607,3,91.45,254.45,Standard,Southwest,1,Invoice,4,0
+CH01608,7,59.49,412.71,Basic,West,0,Credit Card,4,0
+CH01609,14,85.24,1245.58,Standard,Northwest,0,Invoice,5,0
+CH01610,61,82.85,4967.75,Standard,West,1,Bank Transfer,3,0
+CH01611,72,67.59,4869.4,Standard,Northwest,1,Invoice,4,0
+CH01612,20,52.12,974.05,Basic,Southwest,0,AutoPay,4,0
+CH01613,15,46.04,709.25,Basic,Northwest,2,AutoPay,2,0
+CH01614,34,90.69,3203.55,Standard,West,1,Invoice,4,0
+CH01615,12,67.99,751.03,Basic,Northwest,2,Bank Transfer,2,1
+CH01616,45,54.06,2546.19,Basic,Mountain,2,Credit Card,5,0
+CH01617,36,123.22,4544.59,Premium,Northwest,4,Credit Card,4,1
+CH01618,71,49.6,3664.73,Basic,Mountain,1,Invoice,2,0
+CH01619,28,61.3,1672.74,Standard,Northwest,3,AutoPay,4,0
+CH01620,54,86.36,4305.72,Standard,Mountain,2,AutoPay,3,0
+CH01621,27,117.86,3252.04,Premium,Southwest,1,AutoPay,999,0
+CH01622,12,68.01,806.59,Standard,West,2,Invoice,4,0
+CH01623,13,48.31,599.4,Basic,Northwest,0,AutoPay,3,0
+CH01624,47,48.81,2340.46,Basic,West,1,Credit Card,4,1
+CH01625,14,80.33,1147.72,Standard,West,3,Credit Card,2,0
+CH01626,41,113.34,4824.95,Premium,West,4,Invoice,4,0
+CH01627,71,68.56,4800.92,Basic,Northwest,1,Bank Transfer,4,0
+CH01628,12,93.26,1080.03,Standard,Mountain,4,AutoPay,4,0
+CH01629,25,86.31,1966.24,Standard,Southwest,0,AutoPay,3,0
+CH01630,36,71.87,2460.26,Standard,Southwest,0,Credit Card,4,0
+CH01631,60,56.49,3242.35,Basic,West,2,Invoice,4,0
+CH01632,36,72.75,2378.45,Standard,Northwest,1,Invoice,3,1
+CH01633,32,95.37,2754.2,Standard,Mountain,2,Credit Card,4,0
+CH01634,44,118.74,4919.13,Premium,Northwest,1,Credit Card,4,0
+CH01635,8,61.97,459.84,Basic,Mountain,3,Invoice,4,1
+CH01636,35,76.8,2572.93,Standard,Southwest,0,Bank Transfer,5,0
+CH01637,66,123.0,8490.41,Premium,Mountain,2,Credit Card,5,1
+CH01638,62,25.24,1438.77,Basic,Northwest,2,Bank Transfer,5,0
+CH01639,21,72.43,1591.35,Standard,Northwest,0,AutoPay,5,0
+CH01640,66,83.97,5072.39,Standard,Northwest,0,Bank Transfer,4,0
+CH01641,42,125.73,4872.07,Premium,West,3,Bank Transfer,4,1
+CH01642,10,72.53,755.98,Standard,Northwest,1,Credit Card,3,0
+CH01643,29,42.45,1214.93,Basic,Southwest,1,Invoice,3,0
+CH01644,35,78.05,2758.59,Standard,West,0,Bank Transfer,3,0
+CH01645,33,50.11,1567.86,Basic,Southwest,2,Credit Card,3,1
+CH01646,20,108.86,2146.61,Premium,Mountain,3,Credit Card,2,0
+CH01647,17,48.14,807.85,Basic,Northwest,2,Invoice,3,0
+CH01648,13,55.75,660.34,Basic,Southwest,1,Bank Transfer,4,0
+CH01649,38,45.28,1749.86,Basic,Northwest,0,Invoice,4,0
+CH01650,69,54.99,3679.13,Basic,Southwest,3,Bank Transfer,5,0
+CH01651,35,102.05,3538.93,Standard,West,0,Bank Transfer,3,1
+CH01652,53,119.63,6420.5,Premium,Southwest,2,Bank Transfer,2,0
+CH01653,53,75.73,4029.22,Standard,Southwest,1,AutoPay,4,0
+CH01654,46,120.42,5050.57,Premium,Southwest,3,Credit Card,4,0
+CH01655,35,48.72,1581.18,Basic,Southwest,0,Bank Transfer,4,0
+CH01656,3,115.4,319.12,Premium,West,0,Invoice,4,1
+CH01657,36,58.07,1910.41,Basic,Southwest,2,Credit Card,3,0
+CH01658,22,73.8,1682.85,Standard,Mountain,2,Bank Transfer,5,0
+CH01659,33,45.4,1360.0,Basic,Southwest,1,Invoice,3,0
+CH01660,61,87.28,5318.51,Standard,Northwest,1,AutoPay,4,1
+CH01661,60,41.47,2557.2,Basic,Mountain,1,Invoice,4,0
+CH01662,7,39.19,257.85,Basic,Mountain,2,Credit Card,4,0
+CH01663,50,46.87,2287.07,Basic,West,1,Bank Transfer,4,0
+CH01664,59,88.36,4960.54,Standard,Northwest,2,Credit Card,5,1
+CH01665,26,84.53,2182.59,Standard,West,0,Bank Transfer,5,0
+CH01666,57,82.4,4715.52,Standard,Northwest,1,Credit Card,3,0
+CH01667,55,113.47,5964.56,Premium,West,0,AutoPay,5,0
+CH01668,3,78.5,230.89,Standard,Mountain,3,Invoice,5,1
+CH01669,55,72.76,4147.36,Standard,Southwest,3,Credit Card,4,0
+CH01670,56,122.48,6905.49,Premium,Mountain,2,AutoPay,3,0
+CH01671,37,69.98,2665.19,Standard,Mountain,0,AutoPay,3,0
+CH01672,44,65.76,2922.29,Basic,Northwest,1,Invoice,5,1
+CH01673,57,96.01,5065.47,Premium,Mountain,0,AutoPay,4,0
+CH01674,8,55.11,421.23,Basic,West,3,Credit Card,3,0
+CH01675,20,77.12,1572.72,Standard,West,4,AutoPay,2,1
+CH01676,66,35.73,2274.89,Basic,Southwest,1,Invoice,4,0
+CH01677,20,44.65,832.35,Basic,West,3,Credit Card,2,1
+CH01678,55,61.03,3490.75,Basic,West,1,AutoPay,3,1
+CH01679,5,54.15,250.3,Basic,Southwest,0,Invoice,4,1
+CH01680,4,70.93,270.73,Standard,Southwest,3,Bank Transfer,5,0
+CH01681,60,89.46,5411.16,Standard,West,0,Credit Card,4,0
+CH01682,23,34.89,757.56,Basic,Mountain,2,Bank Transfer,2,1
+CH01683,40,115.22,4374.59,Premium,Southwest,4,Invoice,5,0
+CH01684,65,79.57,5379.9,Standard,West,4,Bank Transfer,5,0
+CH01685,4,90.27,366.94,Standard,Southwest,0,Invoice,4,0
+CH01686,41,51.14,1897.56,Basic,Mountain,1,Bank Transfer,3,0
+CH01687,10,118.63,1109.6,Premium,Mountain,3,Bank Transfer,3,1
+CH01688,2,66.41,137.1,Standard,West,2,Invoice,3,0
+CH01689,7,77.11,531.5,Standard,Northwest,1,Credit Card,3,0
+CH01690,70,63.96,4367.91,Standard,Southwest,0,AutoPay,4,0
+CH01691,63,51.35,3329.03,Basic,Mountain,0,Bank Transfer,3,0
+CH01692,50,47.31,2414.81,Basic,Northwest,2,Invoice,4,0
+CH01693,56,47.76,2632.8,Basic,West,3,Credit Card,3,0
+CH01694,15,40.22,575.6,Basic,West,1,Credit Card,2,0
+CH01695,24,54.36,1201.27,Basic,Mountain,2,Invoice,5,0
+CH01696,55,46.14,2337.17,Basic,Northwest,0,Bank Transfer,5,0
+CH01697,29,72.35,2114.22,Standard,Northwest,0,Credit Card,2,0
+CH01698,20,53.61,1013.54,Basic,Mountain,1,AutoPay,3,0
+CH01699,71,117.88,8404.49,Premium,Mountain,0,Invoice,4,0
+CH01700,15,102.71,1401.65,Premium,Southwest,2,AutoPay,5,0
+CH01701,71,73.89,4877.36,Standard,West,0,Credit Card,2,1
+CH01702,28,84.86,2143.91,Standard,West,1,Invoice,3,0
+CH01703,32,111.6,3541.78,Premium,Southwest,2,Invoice,4,1
+CH01704,21,54.68,1038.5,Basic,Mountain,0,Credit Card,4,1
+CH01705,44,46.94,1861.01,Basic,West,0,AutoPay,3,0
+CH01706,38,100.33,3592.46,Standard,Northwest,0,AutoPay,2,0
+CH01707,70,76.52,5418.27,Standard,Southwest,2,Bank Transfer,5,0
+CH01708,22,54.64,1120.76,Basic,Northwest,1,Credit Card,3,1
+CH01709,69,69.56,4884.36,Standard,Mountain,2,Invoice,2,1
+CH01710,64,86.81,5307.02,Standard,Southwest,0,Invoice,3,0
+CH01711,30,77.95,2434.65,Standard,West,0,AutoPay,5,1
+CH01712,28,44.2,1167.55,Basic,West,2,Credit Card,3,0
+CH01713,49,60.0,2947.35,Basic,West,0,Bank Transfer,5,0
+CH01714,20,115.65,2245.34,Premium,West,2,AutoPay,4,0
+CH01715,4,51.39,213.43,Basic,Southwest,5,Invoice,3,1
+CH01716,3,83.31,227.05,Standard,Northwest,3,AutoPay,3,1
+CH01717,5,90.27,429.81,Standard,Southwest,1,Credit Card,4,1
+CH01718,67,92.89,5855.15,Premium,Northwest,2,Credit Card,4,0
+CH01719,52,43.56,2058.07,Basic,West,0,Bank Transfer,3,0
+CH01720,23,88.12,2050.33,Standard,Mountain,2,Credit Card,3,0
+CH01721,44,75.12,3362.17,Standard,Northwest,3,AutoPay,3,0
+CH01722,41,114.89,4917.5,Premium,Northwest,1,Invoice,4,0
+CH01723,68,119.71,7944.44,Premium,Mountain,2,Bank Transfer,3,0
+CH01724,23,118.31,2677.93,Premium,Northwest,0,AutoPay,2,0
+CH01725,71,51.57,3721.41,Basic,West,0,Invoice,5,0
+CH01726,71,55.37,3663.69,Basic,Southwest,3,Invoice,4,1
+CH01727,44,40.85,1655.91,Basic,Southwest,0,Bank Transfer,4,0
+CH01728,47,64.43,3026.77,Standard,West,1,Bank Transfer,4,0
+CH01729,22,78.11,1610.2,Standard,Mountain,1,Invoice,5,0
+CH01730,1,55.65,53.13,Basic,West,1,Bank Transfer,3,1
+CH01731,51,58.25,3092.56,Basic,Northwest,0,AutoPay,3,0
+CH01732,7,116.48,745.07,Premium,Southwest,1,Bank Transfer,2,1
+CH01733,57,56.51,3298.16,Basic,Northwest,0,AutoPay,3,0
+CH01734,69,46.65,2998.54,Basic,West,0,Invoice,4,0
+CH01735,60,109.72,6531.71,Premium,West,0,AutoPay,4,0
+CH01736,12,46.54,572.52,Basic,Mountain,1,Invoice,4,1
+CH01737,70,78.65,5383.25,Standard,Northwest,2,Credit Card,3,0
+CH01738,46,131.12,5640.05,Premium,West,3,Invoice,3,0
+CH01739,11,96.78,1010.43,Standard,Southwest,4,Bank Transfer,3,0
+CH01740,63,75.04,4693.6,Standard,Northwest,0,Bank Transfer,5,0
+CH01741,6,76.59,433.71,Standard,Northwest,1,Invoice,4,0
+CH01742,11,123.32,1357.55,Premium,Mountain,3,Invoice,5,0
+CH01743,15,53.06,768.9,Basic,West,4,Credit Card,5,0
+CH01744,19,123.08,2250.03,Premium,Mountain,1,Invoice,4,0
+CH01745,40,81.3,3221.01,Standard,Southwest,2,Credit Card,2,0
+CH01746,27,129.19,3200.56,Premium,Southwest,2,AutoPay,3,0
+CH01747,69,139.38,8885.49,Premium,West,0,AutoPay,4,0
+CH01748,7,75.3,505.69,Standard,Northwest,3,Credit Card,4,0
+CH01749,57,81.67,4295.47,Standard,West,4,Invoice,4,0
+CH01750,37,48.76,1848.51,Basic,Southwest,1,Invoice,3,1
+CH01751,32,45.34,1460.69,Basic,West,1,Bank Transfer,3,1
+CH01752,65,56.17,3673.39,Basic,Southwest,0,Bank Transfer,3,1
+CH01753,16,77.82,1248.77,Standard,Northwest,0,Bank Transfer,3,0
+CH01754,38,117.22,4639.07,Premium,Northwest,0,AutoPay,3,0
+CH01755,44,43.76,1740.83,Basic,Southwest,0,Bank Transfer,4,0
+CH01756,10,87.44,787.7,Standard,Mountain,0,AutoPay,3,1
+CH01757,53,91.42,4597.94,Standard,Mountain,3,Invoice,4,0
+CH01758,64,55.3,3629.87,Standard,Southwest,0,Bank Transfer,4,0
+CH01759,50,34.06,1621.89,Basic,West,0,Bank Transfer,3,0
+CH01760,28,97.02,2458.12,Standard,West,0,Bank Transfer,3,0
+CH01761,48,77.38,3534.14,Standard,Northwest,2,AutoPay,5,0
+CH01762,57,126.86,6985.74,Premium,Southwest,1,Credit Card,5,0
+CH01763,51,85.75,4243.54,Standard,Southwest,1,Credit Card,5,0
+CH01764,13,59.82,747.43,Basic,Northwest,1,Credit Card,3,0
+CH01765,59,50.03,2963.61,Basic,Southwest,0,Credit Card,2,1
+CH01766,9,25.66,219.39,Basic,Southwest,1,Invoice,4,1
+CH01767,41,38.94,1632.16,Basic,Southwest,2,Bank Transfer,4,0
+CH01768,66,35.16,2412.74,Basic,Mountain,1,Credit Card,2,1
+CH01769,66,76.78,4660.94,Standard,West,2,AutoPay,3,0
+CH01770,22,79.79,1591.3,Standard,Mountain,0,Bank Transfer,3,0
+CH01771,53,53.04,2738.11,Basic,West,0,AutoPay,3,0
+CH01772,43,52.69,2096.63,Basic,Mountain,2,Bank Transfer,3,0
+CH01773,21,81.99,1618.11,Standard,Southwest,0,Invoice,5,0
+CH01774,71,101.22,7334.37,Standard,West,3,Credit Card,3,0
+CH01775,70,65.95,4527.28,Standard,Southwest,2,Bank Transfer,2,1
+CH01776,58,42.41,2544.6,Basic,Mountain,3,AutoPay,5,0
+CH01777,58,73.14,4093.35,Standard,Southwest,2,Invoice,4,0
+CH01778,40,79.25,3015.65,Standard,Southwest,1,Bank Transfer,3,0
+CH01779,58,114.09,6563.83,Premium,West,2,Credit Card,4,0
+CH01780,7,54.63,349.49,Basic,West,3,Credit Card,4,0
+CH01781,2,44.05,89.83,Basic,Southwest,1,Credit Card,3,0
+CH01782,4,53.11,213.9,Basic,West,3,Bank Transfer,2,1
+CH01783,71,47.52,3455.76,Basic,West,1,Invoice,4,0
+CH01784,46,38.69,1720.37,Basic,Northwest,0,Bank Transfer,3,0
+CH01785,53,95.28,5253.36,Standard,Northwest,2,Credit Card,5,1
+CH01786,1,117.24,117.29,Premium,West,3,Invoice,3,1
+CH01787,52,99.07,5140.01,Premium,West,2,AutoPay,3,0
+CH01788,17,135.35,2201.18,Premium,West,3,AutoPay,2,1
+CH01789,67,95.44,5998.55,Premium,Southwest,3,Bank Transfer,5,0
+CH01790,38,68.44,2713.57,Basic,Southwest,0,Bank Transfer,4,0
+CH01791,51,66.79,3550.15,Standard,Northwest,0,Credit Card,5,0
+CH01792,40,124.3,4757.2,Premium,Mountain,3,Credit Card,4,0
+CH01793,23,125.27,2679.2,Premium,Mountain,1,Bank Transfer,3,0
+CH01794,55,71.42,3752.21,Standard,Mountain,0,Invoice,4,0
+CH01795,59,109.29,6297.22,Premium,Mountain,1,AutoPay,4,0
+CH01796,20,44.54,832.98,Basic,West,0,AutoPay,5,0
+CH01797,37,52.1,1777.78,Basic,Northwest,3,Invoice,2,1
+CH01798,34,52.72,1708.02,Basic,West,0,Bank Transfer,1,0
+CH01799,34,77.57,2534.43,Standard,Northwest,0,Credit Card,5,0
+CH01800,44,59.28,2538.26,Basic,West,2,Invoice,2,0
+CH01801,51,133.37,6269.15,Premium,Northwest,0,Invoice,5,0
+CH01802,51,56.25,2710.39,Standard,West,0,Invoice,3,0
+CH01803,69,43.11,2949.09,Basic,Southwest,1,Credit Card,4,0
+CH01804,62,86.93,5222.41,Standard,Mountain,0,Invoice,4,0
+CH01805,56,126.7,6823.72,Premium,Southwest,2,Bank Transfer,5,1
+CH01806,19,24.54,484.74,Basic,Mountain,3,AutoPay,3,0
+CH01807,30,52.82,1532.59,Basic,Southwest,5,Invoice,4,0
+CH01808,4,105.05,388.22,Premium,Mountain,0,Credit Card,4,0
+CH01809,19,76.47,1398.94,Standard,West,2,AutoPay,4,0
+CH01810,29,35.64,1051.19,Basic,Mountain,0,Invoice,3,0
+CH01811,28,67.19,1943.38,Standard,West,0,Invoice,4,0
+CH01812,37,51.58,1778.39,Basic,Southwest,0,Bank Transfer,3,1
+CH01813,29,32.63,960.77,Basic,West,2,Credit Card,5,1
+CH01814,26,54.88,1350.5,Basic,West,2,Bank Transfer,4,0
+CH01815,32,112.91,3358.31,Premium,Northwest,1,Credit Card,5,0
+CH01816,48,73.0,3582.96,Standard,Southwest,3,Credit Card,5,0
+CH01817,23,46.87,1015.17,Basic,Northwest,3,Invoice,4,0
+CH01818,59,84.77,4662.15,Standard,West,2,AutoPay,3,0
+CH01819,16,68.46,1002.31,Standard,Northwest,0,AutoPay,5,0
+CH01820,44,46.53,2149.08,Basic,Southwest,1,AutoPay,4,0
+CH01821,2,52.94,102.05,Basic,West,1,Bank Transfer,3,0
+CH01822,10,46.1,483.77,Basic,Mountain,1,Credit Card,2,0
+CH01823,43,50.99,2239.41,Basic,Northwest,1,Bank Transfer,4,0
+CH01824,29,52.77,1521.43,Basic,Southwest,2,AutoPay,3,0
+CH01825,51,75.91,3589.75,Standard,Northwest,1,AutoPay,4,0
+CH01826,45,118.35,5416.12,Premium,Mountain,2,Invoice,5,0
+CH01827,25,49.18,1140.95,Basic,Northwest,3,Credit Card,4,0
+CH01828,24,39.08,880.77,Basic,Northwest,2,AutoPay,5,0
+CH01829,50,44.55,2311.43,Basic,Northwest,2,AutoPay,3,0
+CH01830,41,116.88,4754.15,Premium,Southwest,3,Bank Transfer,5,0
+CH01831,40,50.49,2012.78,Basic,Mountain,2,Bank Transfer,5,0
+CH01832,23,75.64,1677.3,Standard,Northwest,0,AutoPay,5,0
+CH01833,4,55.38,218.53,Basic,West,2,Invoice,4,0
+CH01834,31,69.88,1986.34,Standard,Mountain,0,Bank Transfer,5,0
+CH01835,22,52.05,1162.66,Basic,West,0,AutoPay,4,0
+CH01836,21,46.37,1002.51,Basic,Mountain,3,AutoPay,5,0
+CH01837,36,84.21,2966.39,Standard,Southwest,2,Invoice,5,0
+CH01838,38,52.01,2045.26,Basic,Southwest,0,AutoPay,5,0
+CH01839,20,74.01,1392.51,Standard,Northwest,2,Invoice,4,0
+CH01840,6,41.77,232.68,Basic,West,0,AutoPay,4,1
+CH01841,11,75.7,839.52,Standard,West,5,Invoice,5,1
+CH01842,12,56.89,694.71,Basic,Southwest,2,AutoPay,4,0
+CH01843,49,69.78,3356.86,Basic,Mountain,2,Bank Transfer,4,0
+CH01844,6,40.96,244.88,Basic,Southwest,0,Bank Transfer,2,0
+CH01845,72,70.87,5055.53,Standard,Mountain,4,Bank Transfer,4,0
+CH01846,72,120.93,8128.42,Premium,West,3,AutoPay,5,0
+CH01847,26,57.11,1425.19,Basic,Southwest,1,AutoPay,3,0
+CH01848,72,85.7,5862.85,Standard,West,0,AutoPay,5,0
+CH01849,63,73.57,4315.45,Basic,Northwest,3,Credit Card,3,0
+CH01850,5,40.98,195.93,Basic,West,0,Credit Card,4,0
+CH01851,45,54.26,2416.45,Basic,Northwest,0,Bank Transfer,3,0
+CH01852,42,27.3,1033.82,Basic,West,2,Credit Card,3,1
+CH01853,72,41.23,2805.62,Basic,West,0,Bank Transfer,3,1
+CH01854,52,38.7,2050.09,Basic,Northwest,3,AutoPay,4,0
+CH01855,55,52.87,3050.06,Basic,Southwest,3,Bank Transfer,4,1
+CH01856,25,87.87,2055.27,Standard,Mountain,2,AutoPay,2,0
+CH01857,7,79.15,540.87,Standard,West,2,AutoPay,5,0
+CH01858,10,55.36,547.17,Basic,Northwest,1,Bank Transfer,4,0
+CH01859,52,51.27,2509.46,Basic,Northwest,0,Invoice,5,0
+CH01860,30,56.87,1614.92,Standard,Mountain,3,AutoPay,4,0
+CH01861,3,106.38,318.87,Premium,West,1,AutoPay,4,0
+CH01862,59,71.08,3871.71,Standard,West,1,Credit Card,3,0
+CH01863,37,42.04,1544.74,Basic,Northwest,1,Bank Transfer,2,0
+CH01864,21,48.34,970.12,Basic,Northwest,2,Bank Transfer,4,0
+CH01865,56,127.11,7286.23,Premium,Northwest,1,Invoice,3,0
+CH01866,34,75.1,2319.93,Standard,West,0,AutoPay,2,1
+CH01867,37,130.8,5012.38,Premium,Mountain,0,Bank Transfer,2,0
+CH01868,7,128.81,867.73,Premium,Northwest,1,Credit Card,4,0
+CH01869,55,144.97,7735.72,Premium,Southwest,1,Credit Card,5,0
+CH01870,72,62.04,4519.7,Basic,West,3,Invoice,3,0
+CH01871,20,51.73,1081.05,Basic,Mountain,2,Bank Transfer,4,0
+CH01872,29,80.34,2135.55,Standard,Mountain,0,AutoPay,4,0
+CH01873,38,23.54,858.6,Basic,West,0,Credit Card,3,1
+CH01874,71,46.2,3061.41,Basic,Mountain,0,Credit Card,4,0
+CH01875,21,78.84,1578.7,Standard,Mountain,1,Credit Card,3,0
+CH01876,59,120.49,6941.01,Premium,Northwest,1,Bank Transfer,4,0
+CH01877,15,46.32,644.02,Basic,Mountain,2,Credit Card,3,0
+CH01878,8,94.2,756.27,Standard,Southwest,0,Invoice,4,0
+CH01879,7,63.76,426.43,Basic,Northwest,1,Invoice,5,0
+CH01880,12,95.04,1075.59,Standard,Mountain,3,Bank Transfer,2,1
+CH01881,52,80.76,4185.31,Standard,Southwest,3,AutoPay,3,0
+CH01882,18,105.49,1830.19,Premium,Mountain,0,AutoPay,3,0
+CH01883,57,60.56,3330.1,Standard,West,2,AutoPay,4,0
+CH01884,54,78.75,4112.72,Standard,Mountain,1,Invoice,1,0
+CH01885,18,54.25,888.55,Basic,Southwest,0,Bank Transfer,3,0
+CH01886,22,59.1,1213.8,Basic,Southwest,0,Bank Transfer,4,0
+CH01887,46,80.46,3558.41,Standard,West,1,Bank Transfer,2,1
+CH01888,60,35.2,1942.16,Basic,Southwest,1,Bank Transfer,4,0
+CH01889,44,41.96,1666.53,Basic,Southwest,1,AutoPay,3,0
+CH01890,38,79.0,3140.65,Standard,Southwest,0,Invoice,4,0
+CH01891,44,57.48,2544.56,Standard,West,1,Invoice,3,0
+CH01892,51,81.21,3896.63,Standard,Northwest,0,Invoice,2,0
+CH01893,69,50.36,3333.6,Basic,Northwest,1,AutoPay,3,0
+CH01894,12,59.82,657.24,Basic,Northwest,0,Credit Card,4,0
+CH01895,16,122.39,1804.94,Premium,Mountain,0,Bank Transfer,3,0
+CH01896,3,94.74,274.42,Standard,Northwest,4,Invoice,4,0
+CH01897,40,50.09,1973.05,Basic,Mountain,0,Invoice,4,0
+CH01898,46,36.28,1719.12,Basic,Southwest,0,Invoice,3,0
+CH01899,61,136.16,7890.97,Premium,Northwest,2,Bank Transfer,4,0
+CH01900,49,127.83,5847.89,Premium,Northwest,0,Bank Transfer,3,0
+CH01901,33,69.72,2320.16,Standard,West,1,Invoice,1,1
+CH01902,53,94.21,4905.89,Standard,Northwest,0,Invoice,4,0
+CH01903,6,81.24,456.35,Standard,West,2,Credit Card,3,0
+CH01904,3,113.11,334.47,Premium,West,2,Invoice,5,0
+CH01905,72,54.07,3741.2,Standard,Mountain,3,AutoPay,2,0
+CH01906,22,132.07,2807.3,Premium,Northwest,1,AutoPay,3,0
+CH01907,44,131.42,5279.27,Premium,Southwest,2,AutoPay,3,0
+CH01908,65,45.47,2783.68,Basic,Northwest,2,Credit Card,3,1
+CH01909,28,53.58,1495.68,Basic,Mountain,1,Invoice,2,0
+CH01910,38,76.93,2751.37,Standard,West,1,Credit Card,3,0
+CH01911,41,88.95,3462.01,Standard,Northwest,2,Bank Transfer,2,0
+CH01912,32,53.7,1724.89,Basic,Northwest,1,Credit Card,5,1
+CH01913,26,41.46,1106.77,Basic,Southwest,1,AutoPay,4,0
+CH01914,5,89.91,442.96,Premium,Southwest,2,Bank Transfer,3,0
+CH01915,34,81.09,2706.77,Standard,West,0,Invoice,2,0
+CH01916,34,42.11,1469.64,Basic,Mountain,1,Invoice,4,0
+CH01917,25,73.44,1723.7,Standard,West,1,AutoPay,3,0
+CH01918,69,126.35,8031.08,Premium,Southwest,1,Credit Card,3,0
+CH01919,6,79.43,483.49,Standard,Mountain,1,AutoPay,5,0
+CH01920,3,124.43,387.48,Premium,West,1,Invoice,2,1
+CH01921,18,50.56,904.55,Basic,Southwest,1,Credit Card,4,0
+CH01922,60,73.46,4447.0,Standard,Southwest,0,Credit Card,5,1
+CH01923,56,53.62,3149.53,Basic,Northwest,0,AutoPay,2,0
+CH01924,59,105.28,6333.28,Premium,Southwest,3,Invoice,3,0
+CH01925,41,62.72,2425.51,Standard,Northwest,2,Bank Transfer,4,0
+CH01926,47,80.41,3943.35,Standard,Southwest,4,Bank Transfer,4,0
+CH01927,46,73.13,3174.52,Standard,Mountain,0,Credit Card,4,0
+CH01928,8,65.5,472.81,Standard,Mountain,0,Invoice,4,0
+CH01929,57,41.51,2286.89,Basic,West,3,Bank Transfer,4,0
+CH01930,18,52.31,934.49,Basic,Mountain,4,Invoice,3,1
+CH01931,34,88.32,3140.75,Standard,Mountain,3,AutoPay,3,0
+CH01932,45,114.7,5320.24,Premium,Mountain,2,Invoice,3,0
+CH01933,19,24.03,453.86,Basic,Southwest,0,Credit Card,5,1
+CH01934,38,74.26,2607.14,Standard,West,1,Bank Transfer,2,0
+CH01935,62,74.74,4429.5,Standard,West,0,Credit Card,3,0
+CH01936,4,121.08,505.22,Premium,Northwest,0,Bank Transfer,3,0
+CH01937,66,53.57,3693.37,Basic,Northwest,0,Credit Card,5,0
+CH01938,15,43.48,656.81,Basic,Mountain,2,Credit Card,3,0
+CH01939,26,83.93,1991.64,Standard,Northwest,0,Credit Card,5,0
+CH01940,66,86.83,5242.22,Standard,West,2,Bank Transfer,3,0
+CH01941,35,67.66,2237.47,Standard,Southwest,3,Credit Card,4,0
+CH01942,28,53.69,1404.35,Basic,Southwest,2,Credit Card,4,0
+CH01943,57,29.45,1614.87,Basic,Northwest,0,Invoice,3,0
+CH01944,38,34.28,1314.27,Basic,Northwest,2,Credit Card,3,0
+CH01945,63,60.76,3506.08,Standard,Northwest,2,Bank Transfer,3,0
+CH01946,34,46.44,1549.99,Basic,Southwest,2,AutoPay,3,0
+CH01947,1,50.51,49.32,Basic,West,1,Invoice,5,0
+CH01948,30,58.41,1646.31,Basic,Southwest,0,Invoice,3,0
+CH01949,9,61.59,514.88,Basic,Northwest,2,Credit Card,3,0
+CH01950,50,48.0,2268.29,Basic,Northwest,1,Credit Card,4,1
+CH01951,29,70.11,1936.54,Standard,Northwest,2,AutoPay,3,0
+CH01952,36,107.35,4048.59,Premium,Northwest,1,Credit Card,2,0
+CH01953,51,72.38,3423.44,Standard,Northwest,0,Credit Card,3,0
+CH01954,27,71.34,1779.1,Standard,West,0,Invoice,4,0
+CH01955,13,53.81,717.17,Basic,Southwest,0,Bank Transfer,4,0
+CH01956,44,28.21,1136.05,Basic,Mountain,1,Credit Card,3,1
+CH01957,61,51.9,2957.09,Basic,Southwest,2,Invoice,3,1
+CH01958,38,41.33,1503.82,Basic,West,0,Bank Transfer,3,0
+CH01959,26,132.52,3480.07,Premium,Southwest,2,Bank Transfer,3,0
+CH01960,25,51.35,1319.67,Basic,Mountain,1,Bank Transfer,4,0
+CH01961,57,130.85,7815.37,Premium,West,3,AutoPay,3,1
+CH01962,68,81.9,5305.44,Standard,Southwest,2,AutoPay,3,1
+CH01963,69,54.41,3901.13,Basic,Southwest,1,Invoice,3,0
+CH01964,43,82.73,3389.21,Standard,Southwest,3,Invoice,4,0
+CH01965,7,101.62,690.33,Standard,West,1,AutoPay,5,0
+CH01966,62,72.32,4084.75,Standard,Northwest,0,Credit Card,2,0
+CH01967,65,85.31,5038.5,Standard,Mountain,1,Credit Card,3,1
+CH01968,57,107.36,6279.45,Premium,West,0,Invoice,4,0
+CH01969,38,45.37,1632.35,Basic,Southwest,0,Bank Transfer,4,0
+CH01970,9,112.67,993.58,Premium,Southwest,0,Invoice,4,0
+CH01971,52,83.01,4156.67,Standard,Southwest,0,Invoice,4,0
+CH01972,35,112.0,3558.18,Premium,Southwest,0,AutoPay,5,1
+CH01973,50,116.09,5772.87,Premium,Northwest,1,Credit Card,3,0
+CH01974,21,40.9,827.28,Basic,Southwest,3,Credit Card,4,0
+CH01975,19,59.86,1054.06,Basic,Northwest,5,Credit Card,2,1
+CH01976,52,26.26,1302.97,Basic,West,0,AutoPay,3,0
+CH01977,12,73.57,800.48,Standard,West,2,Bank Transfer,5,0
+CH01978,67,84.78,5640.01,Standard,West,1,AutoPay,4,0
+CH01979,14,52.8,775.71,Standard,West,1,Bank Transfer,4,0
+CH01980,65,49.87,3040.78,Basic,Southwest,1,Credit Card,4,0
+CH01981,10,113.8,1033.47,Premium,Northwest,2,Credit Card,4,0
+CH01982,68,56.56,3611.39,Basic,Southwest,1,Bank Transfer,5,0
+CH01983,57,115.59,6910.17,Premium,Northwest,0,Invoice,4,0
+CH01984,28,59.04,1688.64,Basic,West,0,Invoice,4,0
+CH01985,22,32.58,654.05,Basic,Northwest,0,Credit Card,3,0
+CH01986,19,91.81,1774.57,Standard,West,1,Bank Transfer,4,0
+CH01987,19,70.83,1271.08,Standard,Northwest,0,Invoice,4,0
+CH01988,8,75.29,630.52,Standard,Southwest,0,Credit Card,5,0
+CH01989,27,44.12,1199.82,Basic,Southwest,0,Invoice,3,0
+CH01990,70,76.74,5108.59,Standard,Mountain,1,Invoice,4,0
+CH01991,44,121.26,4936.15,Premium,Southwest,2,Credit Card,5,0
+CH01992,15,51.65,782.16,Basic,Southwest,1,Credit Card,5,0
+CH01993,28,49.0,1274.0,Basic,West,1,Invoice,3,0
+CH01994,48,50.41,2514.5,Basic,Southwest,0,Invoice,3,0
+CH01995,31,86.15,2707.69,Standard,Mountain,2,Bank Transfer,5,1
+CH01996,70,49.52,3338.09,Basic,Northwest,1,AutoPay,4,0
+CH01997,55,70.68,4022.95,Standard,Southwest,0,Bank Transfer,5,0
+CH01998,14,129.59,1667.92,Premium,Southwest,2,Credit Card,4,1
+CH01999,58,63.18,3622.06,Basic,West,0,AutoPay,3,1
+CH02000,49,89.18,4482.01,Standard,West,1,Invoice,3,0
+CH02001,12,68.11,857.46,Standard,Southwest,0,Bank Transfer,4,0
+CH02002,53,73.04,3498.65,Standard,Southwest,0,Credit Card,3,0
+CH02003,25,101.61,2583.67,Premium,West,3,Invoice,4,0
+CH02004,51,45.38,2423.53,Basic,Mountain,3,AutoPay,4,0
+CH02005,60,97.44,5789.25,Standard,Northwest,2,Bank Transfer,2,0
+CH02006,57,122.38,6790.17,Premium,Northwest,0,Bank Transfer,4,0
+CH02007,8,57.75,457.55,Basic,West,2,Bank Transfer,5,0
+CH02008,2,41.93,81.34,Basic,Northwest,0,AutoPay,5,1
+CH02009,60,59.04,3372.72,Basic,Mountain,0,Credit Card,2,1
+CH02010,54,88.57,4596.47,Standard,West,2,AutoPay,4,0
+CH02011,3,83.48,243.23,Standard,Southwest,0,Bank Transfer,4,1
+CH02012,13,52.42,706.53,Basic,Northwest,0,Bank Transfer,5,0
+CH02013,68,65.44,4052.69,Standard,Mountain,2,Credit Card,4,0
+CH02014,21,52.81,1059.31,Basic,Northwest,3,Bank Transfer,4,1
+CH02015,9,50.13,441.72,Basic,West,0,Invoice,3,1
+CH02016,67,60.03,3942.15,Basic,Southwest,0,Bank Transfer,4,0
+CH02017,27,71.44,2023.2,Standard,Mountain,0,Bank Transfer,3,0
+CH02018,38,51.61,1853.95,Basic,Northwest,0,AutoPay,2,0
+CH02019,41,52.41,2242.32,Basic,West,1,Credit Card,4,0
+CH02020,12,93.96,1107.93,Standard,West,0,Invoice,4,0
+CH02021,36,114.53,3769.09,Premium,Southwest,2,Credit Card,4,0
+CH02022,68,125.13,8342.47,Premium,Mountain,0,Invoice,3,1
+CH02023,71,120.9,8682.61,Premium,Mountain,3,Invoice,4,0
+CH02024,5,93.92,460.16,Standard,Mountain,2,Bank Transfer,4,0
+CH02025,2,108.19,225.37,Premium,Northwest,0,AutoPay,4,0
+CH02026,61,66.54,4178.97,Standard,West,4,Invoice,3,0
+CH02027,51,34.75,1791.69,Basic,Mountain,0,AutoPay,3,0
+CH02028,64,50.53,3088.93,Basic,West,0,Credit Card,4,0
+CH02029,44,47.91,2002.33,Basic,Southwest,1,Invoice,5,0
+CH02030,46,119.8,5142.31,Premium,Southwest,3,Invoice,5,0
+CH02031,55,55.47,2855.7,Basic,Southwest,0,Invoice,3,0
+CH02032,69,98.72,6882.29,Standard,Mountain,1,Invoice,4,0
+CH02033,28,90.4,2360.85,Standard,Mountain,3,AutoPay,5,0
+CH02034,26,69.07,1772.91,Basic,West,0,Credit Card,4,0
+CH02035,17,79.78,1273.37,Standard,Southwest,2,AutoPay,3,1
+CH02036,63,51.11,3133.07,Basic,West,1,AutoPay,5,0
+CH02037,58,53.44,3088.32,Basic,Mountain,2,AutoPay,5,0
+CH02038,9,68.34,619.54,Standard,Mountain,2,AutoPay,5,0
+CH02039,12,52.68,575.93,Basic,Northwest,2,Bank Transfer,2,1
+CH02040,59,73.26,4534.01,Standard,Mountain,1,AutoPay,4,0
+CH02041,64,53.21,3287.35,Basic,Southwest,0,AutoPay,3,0
+CH02042,44,52.14,2287.68,Basic,West,1,Bank Transfer,4,0
+CH02043,32,47.63,1595.95,Basic,Southwest,0,Credit Card,5,1
+CH02044,44,74.37,3068.36,Standard,West,1,Bank Transfer,3,0
+CH02045,14,104.43,1345.75,Premium,West,1,Credit Card,5,0
+CH02046,19,91.09,1810.68,Premium,Northwest,1,Bank Transfer,2,0
+CH02047,5,47.96,222.0,Basic,Mountain,0,AutoPay,3,0
+CH02048,32,37.77,1168.64,Basic,Mountain,0,Bank Transfer,3,1
+CH02049,42,28.83,1242.33,Basic,Mountain,0,Credit Card,3,0
+CH02050,50,59.76,2871.12,Basic,West,2,Bank Transfer,5,0
+CH02051,24,80.76,1775.62,Standard,Mountain,0,AutoPay,4,0
+CH02052,34,80.47,2466.43,Standard,Northwest,0,Bank Transfer,3,0
+CH02053,62,87.53,5323.6,Standard,Southwest,2,AutoPay,4,0
+CH02054,66,111.8,6751.12,Premium,Southwest,1,AutoPay,3,0
+CH02055,49,126.74,6477.54,Premium,West,3,Invoice,4,0
+CH02056,61,37.05,2315.02,Basic,Northwest,3,Bank Transfer,4,0
+CH02057,37,118.12,4164.84,Premium,Northwest,4,Credit Card,4,1
+CH02058,51,38.73,2003.95,Basic,Southwest,0,AutoPay,5,0
+CH02059,13,41.04,486.39,Basic,Southwest,0,Bank Transfer,3,0
+CH02060,49,118.56,5728.34,Premium,Northwest,0,Bank Transfer,3,0
+CH02061,39,119.99,4793.16,Premium,West,1,Bank Transfer,3,1
+CH02062,52,45.24,2466.27,Basic,Southwest,4,Credit Card,3,0
+CH02063,26,57.78,1471.78,Basic,Northwest,3,Invoice,4,1
+CH02064,66,54.98,3321.31,Basic,Mountain,1,Invoice,1,1
+CH02065,27,59.32,1589.7,Basic,Mountain,0,AutoPay,5,0
+CH02066,22,145.51,3197.25,Premium,Mountain,2,Bank Transfer,5,0
+CH02067,49,52.98,2554.59,Basic,West,1,AutoPay,4,0
+CH02068,60,107.28,6117.05,Premium,West,2,Credit Card,5,0
+CH02069,40,50.84,2048.41,Basic,Mountain,2,Bank Transfer,5,0
+CH02070,35,50.33,1734.07,Basic,Southwest,1,Bank Transfer,2,1
+CH02071,1,44.61,40.24,Basic,Mountain,1,Invoice,4,0
+CH02072,21,43.26,908.21,Basic,Mountain,1,Bank Transfer,4,0
+CH02073,8,136.79,1080.36,Premium,Mountain,1,Invoice,5,1
+CH02074,5,88.37,461.54,Standard,Mountain,0,Invoice,3,0
+CH02075,26,110.78,2928.75,Premium,Northwest,1,Credit Card,5,0
+CH02076,45,63.43,2876.18,Basic,Northwest,0,Credit Card,5,0
+CH02077,21,62.19,1348.82,Basic,Southwest,2,Invoice,5,0
+CH02078,1,75.83,69.58,Standard,Southwest,3,AutoPay,5,0
+CH02079,60,44.22,2570.91,Basic,Northwest,0,Credit Card,5,0
+CH02080,42,109.89,4516.64,Premium,Southwest,3,AutoPay,4,0
+CH02081,25,77.58,2011.46,Standard,Northwest,2,Credit Card,3,1
+CH02082,4,49.17,178.68,Basic,Southwest,3,Invoice,3,1
+CH02083,60,46.05,2715.35,Basic,Mountain,0,AutoPay,4,0
+CH02084,9,61.91,511.02,Basic,Northwest,1,AutoPay,3,0
+CH02085,40,72.79,2790.79,Basic,Mountain,2,Invoice,5,0
+CH02086,27,110.63,3108.41,Premium,Mountain,1,Bank Transfer,3,0
+CH02087,24,114.54,2602.5,Premium,Southwest,1,Bank Transfer,4,0
+CH02088,21,81.82,1744.59,Standard,Mountain,3,AutoPay,3,1
+CH02089,4,122.08,446.34,Premium,Southwest,0,Invoice,3,1
+CH02090,54,77.55,4367.47,Standard,Northwest,0,Credit Card,3,0
+CH02091,38,87.24,3319.54,Standard,Mountain,2,AutoPay,4,0
+CH02092,46,93.14,3934.25,Standard,Northwest,1,Invoice,4,0
+CH02093,45,79.14,3678.74,Basic,West,1,Credit Card,3,0
+CH02094,31,102.94,3176.06,Standard,Mountain,1,AutoPay,4,0
+CH02095,69,52.29,3454.25,Basic,Southwest,3,Bank Transfer,3,0
+CH02096,29,57.38,1675.19,Basic,Northwest,0,Credit Card,4,0
+CH02097,26,48.38,1271.47,Basic,Mountain,3,Invoice,2,1
+CH02098,52,48.88,2418.63,Basic,Mountain,0,Credit Card,4,0
+CH02099,70,66.14,4782.1,Basic,Southwest,1,Invoice,3,0
+CH02100,69,43.99,2880.11,Basic,Mountain,1,Invoice,5,0
+CH02101,64,45.12,2737.39,Basic,Mountain,0,Bank Transfer,3,0
+CH02102,52,80.63,4320.72,Standard,Southwest,0,Credit Card,3,0
+CH02103,52,49.42,2320.55,Basic,Mountain,2,Bank Transfer,3,0
+CH02104,63,84.7,4818.85,Standard,Mountain,0,AutoPay,3,0
+CH02105,68,77.79,5050.63,Standard,Southwest,0,Invoice,2,0
+CH02106,47,40.9,1774.91,Basic,Northwest,0,AutoPay,2,0
+CH02107,43,76.36,3175.18,Standard,Mountain,0,AutoPay,3,0
+CH02108,46,37.85,1803.22,Basic,Northwest,2,Invoice,4,0
+CH02109,37,80.86,2741.04,Standard,Northwest,1,Bank Transfer,3,0
+CH02110,70,121.22,8562.93,Premium,West,0,Invoice,5,0
+CH02111,34,96.33,2999.53,Standard,West,1,Credit Card,5,1
+CH02112,25,42.34,988.06,Basic,Northwest,1,Invoice,4,0
+CH02113,26,71.97,1847.68,Standard,West,0,Credit Card,3,0
+CH02114,67,46.78,3219.43,Basic,Southwest,2,Credit Card,3,0
+CH02115,19,64.99,1236.27,Basic,West,1,AutoPay,3,0
+CH02116,63,66.33,3801.72,Standard,Mountain,2,Credit Card,4,0
+CH02117,55,121.4,6510.93,Premium,Southwest,0,Credit Card,3,0
+CH02118,71,39.85,2949.88,Basic,Northwest,0,Invoice,3,1
+CH02119,67,79.8,5371.87,Standard,Northwest,3,Invoice,3,0
+CH02120,56,115.24,6708.02,Premium,West,0,Bank Transfer,2,0
+CH02121,14,105.4,1427.96,Premium,Southwest,1,Invoice,999,0
+CH02122,44,93.78,4165.44,Standard,Northwest,0,AutoPay,2,0
+CH02123,2,121.71,250.05,Premium,Northwest,1,Invoice,4,0
+CH02124,14,40.43,516.97,Basic,Mountain,0,Invoice,4,0
+CH02125,68,90.48,5926.9,Standard,Mountain,1,Invoice,3,0
+CH02126,32,115.88,3891.37,Premium,Southwest,0,AutoPay,3,0
+CH02127,61,55.37,3515.44,Standard,Southwest,3,Credit Card,5,0
+CH02128,46,69.84,3052.25,Standard,Northwest,2,Invoice,3,0
+CH02129,67,49.85,3460.64,Basic,West,0,Bank Transfer,4,1
+CH02130,12,80.82,933.06,Standard,Southwest,0,Invoice,5,1
+CH02131,22,72.05,1477.81,Standard,Southwest,0,Invoice,3,0
+CH02132,6,46.04,257.05,Basic,Southwest,0,Bank Transfer,4,1
+CH02133,33,39.83,1217.9,Basic,Northwest,0,AutoPay,2,0
+CH02134,8,125.12,958.47,Premium,Northwest,0,Invoice,4,0
+CH02135,38,106.28,4221.27,Premium,Mountain,1,AutoPay,3,0
+CH02136,67,76.79,5389.77,Standard,West,2,Credit Card,4,0
+CH02137,34,54.39,1851.62,Basic,West,1,Invoice,3,1
+CH02138,29,67.82,1908.76,Standard,Southwest,0,Credit Card,5,0
+CH02139,38,123.61,4736.65,Premium,West,2,Credit Card,4,0
+CH02140,3,105.39,327.16,Premium,Southwest,2,Invoice,5,0
+CH02141,56,53.59,2951.78,Basic,West,1,Bank Transfer,2,0
+CH02142,46,133.2,5745.25,Premium,West,0,AutoPay,4,0
+CH02143,46,50.34,2283.61,Basic,Southwest,1,AutoPay,5,0
+CH02144,64,65.58,4183.77,Standard,Mountain,2,Invoice,3,0
+CH02145,22,89.32,1974.12,Standard,West,3,Bank Transfer,3,0
+CH02146,33,79.48,2601.19,Standard,Northwest,0,AutoPay,4,0
+CH02147,60,70.97,3879.29,Standard,West,0,Invoice,5,1
+CH02148,70,60.9,4074.25,Basic,West,0,Invoice,2,0
+CH02149,21,33.78,655.35,Basic,Northwest,3,Credit Card,5,0
+CH02150,37,59.94,2269.97,Basic,Mountain,3,Invoice,3,0
+CH02151,22,91.13,1814.3,Standard,Northwest,2,Credit Card,4,0
+CH02152,17,47.67,819.65,Basic,West,2,Bank Transfer,4,0
+CH02153,30,56.58,1738.2,Standard,Northwest,2,AutoPay,4,0
+CH02154,33,35.82,1087.42,Basic,Mountain,1,Bank Transfer,5,0
+CH02155,44,82.79,3783.0,Standard,Northwest,0,AutoPay,5,1
+CH02156,35,62.4,2235.69,Basic,Northwest,0,Credit Card,4,0
+CH02157,23,133.57,2885.67,Premium,Northwest,1,Credit Card,4,0
+CH02158,27,76.76,1934.16,Standard,Northwest,1,Credit Card,3,0
+CH02159,31,137.06,4376.53,Premium,Northwest,1,Invoice,3,0
+CH02160,58,63.61,3697.43,Standard,Southwest,2,Credit Card,4,0
+CH02161,49,84.73,3749.43,Standard,West,3,Invoice,3,0
+CH02162,5,76.99,380.98,Standard,Southwest,0,Invoice,5,1
+CH02163,61,93.99,5262.46,Standard,Southwest,2,Invoice,4,0
+CH02164,62,86.09,5441.93,Standard,Southwest,2,Bank Transfer,4,0
+CH02165,70,68.46,4724.37,Basic,Southwest,0,AutoPay,3,0
+CH02166,9,140.06,1320.82,Premium,Mountain,7,Credit Card,5,0
+CH02167,55,126.98,6682.48,Premium,Southwest,7,Invoice,3,1
+CH02168,36,77.44,2872.54,Standard,West,2,Bank Transfer,3,0
+CH02169,8,66.03,538.86,Standard,Northwest,0,Invoice,4,0
+CH02170,63,112.28,7009.36,Premium,West,2,Bank Transfer,4,0
+CH02171,52,36.61,1871.49,Basic,Southwest,0,Invoice,4,0
+CH02172,49,69.87,3319.35,Standard,Southwest,1,Bank Transfer,5,1
+CH02173,41,56.14,2185.08,Basic,Mountain,3,Invoice,3,0
+CH02174,32,83.92,2720.82,Standard,Northwest,1,Invoice,4,0
+CH02175,33,120.17,4160.19,Premium,Southwest,0,Bank Transfer,4,0
+CH02176,65,80.69,4954.15,Standard,Southwest,1,Invoice,4,0
+CH02177,26,56.46,1443.17,Basic,West,1,Credit Card,4,0
+CH02178,14,57.44,807.06,Basic,Southwest,0,Bank Transfer,4,0
+CH02179,37,110.85,3764.55,Premium,West,1,Bank Transfer,3,0
+CH02180,24,98.64,2379.36,Premium,Southwest,0,Credit Card,4,0
+CH02181,46,133.87,6405.55,Premium,Northwest,2,AutoPay,4,0
+CH02182,19,47.61,872.05,Basic,West,0,Credit Card,4,0
+CH02183,54,124.64,6549.58,Premium,Southwest,2,Credit Card,5,0
+CH02184,35,109.95,3920.88,Premium,Southwest,0,Bank Transfer,4,0
+CH02185,20,75.64,1579.59,Standard,West,3,Bank Transfer,3,1
+CH02186,16,45.9,763.74,Basic,West,0,Invoice,3,0
+CH02187,54,103.32,5097.65,Standard,Northwest,2,Invoice,2,1
+CH02188,11,68.31,707.22,Standard,West,3,Bank Transfer,3,0
+CH02189,15,23.41,343.04,Basic,Southwest,1,Invoice,4,0
+CH02190,10,76.34,761.01,Standard,Southwest,0,Invoice,3,0
+CH02191,16,128.4,1862.79,Premium,West,2,Bank Transfer,5,0
+CH02192,10,80.0,751.91,Standard,Southwest,1,Bank Transfer,5,1
+CH02193,69,72.69,4539.38,Standard,Mountain,0,Bank Transfer,4,0
+CH02194,66,112.95,6892.06,Premium,Southwest,0,AutoPay,4,0
+CH02195,70,95.98,6267.38,Standard,Southwest,2,Bank Transfer,4,0
+CH02196,28,39.03,1025.15,Basic,Northwest,1,Credit Card,4,0
+CH02197,50,36.31,1783.58,Basic,Southwest,2,Bank Transfer,4,0
+CH02198,60,109.52,6153.95,Premium,Northwest,0,Invoice,3,0
+CH02199,37,125.16,4312.52,Premium,Mountain,3,Credit Card,5,1
+CH02200,33,61.52,2008.97,Basic,West,2,Bank Transfer,4,0
+CH02201,45,83.21,3624.88,Standard,Mountain,2,Bank Transfer,3,0
+CH02202,1,114.31,109.86,Premium,Mountain,0,Invoice,5,1
+CH02203,34,68.05,2382.91,Standard,West,1,AutoPay,3,0
+CH02204,52,68.93,3622.52,Basic,Southwest,3,Bank Transfer,5,0
+CH02205,29,77.69,2062.48,Standard,Northwest,1,Invoice,4,0
+CH02206,68,144.47,9601.05,Premium,Southwest,3,Bank Transfer,3,1
+CH02207,3,46.85,127.32,Basic,Mountain,2,Bank Transfer,3,0
+CH02208,33,76.94,2514.28,Standard,Southwest,1,AutoPay,4,0
+CH02209,7,41.35,266.65,Basic,Mountain,3,Invoice,4,1
+CH02210,34,88.18,2963.66,Standard,Southwest,0,AutoPay,4,0
+CH02211,43,-30.59,1194.91,Basic,Mountain,0,Invoice,5,0
+CH02212,33,58.85,1833.52,Basic,Northwest,0,Credit Card,5,0
+CH02213,63,83.81,4764.11,Standard,West,1,Credit Card,4,0
+CH02214,12,82.51,929.66,Standard,Southwest,1,AutoPay,4,0
+CH02215,72,116.55,7828.75,Premium,Southwest,2,AutoPay,5,0
+CH02216,37,79.15,2867.52,Standard,Northwest,0,AutoPay,3,0
+CH02217,59,81.86,4770.18,Standard,Mountain,3,Credit Card,4,0
+CH02218,53,48.2,2491.51,Basic,Northwest,2,Bank Transfer,3,0
+CH02219,71,129.22,9505.25,Premium,West,2,AutoPay,4,0
+CH02220,66,52.08,3110.77,Basic,Southwest,2,Credit Card,4,0
+CH02221,43,59.19,2440.22,Basic,Southwest,0,Bank Transfer,5,1
+CH02222,47,82.43,3950.68,Standard,Northwest,0,AutoPay,5,0
+CH02223,59,55.17,3272.44,Standard,West,1,Bank Transfer,2,1
+CH02224,70,52.8,3347.27,Basic,Northwest,1,Invoice,4,1
+CH02225,17,124.55,1925.0,Premium,Northwest,5,Bank Transfer,3,0
+CH02226,34,47.61,1553.07,Basic,Mountain,2,AutoPay,3,0
+CH02227,70,77.57,5301.28,Standard,West,1,Credit Card,3,0
+CH02228,30,52.02,1628.28,Basic,Mountain,1,Credit Card,4,0
+CH02229,16,52.87,867.95,Basic,Southwest,2,AutoPay,3,0
+CH02230,25,39.08,952.76,Basic,Mountain,2,Credit Card,3,0
+CH02231,10,36.09,331.6,Basic,Southwest,0,Invoice,2,1
+CH02232,16,76.59,1116.97,Standard,Southwest,5,Bank Transfer,4,0
+CH02233,17,50.09,783.07,Basic,Southwest,0,Invoice,5,0
+CH02234,57,66.18,3938.29,Basic,Southwest,0,Bank Transfer,3,0
+CH02235,25,59.25,1362.99,Basic,West,0,Invoice,4,0
+CH02236,43,43.73,1858.04,Basic,Southwest,0,Invoice,5,0
+CH02237,50,90.74,4120.44,Standard,Southwest,2,AutoPay,3,0
+CH02238,39,83.97,3333.3,Standard,Southwest,2,Credit Card,5,0
+CH02239,27,56.6,1477.01,Basic,Southwest,1,Bank Transfer,4,0
+CH02240,41,67.03,2846.89,Basic,Southwest,1,Credit Card,5,0
+CH02241,29,75.16,2154.44,Standard,Southwest,2,Credit Card,4,0
+CH02242,58,88.65,4716.65,Standard,Mountain,0,AutoPay,2,0
+CH02243,21,73.09,1557.89,Basic,Southwest,0,Credit Card,5,0
+CH02244,59,50.41,3114.51,Basic,Mountain,2,AutoPay,4,0
+CH02245,50,92.4,4792.12,Standard,West,0,AutoPay,3,1
+CH02246,28,66.8,1774.43,Basic,Northwest,3,Bank Transfer,4,0
+CH02247,66,109.89,7302.8,Premium,Northwest,3,Credit Card,4,0
+CH02248,58,87.93,4954.78,Standard,Mountain,2,Bank Transfer,4,0
+CH02249,66,82.32,5614.77,Standard,West,1,Invoice,4,0
+CH02250,24,133.09,3029.3,Premium,Northwest,4,Bank Transfer,3,1
+CH02251,24,81.28,1796.81,Standard,Southwest,0,Bank Transfer,4,0
+CH02252,19,93.55,1813.06,Standard,Northwest,0,AutoPay,4,0
+CH02253,29,123.04,3235.27,Premium,Northwest,0,Bank Transfer,3,0
+CH02254,15,120.13,1770.15,Premium,Northwest,2,Invoice,2,1
+CH02255,33,38.68,1167.36,Basic,Mountain,1,Invoice,3,0
+CH02256,52,35.78,1778.27,Basic,Mountain,3,Bank Transfer,4,0
+CH02257,23,62.41,1429.79,Standard,Southwest,0,Bank Transfer,4,0
+CH02258,5,83.03,388.38,Standard,West,1,Invoice,3,0
+CH02259,38,94.21,3452.23,Standard,Mountain,2,Bank Transfer,3,0
+CH02260,66,47.1,2905.71,Basic,Northwest,1,AutoPay,4,0
+CH02261,1,54.22,52.42,Basic,Northwest,5,Bank Transfer,4,0
+CH02262,1,72.47,71.13,Standard,Mountain,1,Credit Card,3,1
+CH02263,51,46.74,2165.09,Basic,West,2,Invoice,4,0
+CH02264,18,79.92,1426.8,Standard,Mountain,1,Invoice,4,0
+CH02265,50,72.64,3743.7,Standard,Mountain,2,Credit Card,5,0
+CH02266,47,59.78,2612.6,Basic,Southwest,0,Invoice,4,0
+CH02267,30,121.95,3369.47,Premium,West,0,Credit Card,4,0
+CH02268,57,87.9,4577.11,Standard,Mountain,2,Bank Transfer,4,0
+CH02269,13,79.72,996.01,Standard,Mountain,1,AutoPay,2,0
+CH02270,70,52.95,3624.42,Standard,West,1,Credit Card,5,0
+CH02271,32,74.62,2251.37,Standard,Southwest,0,AutoPay,4,0
+CH02272,37,105.69,3749.39,Premium,West,0,AutoPay,4,0
+CH02273,43,108.41,4689.1,Premium,West,1,Invoice,4,1
+CH02274,55,56.7,3115.3,Basic,West,2,Bank Transfer,3,0
+CH02275,67,119.48,7754.52,Premium,Northwest,2,Credit Card,2,1
+CH02276,66,90.25,5581.77,Standard,West,0,Invoice,3,0
+CH02277,28,43.27,1250.86,Basic,Northwest,0,Bank Transfer,5,0
+CH02278,54,79.96,4120.31,Standard,Southwest,2,Credit Card,5,0
+CH02279,47,65.1,2952.04,Standard,Southwest,1,Bank Transfer,2,1
+CH02280,16,70.34,1080.05,Basic,Northwest,2,Credit Card,4,0
+CH02281,21,86.49,1741.07,Standard,Southwest,1,Invoice,3,0
+CH02282,61,87.2,5093.54,Standard,Northwest,2,Invoice,2,1
+CH02283,50,52.79,2647.98,Basic,Mountain,3,Bank Transfer,4,0
+CH02284,10,49.66,483.77,Basic,Mountain,2,Invoice,4,0
+CH02285,13,77.28,1027.18,Standard,Northwest,2,Invoice,3,0
+CH02286,61,86.55,5373.52,Standard,Southwest,3,Credit Card,3,0
+CH02287,5,68.03,340.34,Basic,Northwest,0,Credit Card,3,0
+CH02288,35,114.98,3828.68,Premium,West,2,Credit Card,5,0
+CH02289,46,109.33,4862.53,Premium,Southwest,3,Invoice,3,1
+CH02290,66,141.19,9638.28,Premium,Southwest,0,Invoice,5,0
+CH02291,5,47.75,236.33,Basic,Mountain,0,Invoice,4,0
+CH02292,5,29.4,147.58,Basic,Southwest,1,Credit Card,4,0
+CH02293,44,67.44,2771.41,Standard,Northwest,1,Credit Card,2,0
+CH02294,27,34.94,888.49,Basic,Mountain,0,Invoice,3,0
+CH02295,68,66.91,4395.6,Standard,Southwest,2,Credit Card,4,0
+CH02296,36,56.65,1840.31,Basic,Southwest,1,Credit Card,4,0
+CH02297,4,81.2,294.29,Standard,Northwest,1,Credit Card,4,0
+CH02298,26,47.39,1286.71,Basic,West,0,AutoPay,3,0
+CH02299,68,105.32,7258.84,Premium,Mountain,1,Bank Transfer,2,0
+CH02300,29,81.83,2137.07,Standard,West,2,AutoPay,4,1
+CH02301,22,117.51,2372.17,Premium,Mountain,3,Bank Transfer,5,0
+CH02302,11,113.15,1183.3,Premium,Northwest,0,Bank Transfer,5,0
+CH02303,36,57.23,1986.2,Standard,West,3,Credit Card,3,0
+CH02304,54,122.09,6259.16,Premium,Southwest,0,Invoice,2,1
+CH02305,24,49.07,1208.88,Basic,Mountain,2,Credit Card,4,0
+CH02306,26,55.73,1510.9,Basic,Southwest,1,Bank Transfer,5,0
+CH02307,72,90.53,6005.12,Standard,Mountain,2,Credit Card,3,1
+CH02308,10,82.23,768.5,Standard,Mountain,3,Invoice,4,0
+CH02309,71,56.16,4026.14,Basic,West,0,Credit Card,4,0
+CH02310,67,77.56,4937.33,Standard,West,2,Credit Card,3,0
+CH02311,52,134.56,6944.57,Premium,Mountain,1,Bank Transfer,4,0
+CH02312,12,69.3,791.74,Basic,Southwest,1,Bank Transfer,5,0
+CH02313,10,42.46,418.72,Basic,Northwest,0,Bank Transfer,4,0
+CH02314,44,47.76,2133.71,Basic,Mountain,3,Bank Transfer,3,1
+CH02315,24,108.07,2447.41,Premium,Southwest,3,Bank Transfer,5,0
+CH02316,35,50.3,1594.58,Basic,Southwest,3,Invoice,5,0
+CH02317,11,48.86,543.82,Basic,Mountain,1,Credit Card,2,0
+CH02318,41,58.38,2241.72,Standard,West,4,Bank Transfer,4,1
+CH02319,34,32.23,1015.11,Basic,Southwest,0,Bank Transfer,5,0
+CH02320,70,52.1,3338.72,Basic,Southwest,0,Bank Transfer,3,0
+CH02321,11,81.95,876.68,Standard,West,2,Bank Transfer,3,0
+CH02322,37,41.58,1441.13,Basic,Mountain,1,AutoPay,4,0
+CH02323,15,83.94,1272.36,Standard,Mountain,3,AutoPay,4,1
+CH02324,14,122.47,1702.69,Premium,West,2,Invoice,4,0
+CH02325,26,74.7,1820.0,Standard,Mountain,4,Bank Transfer,3,1
+CH02326,49,46.46,2179.11,Basic,Northwest,0,Invoice,4,1
+CH02327,71,79.61,5358.31,Standard,Northwest,2,AutoPay,4,0
+CH02328,44,127.0,5117.1,Premium,Mountain,1,Bank Transfer,4,0
+CH02329,38,61.26,2223.73,Basic,Mountain,3,Bank Transfer,4,1
+CH02330,47,32.84,1447.11,Basic,West,0,Credit Card,5,0
+CH02331,8,77.79,566.19,Standard,Northwest,2,Bank Transfer,5,0
+CH02332,70,54.86,3783.58,Basic,Mountain,1,Bank Transfer,3,1
+CH02333,31,79.44,2393.0,Standard,Northwest,1,Bank Transfer,1,0
+CH02334,66,90.24,,Standard,Southwest,0,AutoPay,4,1
+CH02335,29,72.91,2169.43,Standard,West,2,AutoPay,4,1
+CH02336,32,118.82,3906.51,Premium,West,0,Credit Card,3,0
+CH02337,4,79.82,291.92,Standard,West,1,Credit Card,4,0
+CH02338,61,61.42,3537.01,Basic,Northwest,3,Bank Transfer,3,0
+CH02339,49,85.56,3859.4,Standard,West,0,Credit Card,2,0
+CH02340,64,117.26,7784.03,Premium,Southwest,2,Invoice,3,1
+CH02341,38,42.29,1447.85,Basic,Northwest,2,Bank Transfer,3,0
+CH02342,39,45.55,1631.55,Basic,Northwest,3,Invoice,4,0
+CH02343,63,117.5,7713.68,Premium,Northwest,0,Invoice,4,0
+CH02344,47,76.46,3385.57,Standard,Southwest,1,AutoPay,3,1
+CH02345,50,40.07,1957.02,Basic,Southwest,0,Invoice,3,0
+CH02346,65,63.73,4034.63,Basic,West,3,AutoPay,4,0
+CH02347,46,67.89,2862.88,Standard,West,2,Bank Transfer,4,0
+CH02348,63,89.98,5284.21,Standard,Northwest,1,Bank Transfer,2,1
+CH02349,56,48.65,2485.64,Basic,West,2,AutoPay,5,0
+CH02350,43,85.74,3810.1,Standard,Mountain,0,Credit Card,2,0
+CH02351,22,43.33,892.23,Basic,Southwest,3,Credit Card,4,0
+CH02352,9,52.79,495.5,Basic,West,3,Credit Card,5,0
+CH02353,6,52.85,291.83,Basic,Southwest,3,Bank Transfer,4,0
+CH02354,48,117.86,5727.09,Premium,West,0,Credit Card,3,1
+CH02355,16,79.07,1206.32,Standard,West,1,Bank Transfer,5,0
+CH02356,64,47.15,2884.66,Basic,Mountain,0,AutoPay,3,0
+CH02357,59,44.55,2401.97,Basic,Mountain,1,Invoice,4,0
+CH02358,59,76.97,4217.09,Standard,West,4,Invoice,4,1
+CH02359,58,116.49,6400.34,Premium,Mountain,4,AutoPay,4,0
+CH02360,24,85.82,1865.65,Standard,Southwest,0,AutoPay,4,0
+CH02361,35,43.32,1490.05,Basic,Northwest,3,AutoPay,4,0
+CH02362,4,43.99,159.19,Basic,West,0,AutoPay,4,0
+CH02363,43,22.23,877.18,Basic,Mountain,0,Bank Transfer,5,1
+CH02364,67,39.52,2705.83,Basic,Southwest,1,Bank Transfer,4,0
+CH02365,38,138.4,5019.95,Premium,West,1,Credit Card,4,0
+CH02366,4,84.8,338.26,Standard,Southwest,0,Bank Transfer,3,0
+CH02367,61,74.95,4187.22,Standard,Northwest,2,Credit Card,3,0
+CH02368,12,45.66,512.44,Basic,Mountain,0,Credit Card,4,0
+CH02369,24,123.21,3031.05,Premium,West,2,Bank Transfer,5,0
+CH02370,58,52.69,2898.73,Basic,Southwest,0,AutoPay,4,0
+CH02371,20,37.7,719.74,Basic,Southwest,0,AutoPay,4,0
+CH02372,48,87.44,3786.86,Standard,West,4,Invoice,3,0
+CH02373,22,58.99,1311.77,Basic,West,2,Bank Transfer,5,1
+CH02374,9,72.59,682.49,Standard,Southwest,0,AutoPay,5,0
+CH02375,19,90.79,1792.66,Standard,Southwest,1,Credit Card,3,0
+CH02376,41,45.29,1917.9,Basic,Mountain,1,Invoice,4,0
+CH02377,40,58.81,2130.66,Basic,Southwest,2,Bank Transfer,3,0
+CH02378,58,121.08,6373.49,Premium,Southwest,1,Bank Transfer,2,1
+CH02379,51,38.85,1838.0,Basic,Mountain,1,Credit Card,3,0
+CH02380,30,67.67,1931.14,Standard,Northwest,0,Bank Transfer,3,0
+CH02381,33,67.65,2085.39,Basic,Northwest,0,Invoice,4,0
+CH02382,9,114.06,1007.64,Premium,Northwest,0,Credit Card,5,1
+CH02383,21,44.31,853.18,Basic,Southwest,0,Credit Card,4,0
+CH02384,57,46.02,2523.76,Basic,Southwest,0,Credit Card,4,0
+CH02385,19,76.2,1514.18,Standard,Mountain,1,AutoPay,3,1
+CH02386,54,78.3,4155.34,Standard,Northwest,0,AutoPay,5,0
+CH02387,61,74.42,4459.93,Standard,Mountain,1,Credit Card,2,1
+CH02388,42,42.31,1858.41,Basic,Southwest,1,Invoice,3,0
+CH02389,28,105.58,2834.81,Premium,Mountain,0,Invoice,4,1
+CH02390,56,46.42,2655.08,Basic,Mountain,0,Credit Card,5,1
+CH02391,45,72.2,3050.24,Standard,Northwest,1,Credit Card,3,0
+CH02392,14,58.45,832.08,Basic,Mountain,2,AutoPay,3,0
+CH02393,46,54.4,2289.75,Basic,West,2,Invoice,5,0
+CH02394,64,72.5,4433.05,Standard,Southwest,2,Bank Transfer,4,1
+CH02395,15,67.64,1028.67,Basic,Northwest,4,AutoPay,4,0
+CH02396,8,48.53,375.9,Basic,West,0,Credit Card,4,0
+CH02397,40,99.61,3719.6,Premium,Mountain,1,AutoPay,3,0
+CH02398,2,41.68,76.69,Basic,Mountain,3,Invoice,5,1
+CH02399,66,76.67,4589.24,Standard,Northwest,1,Bank Transfer,5,0
+CH02400,40,123.12,4605.71,Premium,Northwest,1,Invoice,5,0
+CH02401,49,41.98,1956.05,Basic,West,2,AutoPay,999,0
+CH02402,7,128.59,893.43,Premium,Northwest,1,Bank Transfer,3,0
+CH02403,7,74.9,473.25,Standard,Mountain,3,Invoice,5,0
+CH02404,70,46.82,3089.47,Basic,Southwest,2,Invoice,5,0
+CH02405,68,58.33,3570.9,Basic,Mountain,0,Invoice,4,0
+CH02406,53,86.64,4464.22,Standard,Northwest,0,AutoPay,3,0
+CH02407,60,54.88,3196.16,Basic,Northwest,1,Invoice,4,0
+CH02408,70,77.67,5181.49,Standard,Southwest,2,Bank Transfer,3,0
+CH02409,56,78.63,4515.42,Standard,West,2,Bank Transfer,4,0
+CH02410,66,38.27,2315.7,Basic,Northwest,3,Invoice,3,0
+CH02411,26,72.8,1782.71,Standard,Mountain,1,AutoPay,4,0
+CH02412,42,32.69,1396.36,Basic,Mountain,0,Bank Transfer,4,0
+CH02413,26,43.84,1115.61,Basic,Northwest,2,Invoice,3,0
+CH02414,21,73.77,1625.62,Standard,Mountain,1,Invoice,5,0
+CH02415,29,84.91,2463.48,Standard,West,3,AutoPay,3,0
+CH02416,33,77.47,2452.02,Standard,Southwest,1,Bank Transfer,5,0
+CH02417,63,109.02,6649.99,Premium,Northwest,1,Credit Card,4,0
+CH02418,32,43.34,1435.54,Basic,Mountain,2,Invoice,3,0
+CH02419,17,116.89,2074.75,Premium,West,2,Invoice,3,0
+CH02420,25,43.96,1012.95,Basic,Northwest,0,Credit Card,4,0
+CH02421,22,88.07,1898.93,Standard,Northwest,2,Credit Card,4,1
+CH02422,44,83.12,3442.62,Standard,West,2,AutoPay,3,0
+CH02423,4,48.12,174.96,Basic,West,3,Credit Card,5,1
+CH02424,26,49.74,1234.48,Basic,Northwest,0,AutoPay,2,1
+CH02425,13,64.05,792.8,Standard,Southwest,3,AutoPay,4,0
+CH02426,35,48.55,1705.08,Basic,Mountain,1,Credit Card,5,0
+CH02427,10,53.03,479.72,Basic,Northwest,1,Invoice,3,0
+CH02428,49,35.98,1796.36,Basic,Northwest,0,Bank Transfer,4,1
+CH02429,67,77.0,4815.92,Standard,Mountain,2,AutoPay,4,0
+CH02430,13,62.15,756.43,Standard,Mountain,0,AutoPay,4,0
+CH02431,14,56.69,755.06,Basic,West,1,Invoice,3,1
+CH02432,63,130.61,7832.1,Premium,Mountain,3,Bank Transfer,5,0
+CH02433,21,68.7,1377.22,Basic,Northwest,4,AutoPay,2,0
+CH02434,15,75.37,1017.8,Standard,West,2,AutoPay,5,0
+CH02435,48,73.83,3391.59,Standard,West,1,Bank Transfer,4,0
+CH02436,38,73.32,2565.59,Standard,Mountain,2,AutoPay,2,0
+CH02437,14,31.29,444.88,Basic,Mountain,4,Credit Card,2,1
+CH02438,23,48.31,1079.62,Basic,West,3,AutoPay,5,1
+CH02439,54,84.95,4174.14,Standard,Southwest,1,Credit Card,4,0
+CH02440,2,40.64,79.92,Basic,West,1,AutoPay,4,0
+CH02441,29,93.32,2683.11,Standard,Northwest,0,AutoPay,4,0
+CH02442,8,55.19,440.59,Basic,West,2,AutoPay,3,0
+CH02443,62,48.86,3149.17,Basic,Mountain,2,AutoPay,4,0
+CH02444,20,87.43,1816.88,Standard,Northwest,1,AutoPay,4,0
+CH02445,23,70.54,1489.72,Standard,Northwest,2,Bank Transfer,4,0
+CH02446,61,68.71,4364.97,Standard,Northwest,2,Invoice,4,0
+CH02447,8,50.35,371.17,Basic,West,1,Credit Card,2,0
+CH02448,9,123.33,1054.45,Premium,Mountain,0,Bank Transfer,4,0
+CH02449,33,44.83,1545.29,Basic,Northwest,1,AutoPay,2,1
+CH02450,16,123.54,1998.28,Premium,Southwest,0,Credit Card,3,0
+CH02451,31,81.49,2473.78,Standard,Mountain,1,Credit Card,5,0
+CH02452,39,55.23,2015.51,Basic,West,2,Bank Transfer,4,0
+CH02453,40,49.35,1953.39,Basic,Southwest,0,AutoPay,2,1
+CH02454,32,57.13,1710.45,Basic,West,3,Credit Card,4,0
+CH02455,69,83.74,5390.55,Standard,West,2,Bank Transfer,2,0
+CH02456,4,124.71,491.64,Premium,Northwest,0,Bank Transfer,5,0
+CH02457,70,71.22,4653.87,Standard,Northwest,2,Invoice,4,0
+CH02458,49,90.95,4180.8,Standard,West,1,Invoice,3,0
+CH02459,47,39.9,1694.03,Basic,Mountain,3,Invoice,3,0
+CH02460,13,55.81,733.56,Basic,Southwest,0,AutoPay,4,0
+CH02461,61,52.15,3047.73,Basic,Mountain,1,AutoPay,4,0
+CH02462,30,78.57,2327.77,Standard,Southwest,2,Invoice,4,0
+CH02463,41,86.65,3460.54,Standard,West,0,Bank Transfer,5,1
+CH02464,53,16.4,803.45,Basic,Mountain,2,Invoice,5,0
+CH02465,35,60.49,2003.73,Standard,Northwest,1,Credit Card,2,0
+CH02466,12,41.69,452.53,Basic,Southwest,1,Bank Transfer,4,1
+CH02467,47,72.11,3320.52,Standard,West,2,Bank Transfer,5,0
+CH02468,50,78.62,3767.17,Standard,West,3,Credit Card,4,0
+CH02469,70,108.53,7266.23,Premium,Mountain,0,Credit Card,4,0
+CH02470,42,64.17,2490.62,Basic,Mountain,1,Credit Card,5,0
+CH02471,53,42.8,2128.01,Basic,Mountain,1,Credit Card,4,1
+CH02472,12,79.98,866.59,Standard,West,1,Bank Transfer,2,0
+CH02473,43,116.67,4639.94,Premium,Mountain,3,Bank Transfer,3,0
+CH02474,61,50.76,2985.42,Basic,Southwest,0,Bank Transfer,4,1
+CH02475,66,50.08,3061.42,Basic,Northwest,1,Bank Transfer,3,1
+CH02476,34,43.91,1433.13,Basic,West,1,AutoPay,4,0
+CH02477,51,44.19,2243.12,Basic,Mountain,2,Invoice,4,0
+CH02478,15,63.61,912.02,Basic,Mountain,0,Credit Card,5,0
+CH02479,27,58.29,1541.41,Basic,West,1,AutoPay,5,0
+CH02480,17,60.35,1011.12,Basic,Southwest,0,Invoice,4,0
+CH02481,32,40.22,1227.73,Basic,Northwest,0,Bank Transfer,3,1
+CH02482,10,75.07,776.33,Standard,West,3,Credit Card,4,0
+CH02483,4,54.35,202.81,Standard,West,0,Invoice,3,0
+CH02484,16,58.74,864.08,Standard,Northwest,3,Bank Transfer,2,0
+CH02485,41,28.01,1036.16,Basic,Northwest,1,Invoice,3,1
+CH02486,20,120.77,2189.43,Premium,West,1,Bank Transfer,5,0
+CH02487,43,76.53,3189.75,Standard,Mountain,0,Bank Transfer,3,0
+CH02488,57,109.46,6428.17,Premium,West,2,AutoPay,4,0
+CH02489,17,97.72,1565.09,Standard,Northwest,2,AutoPay,3,1
+CH02490,58,125.42,6862.43,Premium,Mountain,0,Bank Transfer,4,0
+CH02491,57,75.0,4328.23,Standard,Mountain,4,AutoPay,4,0
+CH02492,47,121.4,5305.5,Premium,Northwest,2,Credit Card,4,0
+CH02493,10,49.54,494.11,Basic,West,1,Credit Card,3,0
+CH02494,2,51.71,99.09,Basic,Northwest,3,Credit Card,4,0
+CH02495,20,65.3,1238.38,Basic,West,1,Bank Transfer,3,0
+CH02496,33,48.28,1524.64,Basic,Mountain,1,Bank Transfer,5,0
+CH02497,32,88.26,2811.05,Standard,Southwest,1,Bank Transfer,4,0
+CH02498,34,120.5,4164.82,Premium,Mountain,2,AutoPay,4,0
+CH02499,41,44.17,1885.53,Basic,Southwest,2,Bank Transfer,3,1
+CH02500,4,34.19,130.43,Basic,Mountain,0,Invoice,3,0
+CH00100,63,38.75,2340.58,Basic,Northwest,0,Credit Card,5,0
+CH00400,40,51.9,2114.78,Basic,Mountain,0,Invoice,5,0
+CH00700,10,114.65,1180.22,Premium,Northwest,3,Credit Card,5,0
+CH01000,43,132.95,5279.74,Premium,Northwest,1,Credit Card,3,0
+CH01300,32,73.67,2161.79,Standard,Southwest,1,Bank Transfer,5,0
+CH01600,15,60.54,937.87,Basic,Mountain,0,Bank Transfer,3,1
+CH01900,49,127.83,5847.89,Premium,Northwest,0,Bank Transfer,3,0
+CH02200,33,61.52,2008.97,Basic,West,2,Bank Transfer,4,0
