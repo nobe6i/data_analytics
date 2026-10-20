@@ -1,0 +1,7 @@
+title,url,raw_price,price,raw_rating,rating,raw_availability,available_count,source_page,duplicate_url
+Analyst Notebook,https://example-training-store.com/products/notebook.html,$12.99,12.99,4 stars,4,In stock (22 available),22,page1.html,False
+Wireless Keyboard,https://example-training-store.com/products/keyboard.html,$49.95,49.95,5 stars,5,Only 3 left in stock,3,page1.html,True
+Travel Mug,https://example-training-store.com/products/mug.html,,,3 stars,3,Out of stock,0,page1.html,False
+Financial Calculator,https://example-training-store.com/products/calculator.html,$89.00,89.0,5 stars,5,In stock (7 available),7,page2.html,False
+Laptop Stand,https://example-training-store.com/products/laptop-stand.html,$34.50,34.5,4 stars,4,In stock (15 available),15,page2.html,False
+Wireless Keyboard,https://example-training-store.com/products/keyboard.html,$49.95,49.95,5 stars,5,Only 2 left in stock,2,page2.html,True

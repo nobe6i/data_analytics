@@ -1,0 +1,4 @@
+issue,count,recommended_action
+Missing price,1,Flag and inspect product page; do not invent price
+Duplicate product URL,2,Check whether duplicate is real or pagination artifact
+Invalid rating,0,Inspect rating extraction rule
