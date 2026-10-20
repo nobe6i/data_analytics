@@ -1,0 +1,32 @@
+[
+  {
+    "provider_id": "D201",
+    "provider_name": "Dr. Rivera",
+    "specialty": "Primary Care",
+    "location": "Pleasanton"
+  },
+  {
+    "provider_id": "D202",
+    "provider_name": "Dr. Singh",
+    "specialty": "Cardiology",
+    "location": "Hayward"
+  },
+  {
+    "provider_id": "D203",
+    "provider_name": "Dr. Lee",
+    "specialty": "Endocrinology",
+    "location": "Fremont"
+  },
+  {
+    "provider_id": "D204",
+    "provider_name": "Dr. Nguyen",
+    "specialty": "Primary Care",
+    "location": "Pleasanton"
+  },
+  {
+    "provider_id": "D205",
+    "provider_name": "Dr. Carter",
+    "specialty": "Pediatrics",
+    "location": "Hayward"
+  }
+]
